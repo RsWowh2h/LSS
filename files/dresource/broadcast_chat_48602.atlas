@@ -1,0 +1,321 @@
+
+_alpha_broadcast_chat_48602.pkm
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effectLighting0000
+  rotate: false
+  xy: 2, 2
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0029
+  rotate: false
+  xy: 2, 2
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0001
+  rotate: true
+  xy: 353, 978
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0002
+  rotate: true
+  xy: 353, 628
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0003
+  rotate: true
+  xy: 353, 278
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0004
+  rotate: false
+  xy: 388, 1628
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0005
+  rotate: false
+  xy: 738, 1628
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0006
+  rotate: false
+  xy: 2, 1226
+  size: 349, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0007
+  rotate: false
+  xy: 366, 1526
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0008
+  rotate: false
+  xy: 716, 1526
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0009
+  rotate: false
+  xy: 2, 1124
+  size: 349, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0010
+  rotate: false
+  xy: 2, 1022
+  size: 349, 100
+  orig: 400, 150
+  offset: 25, 25
+  index: -1
+effectLighting0011
+  rotate: false
+  xy: 362, 1424
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0012
+  rotate: false
+  xy: 2, 920
+  size: 349, 100
+  orig: 400, 150
+  offset: 25, 25
+  index: -1
+effectLighting0013
+  rotate: false
+  xy: 712, 1424
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0014
+  rotate: false
+  xy: 1088, 1627
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0015
+  rotate: false
+  xy: 2, 818
+  size: 349, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0016
+  rotate: false
+  xy: 2, 716
+  size: 349, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0017
+  rotate: false
+  xy: 1438, 1627
+  size: 348, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0018
+  rotate: false
+  xy: 2, 614
+  size: 349, 100
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectLighting0019
+  rotate: false
+  xy: 2, 1328
+  size: 350, 100
+  orig: 400, 150
+  offset: 25, 25
+  index: -1
+effectLighting0020
+  rotate: false
+  xy: 1519, 1830
+  size: 350, 99
+  orig: 400, 150
+  offset: 25, 25
+  index: -1
+effectLighting0021
+  rotate: false
+  xy: 2, 512
+  size: 349, 100
+  orig: 400, 150
+  offset: 25, 25
+  index: -1
+effectLighting0022
+  rotate: false
+  xy: 1119, 1729
+  size: 349, 99
+  orig: 400, 150
+  offset: 25, 25
+  index: -1
+effectLighting0023
+  rotate: false
+  xy: 2, 410
+  size: 349, 100
+  orig: 400, 150
+  offset: 25, 25
+  index: -1
+effectLighting0024
+  rotate: false
+  xy: 2, 308
+  size: 349, 100
+  orig: 400, 150
+  offset: 25, 25
+  index: -1
+effectLighting0025
+  rotate: false
+  xy: 2, 206
+  size: 349, 100
+  orig: 400, 150
+  offset: 25, 25
+  index: -1
+effectLighting0026
+  rotate: false
+  xy: 2, 104
+  size: 349, 100
+  orig: 400, 150
+  offset: 25, 25
+  index: -1
+effectLighting0027
+  rotate: false
+  xy: 1470, 1729
+  size: 349, 99
+  orig: 400, 150
+  offset: 25, 25
+  index: -1
+effectLighting0028
+  rotate: false
+  xy: 1066, 1526
+  size: 348, 99
+  orig: 400, 150
+  offset: 26, 25
+  index: -1
+effectStar0000
+  rotate: false
+  xy: 2, 1931
+  size: 400, 99
+  orig: 400, 150
+  offset: 0, 25
+  index: -1
+effectStar0001
+  rotate: false
+  xy: 2, 1729
+  size: 384, 99
+  orig: 400, 150
+  offset: 16, 25
+  index: -1
+effectStar0002
+  rotate: false
+  xy: 1538, 1931
+  size: 359, 99
+  orig: 400, 150
+  offset: 20, 25
+  index: -1
+effectStar0003
+  rotate: false
+  xy: 404, 1830
+  size: 384, 99
+  orig: 400, 150
+  offset: 16, 25
+  index: -1
+effectStar0004
+  rotate: false
+  xy: 806, 1931
+  size: 366, 99
+  orig: 400, 150
+  offset: 17, 25
+  index: -1
+effectStar0005
+  rotate: false
+  xy: 1174, 1931
+  size: 362, 99
+  orig: 400, 150
+  offset: 19, 25
+  index: -1
+effectStar0006
+  rotate: false
+  xy: 756, 1730
+  size: 361, 98
+  orig: 400, 150
+  offset: 19, 25
+  index: -1
+effectStar0007
+  rotate: false
+  xy: 388, 1730
+  size: 366, 98
+  orig: 400, 150
+  offset: 17, 25
+  index: -1
+effectStar0008
+  rotate: false
+  xy: 2, 1529
+  size: 362, 99
+  orig: 400, 150
+  offset: 19, 25
+  index: -1
+effectStar0009
+  rotate: false
+  xy: 2, 1430
+  size: 358, 97
+  orig: 400, 150
+  offset: 21, 26
+  index: -1
+effectStar0010
+  rotate: false
+  xy: 2, 1630
+  size: 368, 97
+  orig: 400, 150
+  offset: 16, 26
+  index: -1
+effectStar0011
+  rotate: false
+  xy: 2, 1830
+  size: 400, 99
+  orig: 400, 150
+  offset: 0, 25
+  index: -1
+effectStar0012
+  rotate: false
+  xy: 790, 1830
+  size: 365, 99
+  orig: 400, 150
+  offset: 17, 25
+  index: -1
+effectStar0013
+  rotate: false
+  xy: 1157, 1830
+  size: 360, 99
+  orig: 400, 150
+  offset: 20, 25
+  index: -1
+effectStar0014
+  rotate: false
+  xy: 404, 1931
+  size: 400, 99
+  orig: 400, 150
+  offset: 0, 25
+  index: -1

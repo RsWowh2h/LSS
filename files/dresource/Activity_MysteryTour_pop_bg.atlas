@@ -1,0 +1,216 @@
+
+_alpha_Activity_MysteryTour_pop_bg.pkm
+size: 1784,943
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiaoa00
+  rotate: true
+  xy: 594, 2
+  size: 294, 315
+  orig: 300, 330
+  offset: 6, 4
+  index: -1
+texiaoa01
+  rotate: false
+  xy: 890, 304
+  size: 294, 315
+  orig: 300, 330
+  offset: 6, 4
+  index: -1
+texiaoa02
+  rotate: false
+  xy: 1186, 307
+  size: 294, 315
+  orig: 300, 330
+  offset: 6, 3
+  index: -1
+texiaoa03
+  rotate: false
+  xy: 1482, 308
+  size: 294, 315
+  orig: 300, 330
+  offset: 6, 3
+  index: -1
+texiaoa04
+  rotate: true
+  xy: 911, 8
+  size: 294, 314
+  orig: 300, 330
+  offset: 6, 4
+  index: -1
+texiaoa05
+  rotate: true
+  xy: 1227, 11
+  size: 294, 314
+  orig: 300, 330
+  offset: 6, 5
+  index: -1
+texiaoa06
+  rotate: false
+  xy: 594, 616
+  size: 293, 325
+  orig: 300, 330
+  offset: 6, 5
+  index: -1
+texiaoa07
+  rotate: false
+  xy: 298, 616
+  size: 294, 325
+  orig: 300, 330
+  offset: 6, 5
+  index: -1
+texiaoa08
+  rotate: false
+  xy: 2, 615
+  size: 294, 326
+  orig: 300, 330
+  offset: 6, 4
+  index: -1
+texiaoa09
+  rotate: false
+  xy: 298, 289
+  size: 294, 325
+  orig: 300, 330
+  offset: 6, 4
+  index: -1
+texiaoa10
+  rotate: false
+  xy: 2, 287
+  size: 294, 326
+  orig: 300, 330
+  offset: 6, 3
+  index: -1
+texiaoa11
+  rotate: false
+  xy: 889, 621
+  size: 294, 320
+  orig: 300, 330
+  offset: 6, 3
+  index: -1
+texiaoa12
+  rotate: false
+  xy: 1481, 625
+  size: 294, 316
+  orig: 300, 330
+  offset: 6, 5
+  index: -1
+texiaoa13
+  rotate: false
+  xy: 1185, 624
+  size: 294, 317
+  orig: 300, 330
+  offset: 6, 3
+  index: -1
+texiaoa14
+  rotate: false
+  xy: 594, 298
+  size: 294, 316
+  orig: 300, 330
+  offset: 6, 4
+  index: -1
+texiaob00
+  rotate: false
+  xy: 115, 80
+  size: 77, 85
+  orig: 150, 150
+  offset: 25, 34
+  index: -1
+texiaob01
+  rotate: false
+  xy: 1642, 2
+  size: 82, 89
+  orig: 150, 150
+  offset: 23, 36
+  index: -1
+texiaob02
+  rotate: false
+  xy: 445, 191
+  size: 93, 96
+  orig: 150, 150
+  offset: 17, 36
+  index: -1
+texiaob03
+  rotate: true
+  xy: 1543, 2
+  size: 95, 97
+  orig: 150, 150
+  offset: 21, 37
+  index: -1
+texiaob04
+  rotate: false
+  xy: 346, 190
+  size: 97, 97
+  orig: 150, 150
+  offset: 27, 39
+  index: -1
+texiaob05
+  rotate: false
+  xy: 346, 102
+  size: 100, 86
+  orig: 150, 150
+  offset: 31, 41
+  index: -1
+texiaob06
+  rotate: false
+  xy: 1543, 99
+  size: 122, 101
+  orig: 150, 150
+  offset: 14, 17
+  index: -1
+texiaob07
+  rotate: false
+  xy: 1543, 202
+  size: 125, 104
+  orig: 150, 150
+  offset: 17, 18
+  index: -1
+texiaob08
+  rotate: true
+  xy: 2, 42
+  size: 123, 111
+  orig: 150, 150
+  offset: 22, 19
+  index: -1
+texiaob09
+  rotate: true
+  xy: 1667, 93
+  size: 96, 115
+  orig: 150, 150
+  offset: 27, 20
+  index: -1
+texiaob10
+  rotate: false
+  xy: 246, 170
+  size: 98, 115
+  orig: 150, 150
+  offset: 30, 21
+  index: -1
+texiaob11
+  rotate: false
+  xy: 2, 167
+  size: 122, 118
+  orig: 150, 150
+  offset: 10, 20
+  index: -1
+texiaob12
+  rotate: false
+  xy: 126, 169
+  size: 118, 116
+  orig: 150, 150
+  offset: 13, 23
+  index: -1
+texiaob13
+  rotate: true
+  xy: 1670, 191
+  size: 115, 105
+  orig: 150, 150
+  offset: 16, 25
+  index: -1
+texiaob14
+  rotate: false
+  xy: 448, 102
+  size: 77, 87
+  orig: 150, 150
+  offset: 20, 27
+  index: -1
