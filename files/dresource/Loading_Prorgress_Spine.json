@@ -1,0 +1,67 @@
+{
+"skeleton": { "hash": "EzpAME8UgKJdEFvq5QhU3ojubDE", "spine": "3.7.94", "width": 200, "height": 200, "images": "./image/", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" }
+],
+"slots": [
+	{ "name": "txa00", "bone": "bone", "attachment": "txa19", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"txa00": {
+			"txa00": { "width": 200, "height": 200 },
+			"txa01": { "width": 200, "height": 200 },
+			"txa02": { "width": 200, "height": 200 },
+			"txa03": { "width": 200, "height": 200 },
+			"txa04": { "width": 200, "height": 200 },
+			"txa05": { "width": 200, "height": 200 },
+			"txa06": { "width": 200, "height": 200 },
+			"txa07": { "width": 200, "height": 200 },
+			"txa08": { "width": 200, "height": 200 },
+			"txa09": { "width": 200, "height": 200 },
+			"txa10": { "width": 200, "height": 200 },
+			"txa11": { "width": 200, "height": 200 },
+			"txa12": { "width": 200, "height": 200 },
+			"txa13": { "width": 200, "height": 200 },
+			"txa14": { "width": 200, "height": 200 },
+			"txa15": { "width": 200, "height": 200 },
+			"txa16": { "width": 200, "height": 200 },
+			"txa17": { "width": 200, "height": 200 },
+			"txa18": { "width": 200, "height": 200 },
+			"txa19": { "width": 200, "height": 200 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"txa00": {
+				"attachment": [
+					{ "time": 0, "name": "txa00" },
+					{ "time": 0.0667, "name": "txa01" },
+					{ "time": 0.1333, "name": "txa02" },
+					{ "time": 0.2, "name": "txa03" },
+					{ "time": 0.2667, "name": "txa04" },
+					{ "time": 0.3333, "name": "txa05" },
+					{ "time": 0.4, "name": "txa06" },
+					{ "time": 0.4667, "name": "txa07" },
+					{ "time": 0.5333, "name": "txa08" },
+					{ "time": 0.6, "name": "txa09" },
+					{ "time": 0.6667, "name": "txa10" },
+					{ "time": 0.7333, "name": "txa11" },
+					{ "time": 0.8, "name": "txa12" },
+					{ "time": 0.8667, "name": "txa13" },
+					{ "time": 0.9333, "name": "txa14" },
+					{ "time": 1, "name": "txa15" },
+					{ "time": 1.0667, "name": "txa16" },
+					{ "time": 1.1333, "name": "txa17" },
+					{ "time": 1.2, "name": "txa18" },
+					{ "time": 1.2667, "name": "txa19" },
+					{ "time": 1.3333, "name": "txa00" }
+				]
+			}
+		}
+	}
+}
+}
