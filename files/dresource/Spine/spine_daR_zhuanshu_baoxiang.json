@@ -1,0 +1,1399 @@
+{
+    "skeleton": {
+        "hash": "U73nC06izTcOgQhpAJkPjiBw/J0",
+        "spine": "3.7.94",
+        "width": 0,
+        "height": 0,
+        "images": "./大R生日专属宝箱特效输出/daR_zhuanshu_baoxiang/",
+        "audio": ""
+    },
+    "bones": [
+        {
+            "name": "root"
+        },
+        {
+            "name": "xialuo",
+            "parent": "root",
+            "length": 116.48,
+            "scaleX": 2,
+            "scaleY": 2
+        },
+        {
+            "name": "daiji",
+            "parent": "root",
+            "length": 124.04
+        },
+        {
+            "name": "daijiAdd",
+            "parent": "daiji",
+            "length": 150.34,
+            "scaleX": 2,
+            "scaleY": 2
+        },
+        {
+            "name": "dakai",
+            "parent": "root",
+            "length": 76.7
+        },
+        {
+            "name": "dakai_Add",
+            "parent": "dakai",
+            "length": 66.5,
+            "scaleX": 2,
+            "scaleY": 2
+        }
+    ],
+    "slots": [
+        {
+            "name": "daRshengri_zhuanshu_baoxiang_xialuoBlend00",
+            "bone": "xialuo"
+        },
+        {
+            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd0",
+            "bone": "xialuo",
+            "blend": "additive"
+        },
+        {
+            "name": "idle0012",
+            "bone": "daiji"
+        },
+        {
+            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd12",
+            "bone": "daijiAdd",
+            "blend": "additive"
+        },
+        {
+            "name": "open0043",
+            "bone": "dakai"
+        },
+        {
+            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd103",
+            "bone": "dakai_Add",
+            "blend": "additive"
+        }
+    ],
+    "skins": {
+        "default": {
+            "daRshengri_zhuanshu_baoxiang_daijiAdd12": {
+                "daRshengri_zhuanshu_baoxiang_daijiAdd12": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd14": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd16": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd18": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd20": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd22": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd24": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd26": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd28": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd30": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd32": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd34": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd36": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd38": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd40": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_daijiAdd42": {
+                    "width": 822,
+                    "height": 928
+                }
+            },
+            "daRshengri_zhuanshu_baoxiang_kaiqiAdd103": {
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd43": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd47": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd51": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd55": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd59": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd63": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd67": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd71": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd75": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd79": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd83": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd87": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd91": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd95": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd99": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd103": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd107": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd111": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd115": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd119": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd123": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd127": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd131": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd135": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd139": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd143": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd147": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd151": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd155": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd159": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd163": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd167": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd171": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd175": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd179": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd183": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd187": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd191": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd195": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd199": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd203": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd207": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd211": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd215": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd219": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd223": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd227": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd231": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd235": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd239": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd243": {
+                    "width": 822,
+                    "height": 928
+                }
+            },
+            "daRshengri_zhuanshu_baoxiang_xialuoAdd0": {
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd00": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd02": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd04": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd06": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd08": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd10": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd12": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd14": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd16": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd18": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd20": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd22": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd24": {
+                    "width": 822,
+                    "height": 928
+                }
+            },
+            "daRshengri_zhuanshu_baoxiang_xialuoBlend00": {
+                "daRshengri_zhuanshu_baoxiang_xialuoBlend00": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoBlend02": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoBlend04": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoBlend06": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoBlend08": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoBlend10": {
+                    "width": 822,
+                    "height": 928
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoBlend12": {
+                    "width": 822,
+                    "height": 928
+                }
+            },
+            "idle0012": {
+                "idle0012": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0014": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0016": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0018": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0020": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0022": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0024": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0026": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0028": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0030": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0032": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0034": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0036": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0038": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0040": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "idle0042": {
+                    "width": 1644,
+                    "height": 1856
+                }
+            },
+            "open0043": {
+                "open0043": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0047": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0051": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0055": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0059": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0063": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0067": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0071": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0075": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0079": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0083": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0087": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0091": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0095": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0099": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0103": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0107": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0111": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0115": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0119": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0123": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0127": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0131": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0135": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0139": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0143": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0147": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0151": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0155": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0159": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0163": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0167": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0171": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0175": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0179": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0181": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0183": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0185": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "open0187": {
+                    "width": 1644,
+                    "height": 1856
+                },
+                "xiangzi_dakai_danzhen": {
+                    "width": 1644,
+                    "height": 1856
+                }
+            }
+        }
+    },
+    "animations": {
+        "daiji": {
+            "slots": {
+                "daRshengri_zhuanshu_baoxiang_daijiAdd12": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd12"
+                        },
+                        {
+                            "time": 0.1247,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd14"
+                        },
+                        {
+                            "time": 0.2493,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd16"
+                        },
+                        {
+                            "time": 0.374,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd18"
+                        },
+                        {
+                            "time": 0.4986,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd20"
+                        },
+                        {
+                            "time": 0.6233,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd22"
+                        },
+                        {
+                            "time": 0.7479,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd24"
+                        },
+                        {
+                            "time": 0.8726,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd26"
+                        },
+                        {
+                            "time": 0.9973,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd28"
+                        },
+                        {
+                            "time": 1.1219,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd30"
+                        },
+                        {
+                            "time": 1.2466,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd32"
+                        },
+                        {
+                            "time": 1.3712,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd34"
+                        },
+                        {
+                            "time": 1.4959,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd36"
+                        },
+                        {
+                            "time": 1.6205,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd38"
+                        },
+                        {
+                            "time": 1.7452,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd40"
+                        },
+                        {
+                            "time": 1.8699,
+                            "name": "daRshengri_zhuanshu_baoxiang_daijiAdd42"
+                        },
+                        {
+                            "time": 1.8948,
+                            "name": null
+                        }
+                    ]
+                },
+                "idle0012": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "idle0012"
+                        },
+                        {
+                            "time": 0.1247,
+                            "name": "idle0014"
+                        },
+                        {
+                            "time": 0.2493,
+                            "name": "idle0016"
+                        },
+                        {
+                            "time": 0.374,
+                            "name": "idle0018"
+                        },
+                        {
+                            "time": 0.4986,
+                            "name": "idle0020"
+                        },
+                        {
+                            "time": 0.6233,
+                            "name": "idle0022"
+                        },
+                        {
+                            "time": 0.7479,
+                            "name": "idle0024"
+                        },
+                        {
+                            "time": 0.8726,
+                            "name": "idle0026"
+                        },
+                        {
+                            "time": 0.9973,
+                            "name": "idle0028"
+                        },
+                        {
+                            "time": 1.1219,
+                            "name": "idle0030"
+                        },
+                        {
+                            "time": 1.2466,
+                            "name": "idle0032"
+                        },
+                        {
+                            "time": 1.3712,
+                            "name": "idle0034"
+                        },
+                        {
+                            "time": 1.4959,
+                            "name": "idle0036"
+                        },
+                        {
+                            "time": 1.6205,
+                            "name": "idle0038"
+                        },
+                        {
+                            "time": 1.7452,
+                            "name": "idle0040"
+                        },
+                        {
+                            "time": 1.8699,
+                            "name": "idle0042"
+                        },
+                        {
+                            "time": 1.8948,
+                            "name": null
+                        }
+                    ]
+                }
+            },
+            "bones": {
+                "daiji": {
+                    "rotate": [
+                        {
+                            "time": 0,
+                            "angle": 0
+                        }
+                    ],
+                    "translate": [
+                        {
+                            "time": 0,
+                            "x": 0,
+                            "y": 0
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ],
+                    "shear": [
+                        {
+                            "time": 0,
+                            "x": 0,
+                            "y": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "dakai": {
+            "slots": {
+                "daRshengri_zhuanshu_baoxiang_kaiqiAdd103": {
+                    "color": [
+                        {
+                            "time": 6.622,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.4167,
+                            "color": "ffffff00"
+                        }
+                    ],
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd43"
+                        },
+                        {
+                            "time": 0.1324,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd47"
+                        },
+                        {
+                            "time": 0.2649,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd51"
+                        },
+                        {
+                            "time": 0.3973,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd55"
+                        },
+                        {
+                            "time": 0.5298,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd59"
+                        },
+                        {
+                            "time": 0.6622,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd63"
+                        },
+                        {
+                            "time": 0.7946,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd67"
+                        },
+                        {
+                            "time": 0.9271,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd71"
+                        },
+                        {
+                            "time": 1.0595,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd75"
+                        },
+                        {
+                            "time": 1.192,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd79"
+                        },
+                        {
+                            "time": 1.3244,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd83"
+                        },
+                        {
+                            "time": 1.4568,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd87"
+                        },
+                        {
+                            "time": 1.5893,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd91"
+                        },
+                        {
+                            "time": 1.7217,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd95"
+                        },
+                        {
+                            "time": 1.8542,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd99"
+                        },
+                        {
+                            "time": 1.9866,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd103"
+                        },
+                        {
+                            "time": 2.119,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd107"
+                        },
+                        {
+                            "time": 2.2515,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd111"
+                        },
+                        {
+                            "time": 2.3839,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd115"
+                        },
+                        {
+                            "time": 2.5164,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd119"
+                        },
+                        {
+                            "time": 2.6488,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd123"
+                        },
+                        {
+                            "time": 2.7813,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd127"
+                        },
+                        {
+                            "time": 2.9137,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd131"
+                        },
+                        {
+                            "time": 3.0461,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd135"
+                        },
+                        {
+                            "time": 3.1786,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd139"
+                        },
+                        {
+                            "time": 3.311,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd143"
+                        },
+                        {
+                            "time": 3.4435,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd147"
+                        },
+                        {
+                            "time": 3.5759,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd151"
+                        },
+                        {
+                            "time": 3.7083,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd155"
+                        },
+                        {
+                            "time": 3.8408,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd159"
+                        },
+                        {
+                            "time": 3.9732,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd163"
+                        },
+                        {
+                            "time": 4.1057,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd167"
+                        },
+                        {
+                            "time": 4.2381,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd171"
+                        },
+                        {
+                            "time": 4.3705,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd175"
+                        },
+                        {
+                            "time": 4.503,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd179"
+                        },
+                        {
+                            "time": 4.6354,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd183"
+                        },
+                        {
+                            "time": 4.7679,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd187"
+                        },
+                        {
+                            "time": 4.9,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd191"
+                        },
+                        {
+                            "time": 5.0327,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd195"
+                        },
+                        {
+                            "time": 5.1652,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd199"
+                        },
+                        {
+                            "time": 5.2976,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd203"
+                        },
+                        {
+                            "time": 5.4301,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd207"
+                        },
+                        {
+                            "time": 5.5625,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd211"
+                        },
+                        {
+                            "time": 5.6949,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd215"
+                        },
+                        {
+                            "time": 5.8274,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd219"
+                        },
+                        {
+                            "time": 5.9598,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd223"
+                        },
+                        {
+                            "time": 6.0923,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd227"
+                        },
+                        {
+                            "time": 6.2247,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd231"
+                        },
+                        {
+                            "time": 6.3571,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd235"
+                        },
+                        {
+                            "time": 6.4896,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd239"
+                        },
+                        {
+                            "time": 6.622,
+                            "name": "daRshengri_zhuanshu_baoxiang_kaiqiAdd243"
+                        }
+                    ]
+                },
+                "open0043": {
+                    "color": [
+                        {
+                            "time": 7.1253,
+                            "color": "ffffffff"
+                        },
+                        {
+                            "time": 7.7875,
+                            "color": "ffffff00"
+                        }
+                    ],
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "open0043"
+                        },
+                        {
+                            "time": 0.1324,
+                            "name": "open0047"
+                        },
+                        {
+                            "time": 0.2649,
+                            "name": "open0051"
+                        },
+                        {
+                            "time": 0.3973,
+                            "name": "open0055"
+                        },
+                        {
+                            "time": 0.5298,
+                            "name": "open0059"
+                        },
+                        {
+                            "time": 0.6622,
+                            "name": "open0063"
+                        },
+                        {
+                            "time": 0.7946,
+                            "name": "open0067"
+                        },
+                        {
+                            "time": 0.9271,
+                            "name": "open0071"
+                        },
+                        {
+                            "time": 1.0595,
+                            "name": "open0075"
+                        },
+                        {
+                            "time": 1.192,
+                            "name": "open0079"
+                        },
+                        {
+                            "time": 1.3244,
+                            "name": "open0083"
+                        },
+                        {
+                            "time": 1.4568,
+                            "name": "open0087"
+                        },
+                        {
+                            "time": 1.5893,
+                            "name": "open0091"
+                        },
+                        {
+                            "time": 1.7217,
+                            "name": "open0095"
+                        },
+                        {
+                            "time": 1.8542,
+                            "name": "open0099"
+                        },
+                        {
+                            "time": 1.9866,
+                            "name": "open0103"
+                        },
+                        {
+                            "time": 2.119,
+                            "name": "open0107"
+                        },
+                        {
+                            "time": 2.2515,
+                            "name": "open0111"
+                        },
+                        {
+                            "time": 2.3839,
+                            "name": "open0115"
+                        },
+                        {
+                            "time": 2.5164,
+                            "name": "open0119"
+                        },
+                        {
+                            "time": 2.6488,
+                            "name": "open0123"
+                        },
+                        {
+                            "time": 2.7813,
+                            "name": "open0127"
+                        },
+                        {
+                            "time": 2.9137,
+                            "name": "open0131"
+                        },
+                        {
+                            "time": 3.0461,
+                            "name": "open0135"
+                        },
+                        {
+                            "time": 3.1786,
+                            "name": "open0139"
+                        },
+                        {
+                            "time": 3.311,
+                            "name": "open0143"
+                        },
+                        {
+                            "time": 3.4435,
+                            "name": "open0147"
+                        },
+                        {
+                            "time": 3.5759,
+                            "name": "open0151"
+                        },
+                        {
+                            "time": 3.7083,
+                            "name": "open0155"
+                        },
+                        {
+                            "time": 3.8408,
+                            "name": "open0159"
+                        },
+                        {
+                            "time": 3.9732,
+                            "name": "open0163"
+                        },
+                        {
+                            "time": 4.1057,
+                            "name": "open0167"
+                        },
+                        {
+                            "time": 4.2381,
+                            "name": "open0171"
+                        },
+                        {
+                            "time": 4.3705,
+                            "name": "open0175"
+                        },
+                        {
+                            "time": 4.503,
+                            "name": "open0179"
+                        },
+                        {
+                            "time": 4.6354,
+                            "name": "xiangzi_dakai_danzhen"
+                        },
+                        {
+                            "time": 4.7679,
+                            "name": "xiangzi_dakai_danzhen"
+                        },
+                        {
+                            "time": 4.9,
+                            "name": "xiangzi_dakai_danzhen"
+                        },
+                        {
+                            "time": 5.0327,
+                            "name": "xiangzi_dakai_danzhen"
+                        },
+                        {
+                            "time": 5.1652,
+                            "name": "xiangzi_dakai_danzhen"
+                        },
+                        {
+                            "time": 7.814,
+                            "name": null
+                        }
+                    ]
+                }
+            },
+            "bones": {
+                "dakai_Add": {
+                    "rotate": [
+                        {
+                            "time": 0,
+                            "angle": 0
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ],
+                    "shear": [
+                        {
+                            "time": 0,
+                            "x": 0,
+                            "y": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "xialuo": {
+            "slots": {
+                "daRshengri_zhuanshu_baoxiang_xialuoAdd0": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd00"
+                        },
+                        {
+                            "time": 0.1073,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd02"
+                        },
+                        {
+                            "time": 0.2146,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd04"
+                        },
+                        {
+                            "time": 0.3218,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd06"
+                        },
+                        {
+                            "time": 0.4291,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd08"
+                        },
+                        {
+                            "time": 0.5364,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd10"
+                        },
+                        {
+                            "time": 0.6437,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd12"
+                        },
+                        {
+                            "time": 0.751,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd14"
+                        },
+                        {
+                            "time": 0.8582,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd16"
+                        },
+                        {
+                            "time": 0.9655,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd18"
+                        },
+                        {
+                            "time": 1.0728,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd20"
+                        },
+                        {
+                            "time": 1.1801,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd22"
+                        },
+                        {
+                            "time": 1.2874,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoAdd24"
+                        },
+                        {
+                            "time": 1.3088,
+                            "name": null
+                        }
+                    ]
+                },
+                "daRshengri_zhuanshu_baoxiang_xialuoBlend00": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoBlend00"
+                        },
+                        {
+                            "time": 0.1073,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoBlend02"
+                        },
+                        {
+                            "time": 0.2146,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoBlend04"
+                        },
+                        {
+                            "time": 0.3218,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoBlend06"
+                        },
+                        {
+                            "time": 0.4291,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoBlend08"
+                        },
+                        {
+                            "time": 0.5364,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoBlend10"
+                        },
+                        {
+                            "time": 0.6437,
+                            "name": "daRshengri_zhuanshu_baoxiang_xialuoBlend12"
+                        },
+                        {
+                            "time": 0.6651,
+                            "name": null
+                        }
+                    ]
+                }
+            },
+            "bones": {
+                "xialuo": {
+                    "rotate": [
+                        {
+                            "time": 0,
+                            "angle": 0
+                        }
+                    ],
+                    "translate": [
+                        {
+                            "time": 0,
+                            "x": 0,
+                            "y": 0
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ],
+                    "shear": [
+                        {
+                            "time": 0,
+                            "x": 0,
+                            "y": 0
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+_alpha_spine_daR_zhuanshu_baoxiang.pkm
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daRshengri_zhuanshu_baoxiang_xialuoBlend08
+  rotate: true
+  xy: 2, 830
+  size: 826, 932
+  orig: 826, 932
+  offset: 0, 0
+  index: -1
+daRshengri_zhuanshu_baoxiang_xialuoBlend06
+  rotate: true
+  xy: 936, 830
+  size: 826, 932
+  orig: 826, 932
+  offset: 0, 0
+  index: -1
+daRshengri_zhuanshu_baoxiang_xialuoBlend10
+  rotate: true
+  xy: 936, 2
+  size: 826, 932
+  orig: 826, 932
+  offset: 0, 0
+  index: -1
+daRshengri_zhuanshu_baoxiang_xialuoBlend12
+  rotate: true
+  xy: 2, 2
+  size: 826, 932
+  orig: 826, 932
+  offset: 0, 0
+  index: -1

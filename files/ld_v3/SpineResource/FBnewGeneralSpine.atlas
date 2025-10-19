@@ -1,0 +1,41 @@
+
+FBnewGeneralSpine.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zslb_ditu
+  rotate: false
+  xy: 2, 2
+  size: 115, 105
+  orig: 115, 105
+  offset: 0, 0
+  index: -1
+zslb_xiangzi1
+  rotate: false
+  xy: 119, 2
+  size: 115, 105
+  orig: 115, 105
+  offset: 0, 0
+  index: -1
+zslb_xiangzi2
+  rotate: false
+  xy: 236, 2
+  size: 115, 105
+  orig: 115, 105
+  offset: 0, 0
+  index: -1
+zslb_xiangzi3
+  rotate: false
+  xy: 353, 2
+  size: 115, 105
+  orig: 115, 105
+  offset: 0, 0
+  index: -1
+zslb_zuanshi
+  rotate: false
+  xy: 470, 2
+  size: 115, 105
+  orig: 115, 105
+  offset: 0, 0
+  index: -1

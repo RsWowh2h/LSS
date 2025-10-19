@@ -1,0 +1,146 @@
+
+_alpha_Loading_Prorgress_Spine.pkm
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+txa00
+  rotate: false
+  xy: 421, 331
+  size: 89, 80
+  orig: 200, 200
+  offset: 57, 68
+  index: -1
+txa01
+  rotate: true
+  xy: 421, 247
+  size: 82, 88
+  orig: 200, 200
+  offset: 64, 67
+  index: -1
+txa02
+  rotate: false
+  xy: 299, 218
+  size: 87, 91
+  orig: 200, 200
+  offset: 60, 68
+  index: -1
+txa03
+  rotate: true
+  xy: 191, 31
+  size: 87, 92
+  orig: 200, 200
+  offset: 60, 67
+  index: -1
+txa04
+  rotate: true
+  xy: 96, 38
+  size: 91, 93
+  orig: 200, 200
+  offset: 56, 65
+  index: -1
+txa05
+  rotate: false
+  xy: 201, 214
+  size: 96, 95
+  orig: 200, 200
+  offset: 51, 66
+  index: -1
+txa06
+  rotate: false
+  xy: 317, 316
+  size: 102, 92
+  orig: 200, 200
+  offset: 45, 67
+  index: -1
+txa07
+  rotate: true
+  xy: 2, 296
+  size: 106, 97
+  orig: 200, 200
+  offset: 41, 64
+  index: -1
+txa08
+  rotate: true
+  xy: 2, 186
+  size: 108, 93
+  orig: 200, 200
+  offset: 39, 66
+  index: -1
+txa09
+  rotate: true
+  xy: 2, 78
+  size: 106, 92
+  orig: 200, 200
+  offset: 40, 64
+  index: -1
+txa10
+  rotate: false
+  xy: 106, 410
+  size: 105, 98
+  orig: 200, 200
+  offset: 40, 63
+  index: -1
+txa11
+  rotate: false
+  xy: 2, 404
+  size: 102, 104
+  orig: 200, 200
+  offset: 40, 63
+  index: -1
+txa12
+  rotate: true
+  xy: 213, 409
+  size: 99, 102
+  orig: 200, 200
+  offset: 41, 64
+  index: -1
+txa13
+  rotate: true
+  xy: 317, 410
+  size: 98, 102
+  orig: 200, 200
+  offset: 42, 66
+  index: -1
+txa14
+  rotate: false
+  xy: 106, 313
+  size: 98, 95
+  orig: 200, 200
+  offset: 43, 70
+  index: -1
+txa15
+  rotate: false
+  xy: 206, 311
+  size: 98, 96
+  orig: 200, 200
+  offset: 44, 66
+  index: -1
+txa16
+  rotate: false
+  xy: 101, 224
+  size: 98, 87
+  orig: 200, 200
+  offset: 45, 74
+  index: -1
+txa17
+  rotate: false
+  xy: 97, 131
+  size: 96, 91
+  orig: 200, 200
+  offset: 47, 71
+  index: -1
+txa18
+  rotate: false
+  xy: 195, 120
+  size: 96, 92
+  orig: 200, 200
+  offset: 49, 69
+  index: -1
+txa19
+  rotate: true
+  xy: 421, 413
+  size: 95, 89
+  orig: 200, 200
+  offset: 51, 69
+  index: -1

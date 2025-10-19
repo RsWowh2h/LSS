@@ -1,0 +1,153 @@
+
+_alpha_Loading2024celebrationProgress.pkm
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiqiu01
+  rotate: false
+  xy: 634, 54
+  size: 60, 77
+  orig: 60, 79
+  offset: 0, 2
+  index: -1
+tuowei00
+  rotate: false
+  xy: 1712, 31
+  size: 141, 108
+  orig: 450, 200
+  offset: 80, 45
+  index: -1
+tuowei01
+  rotate: false
+  xy: 966, 137
+  size: 151, 117
+  orig: 450, 200
+  offset: 76, 44
+  index: -1
+tuowei02
+  rotate: false
+  xy: 1417, 144
+  size: 148, 110
+  orig: 450, 200
+  offset: 84, 53
+  index: -1
+tuowei03
+  rotate: false
+  xy: 1417, 26
+  size: 134, 116
+  orig: 450, 200
+  offset: 95, 49
+  index: -1
+tuowei04
+  rotate: false
+  xy: 329, 2
+  size: 137, 129
+  orig: 450, 200
+  offset: 94, 38
+  index: -1
+tuowei05
+  rotate: true
+  xy: 1553, 2
+  size: 132, 123
+  orig: 450, 200
+  offset: 94, 37
+  index: -1
+tuowei06
+  rotate: false
+  xy: 468, 17
+  size: 164, 114
+  orig: 450, 200
+  offset: 88, 41
+  index: -1
+tuowei07
+  rotate: false
+  xy: 329, 133
+  size: 160, 121
+  orig: 450, 200
+  offset: 89, 39
+  index: -1
+tuowei08
+  rotate: false
+  xy: 651, 134
+  size: 156, 120
+  orig: 450, 200
+  offset: 91, 38
+  index: -1
+tuowei09
+  rotate: false
+  xy: 1267, 140
+  size: 148, 114
+  orig: 450, 200
+  offset: 98, 38
+  index: -1
+tuowei10
+  rotate: false
+  xy: 1119, 137
+  size: 146, 117
+  orig: 450, 200
+  offset: 96, 42
+  index: -1
+tuowei11
+  rotate: false
+  xy: 809, 137
+  size: 155, 117
+  orig: 450, 200
+  offset: 92, 41
+  index: -1
+tuowei12
+  rotate: false
+  xy: 2, 2
+  size: 158, 124
+  orig: 450, 200
+  offset: 91, 39
+  index: -1
+tuowei13
+  rotate: false
+  xy: 167, 128
+  size: 160, 126
+  orig: 450, 200
+  offset: 87, 39
+  index: -1
+tuowei14
+  rotate: false
+  xy: 491, 133
+  size: 158, 121
+  orig: 450, 200
+  offset: 85, 43
+  index: -1
+tuowei15
+  rotate: false
+  xy: 162, 6
+  size: 144, 120
+  orig: 450, 200
+  offset: 86, 38
+  index: -1
+tuowei16
+  rotate: false
+  xy: 2, 129
+  size: 163, 125
+  orig: 450, 200
+  offset: 85, 38
+  index: -1
+tuowei17
+  rotate: false
+  xy: 1856, 143
+  size: 142, 111
+  orig: 450, 200
+  offset: 90, 38
+  index: -1
+tuowei18
+  rotate: false
+  xy: 1712, 141
+  size: 142, 113
+  orig: 450, 200
+  offset: 86, 37
+  index: -1
+tuowei19
+  rotate: false
+  xy: 1567, 136
+  size: 143, 118
+  orig: 450, 200
+  offset: 82, 37
+  index: -1

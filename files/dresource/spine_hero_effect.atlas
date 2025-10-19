@@ -1,0 +1,426 @@
+
+_alpha_spine_hero_effect.pkm
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfxAdd0000
+  rotate: false
+  xy: 2, 3
+  size: 68, 64
+  orig: 100, 100
+  offset: 16, 15
+  index: -1
+vfxAdd0001
+  rotate: false
+  xy: 166, 671
+  size: 72, 74
+  orig: 100, 100
+  offset: 16, 13
+  index: -1
+vfxAdd0002
+  rotate: false
+  xy: 254, 672
+  size: 79, 76
+  orig: 100, 100
+  offset: 11, 12
+  index: -1
+vfxAdd0003
+  rotate: true
+  xy: 511, 600
+  size: 81, 77
+  orig: 100, 100
+  offset: 10, 12
+  index: -1
+vfxAdd0004
+  rotate: false
+  xy: 604, 685
+  size: 83, 79
+  orig: 100, 100
+  offset: 9, 11
+  index: -1
+vfxAdd0005
+  rotate: false
+  xy: 872, 774
+  size: 83, 80
+  orig: 100, 100
+  offset: 9, 10
+  index: -1
+vfxAdd0006
+  rotate: true
+  xy: 605, 854
+  size: 84, 81
+  orig: 100, 100
+  offset: 8, 9
+  index: -1
+vfxAdd0007
+  rotate: false
+  xy: 427, 763
+  size: 85, 82
+  orig: 100, 100
+  offset: 8, 9
+  index: -1
+vfxAdd0008
+  rotate: true
+  xy: 604, 766
+  size: 86, 82
+  orig: 100, 100
+  offset: 7, 9
+  index: -1
+vfxAdd0009
+  rotate: false
+  xy: 867, 856
+  size: 86, 83
+  orig: 100, 100
+  offset: 7, 8
+  index: -1
+vfxAdd0010
+  rotate: false
+  xy: 778, 855
+  size: 87, 84
+  orig: 100, 100
+  offset: 7, 8
+  index: -1
+vfxAdd0011
+  rotate: false
+  xy: 514, 768
+  size: 88, 84
+  orig: 100, 100
+  offset: 6, 8
+  index: -1
+vfxAdd0012
+  rotate: false
+  xy: 688, 855
+  size: 88, 84
+  orig: 100, 100
+  offset: 6, 8
+  index: -1
+vfxAdd0013
+  rotate: false
+  xy: 514, 854
+  size: 89, 84
+  orig: 100, 100
+  offset: 5, 8
+  index: -1
+vfxAdd0014
+  rotate: false
+  xy: 335, 852
+  size: 90, 85
+  orig: 100, 100
+  offset: 5, 8
+  index: -1
+vfxAdd0015
+  rotate: false
+  xy: 335, 765
+  size: 90, 85
+  orig: 100, 100
+  offset: 5, 8
+  index: -1
+vfxAdd0016
+  rotate: true
+  xy: 427, 847
+  size: 90, 85
+  orig: 100, 100
+  offset: 5, 8
+  index: -1
+vfxAdd0017
+  rotate: false
+  xy: 2, 935
+  size: 91, 85
+  orig: 100, 100
+  offset: 5, 8
+  index: -1
+vfxAdd0018
+  rotate: true
+  xy: 87, 748
+  size: 91, 84
+  orig: 100, 100
+  offset: 5, 9
+  index: -1
+vfxAdd0019
+  rotate: true
+  xy: 2, 841
+  size: 92, 84
+  orig: 100, 100
+  offset: 5, 9
+  index: -1
+vfxAdd0020
+  rotate: true
+  xy: 88, 841
+  size: 92, 83
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+vfxAdd0021
+  rotate: false
+  xy: 95, 937
+  size: 93, 83
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+vfxAdd0022
+  rotate: true
+  xy: 2, 746
+  size: 93, 83
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+vfxAdd0023
+  rotate: false
+  xy: 190, 938
+  size: 94, 82
+  orig: 100, 100
+  offset: 5, 11
+  index: -1
+vfxAdd0024
+  rotate: true
+  xy: 2, 650
+  size: 94, 82
+  orig: 100, 100
+  offset: 5, 11
+  index: -1
+vfxAdd0025
+  rotate: false
+  xy: 383, 939
+  size: 94, 81
+  orig: 100, 100
+  offset: 5, 12
+  index: -1
+vfxAdd0026
+  rotate: false
+  xy: 286, 939
+  size: 95, 81
+  orig: 100, 100
+  offset: 5, 12
+  index: -1
+vfxAdd0027
+  rotate: true
+  xy: 2, 553
+  size: 95, 81
+  orig: 100, 100
+  offset: 5, 12
+  index: -1
+vfxAdd0028
+  rotate: true
+  xy: 2, 456
+  size: 95, 80
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+vfxAdd0029
+  rotate: false
+  xy: 479, 940
+  size: 95, 80
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+vfxAdd0030
+  rotate: true
+  xy: 2, 359
+  size: 95, 80
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+vfxAdd0031
+  rotate: false
+  xy: 576, 940
+  size: 95, 80
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+vfxAdd0032
+  rotate: true
+  xy: 2, 262
+  size: 95, 79
+  orig: 100, 100
+  offset: 5, 14
+  index: -1
+vfxAdd0033
+  rotate: false
+  xy: 673, 941
+  size: 95, 79
+  orig: 100, 100
+  offset: 5, 14
+  index: -1
+vfxAdd0034
+  rotate: true
+  xy: 2, 165
+  size: 95, 79
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+vfxAdd0035
+  rotate: false
+  xy: 770, 941
+  size: 94, 79
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+vfxAdd0036
+  rotate: true
+  xy: 2, 69
+  size: 94, 79
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+vfxAdd0037
+  rotate: false
+  xy: 866, 941
+  size: 94, 79
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+vfxAdd0038
+  rotate: true
+  xy: 173, 842
+  size: 93, 79
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+vfxAdd0039
+  rotate: true
+  xy: 173, 747
+  size: 93, 79
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+vfxAdd0040
+  rotate: true
+  xy: 254, 844
+  size: 92, 79
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+vfxAdd0041
+  rotate: true
+  xy: 254, 750
+  size: 92, 79
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+vfxAdd0042
+  rotate: false
+  xy: 688, 774
+  size: 90, 79
+  orig: 100, 100
+  offset: 6, 13
+  index: -1
+vfxAdd0043
+  rotate: false
+  xy: 780, 774
+  size: 90, 79
+  orig: 100, 100
+  offset: 6, 13
+  index: -1
+vfxAdd0044
+  rotate: false
+  xy: 335, 685
+  size: 90, 78
+  orig: 100, 100
+  offset: 6, 13
+  index: -1
+vfxAdd0045
+  rotate: false
+  xy: 427, 683
+  size: 89, 78
+  orig: 100, 100
+  offset: 6, 13
+  index: -1
+vfxAdd0046
+  rotate: false
+  xy: 689, 694
+  size: 89, 78
+  orig: 100, 100
+  offset: 6, 13
+  index: -1
+vfxAdd0047
+  rotate: false
+  xy: 780, 694
+  size: 88, 78
+  orig: 100, 100
+  offset: 6, 13
+  index: -1
+vfxAdd0048
+  rotate: false
+  xy: 870, 694
+  size: 87, 78
+  orig: 100, 100
+  offset: 6, 13
+  index: -1
+vfxAdd0049
+  rotate: false
+  xy: 335, 605
+  size: 86, 78
+  orig: 100, 100
+  offset: 7, 13
+  index: -1
+vfxAdd0050
+  rotate: false
+  xy: 423, 602
+  size: 86, 79
+  orig: 100, 100
+  offset: 7, 12
+  index: -1
+vfxAdd0051
+  rotate: false
+  xy: 518, 687
+  size: 84, 79
+  orig: 100, 100
+  offset: 8, 12
+  index: -1
+vfxAdd0052
+  rotate: false
+  xy: 689, 613
+  size: 84, 79
+  orig: 100, 100
+  offset: 8, 12
+  index: -1
+vfxAdd0053
+  rotate: false
+  xy: 775, 613
+  size: 82, 79
+  orig: 100, 100
+  offset: 9, 12
+  index: -1
+vfxAdd0054
+  rotate: false
+  xy: 859, 613
+  size: 81, 79
+  orig: 100, 100
+  offset: 10, 12
+  index: -1
+vfxAdd0055
+  rotate: false
+  xy: 590, 604
+  size: 81, 79
+  orig: 100, 100
+  offset: 10, 12
+  index: -1
+vfxAdd0056
+  rotate: false
+  xy: 942, 614
+  size: 80, 78
+  orig: 100, 100
+  offset: 11, 12
+  index: -1
+vfxAdd0057
+  rotate: false
+  xy: 590, 524
+  size: 79, 78
+  orig: 100, 100
+  offset: 11, 12
+  index: -1
+vfxAdd0058
+  rotate: false
+  xy: 87, 670
+  size: 77, 76
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+vfxAdd0059
+  rotate: true
+  xy: 86, 596
+  size: 72, 73
+  orig: 100, 100
+  offset: 16, 13
+  index: -1

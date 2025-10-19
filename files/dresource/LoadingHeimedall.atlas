@@ -1,0 +1,160 @@
+
+_alpha_LoadingHeimedall.pkm
+size: 1986,1217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao00
+  rotate: true
+  xy: 606, 748
+  size: 68, 185
+  orig: 75, 200
+  offset: 6, 13
+  index: -1
+texiao01
+  rotate: false
+  xy: 1918, 890
+  size: 66, 151
+  orig: 75, 200
+  offset: 8, 47
+  index: -1
+texiao02
+  rotate: false
+  xy: 1693, 650
+  size: 59, 166
+  orig: 75, 200
+  offset: 10, 34
+  index: -1
+texiao03
+  rotate: false
+  xy: 310, 105
+  size: 61, 175
+  orig: 75, 200
+  offset: 7, 24
+  index: -1
+texiao04
+  rotate: true
+  xy: 2, 3
+  size: 62, 189
+  orig: 75, 200
+  offset: 5, 10
+  index: -1
+texiao05
+  rotate: false
+  xy: 1860, 1024
+  size: 56, 191
+  orig: 75, 200
+  offset: 10, 8
+  index: -1
+texiao06
+  rotate: true
+  xy: 606, 692
+  size: 54, 178
+  orig: 75, 200
+  offset: 12, 21
+  index: -1
+texiao07
+  rotate: false
+  xy: 1637, 629
+  size: 54, 187
+  orig: 75, 200
+  offset: 11, 13
+  index: -1
+texiao08
+  rotate: false
+  xy: 250, 82
+  size: 58, 198
+  orig: 75, 200
+  offset: 8, 0
+  index: -1
+texiao09
+  rotate: false
+  xy: 1918, 1043
+  size: 66, 172
+  orig: 75, 200
+  offset: 4, 28
+  index: -1
+texiaob00
+  rotate: false
+  xy: 2, 282
+  size: 416, 399
+  orig: 420, 410
+  offset: 2, 11
+  index: -1
+texiaob01
+  rotate: true
+  xy: 420, 265
+  size: 416, 379
+  orig: 420, 410
+  offset: 2, 11
+  index: -1
+texiaob02
+  rotate: false
+  xy: 1024, 818
+  size: 416, 397
+  orig: 420, 410
+  offset: 2, 13
+  index: -1
+texiaob03
+  rotate: true
+  xy: 1199, 2
+  size: 416, 392
+  orig: 420, 410
+  offset: 2, 15
+  index: -1
+texiaob04
+  rotate: false
+  xy: 801, 420
+  size: 416, 396
+  orig: 420, 410
+  offset: 2, 12
+  index: -1
+texiaob05
+  rotate: false
+  xy: 1219, 425
+  size: 416, 391
+  orig: 420, 410
+  offset: 2, 11
+  index: -1
+texiaob06
+  rotate: false
+  xy: 1442, 818
+  size: 416, 397
+  orig: 420, 410
+  offset: 2, 10
+  index: -1
+texiaob07
+  rotate: true
+  xy: 1593, 7
+  size: 416, 390
+  orig: 420, 410
+  offset: 2, 12
+  index: -1
+texiaob08
+  rotate: true
+  xy: 801, 2
+  size: 416, 396
+  orig: 420, 410
+  offset: 2, 14
+  index: -1
+texiaob09
+  rotate: false
+  xy: 606, 818
+  size: 416, 397
+  orig: 420, 410
+  offset: 2, 12
+  index: -1
+tu01
+  rotate: false
+  xy: 2, 67
+  size: 246, 213
+  orig: 270, 230
+  offset: 5, 12
+  index: -1
+tu02
+  rotate: false
+  xy: 2, 683
+  size: 602, 532
+  orig: 602, 532
+  offset: 0, 0
+  index: -1

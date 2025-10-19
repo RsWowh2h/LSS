@@ -1,0 +1,1745 @@
+[21:10:13.143][91671cf0](ERR) [CRI]****************** New Game *******************
+[21:10:13.145][91671cf0]() [LOG]LogController::initLog testDevice(1),,(/data/user/0/com.more.dayzsurvival.gp/files/trace.log), pid(0000192a).
+[21:10:13.173][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:13.177][91671cf0](ERR) [CRI]applicationDidFinishLaunching! main thread(0x91671cf0), (0x91671cf0).
+[21:10:13.177][91671cf0]() [LOG]configNumber = -25474957
+[21:10:13.182][91671cf0]() [LOG]loading key: aad91aa9-9900-4f9d-9fa2-26f70971ee44
+[21:10:13.183][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:13.222][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:13.224][7f304cf0]() [LOG]HttpSvrMgr::start!
+[21:10:13.333][d0ba94f8]() [LOG]parse_reg dY9agghxSUucWk3xNK5-Rx:APA91bHRzfZWKILE5iIs8rQuEpJUlvLP4j-RB88AGB8Yo4SX4nUsnxCTo1pqlJ1OokwtmnULjHXV8-9tq17qH73UFSENJhhohl5sp9Qcn2qj-vnvlVtuLE0 
+[21:10:13.344][91671cf0]() [LOG]CCHttpRequestController::createGetVar.
+[21:10:13.346][91671cf0]() [LOG][0x75f8dc1b5790] writeablePath - /data/user/0/com.more.dayzsurvival.gp/files/
+[21:10:13.368][91671cf0]() [LOG]LocalTextController::LocalTextController 0x75f8ac3ad5b0
+[21:10:13.369][91671cf0]() [LOG]test lang ru
+[21:10:13.369][91671cf0]() [LOG]getLanguageFileName preferred ru
+[21:10:13.374][91671cf0]() [LOG]!!! createGetVar url = https://gslls.im30app.com/gameservice/getvar.php?uuid=emula_049cef099033412589be863e5e3c7d59FB88&loginFlag=1&country=RU&gameuid=&lang=ru&serverId=&pf=market_global&appVersion=25.1001.1&appCode=5503
+[21:10:13.375][91671cf0]() [LOG]In the constructor of HttpClient!
+[21:10:13.395][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:13.408][91671cf0]() [LOG]preloadOne nullptr.
+[21:10:13.411][91671cf0]() [LOG]preloadDataConfig
+[21:10:13.592][d0ba94f8]() [LOG]fireabaseAppId 25db5c8494d62eba670951dbac9a7275 
+[21:10:13.741][91671cf0]() [LOG]TST cost:2456 "*AppDelegate::applicationDidFinishLaunching begin." 2456 
+[21:10:13.846][91671cf0]() [LOG][LUA-print] ===========================================================
+[21:10:13.846][91671cf0]() [LOG][LUA-print]               LOAD QUICK FRAMEWORK
+[21:10:13.846][91671cf0]() [LOG][LUA-print] ===========================================================
+[21:10:14.202][91671cf0]() [LOG]LocalController::initXML use local!!! clientVersion(25.1001.1), clientVersionForLangD().
+[21:10:14.203][91671cf0]() [LOG]LocalController::checkUseLocalXml - 1.
+[21:10:14.203][91671cf0]() [LOG]LocalTextController::initINIInfo - (1) lang(ru).
+[21:10:14.360][91671cf0]() [LOG]parseFile size = 67067
+[21:10:14.361][91671cf0]() [LOG]LocalController::init end. iniParser load Time 0, lang(ru).
+[21:10:14.474][91671cf0]() [LOG]parseFile size = 67065
+[21:10:14.614][91671cf0]() [LOG]TST cost:870 "*AppDelegate::applicationDidFinishLaunching 0005." 3329 
+[21:10:14.716][91671cf0]() [LOG]TST cost:102 "*AppDelegate::applicationDidFinishLaunching end." 3431 
+[21:10:14.739][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:14.740][91671cf0]() [LOG]CCHttpRequestController::receivedGetVar
+[21:10:14.746][91671cf0]() [LOG]SceneController::doSceneInit begin (0)
+[21:10:14.746][91671cf0](ERR) [LOAD]LoadingScene2::init begin
+[21:10:14.747][91671cf0]() [LOG]PopupViewController::removeAllPopupView
+[21:10:14.749][91671cf0]() [LOG]PopupBaseView : [16LoadingThemeView:] open!
+[21:10:14.750][91671cf0]() [LOG]LocalTextController::getLoadingXMLManager - (1).
+[21:10:14.865][91671cf0]() [LOG]VolatileTextureMgr::addImage - (0x75f8ac407970), [0x75f8dc236f90]
+[21:10:14.873][91671cf0]() [LOG]LocalTextController::getLoadingXMLManager - (1).
+[21:10:14.896][91671cf0]() [LOG]LocalTextController::getLoadingXMLManager - (1).
+[21:10:15.101][91671cf0]() [LOG]LoadingController::init
+[21:10:15.108][91671cf0]() [LOG]<<<<<<<<<<< publish Region = [market_global] >>>>>>>>>>>
+[21:10:15.110][91671cf0]() [LOG]void FB_iLocalizeSDKManager::initILocalizeSdk()------ios--0-
+[21:10:15.110][91671cf0]() [LOG]iLocalizeCocos2dx-------local-------ru
+[21:10:15.179][91671cf0]() [LOG]init go2golbal sdk------- ru
+[21:10:15.180][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:15.191][91671cf0]() [LOG]loadXMLFromFile file ok (local/ignorefiles.xml).
+[21:10:15.191][91671cf0]() [LOG]XCXMLDataMgr::loadDatabase local/database1.local.xml begin.
+[21:10:15.953][91671cf0]() [LOG]loadXMLFromFile file ok (local/database1.local.xml).
+[21:10:15.954][91671cf0]() [LOG]XCXMLDataMgr::loadDatabase local/database1.local.xml end.
+[21:10:15.955][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:15.956][91671cf0]() usingXmlVersion : package|25.1001.10009
+[21:10:15.956][91671cf0](ERR) [LOAD]LoadingScene2::init end
+[21:10:15.956][91671cf0](ERR) [LOAD]LoadingScene2::onEnter begin
+[21:10:15.957][91671cf0]() [LOG]PopupBaseView::onEnter - 16LoadingThemeView:
+[21:10:15.958][91671cf0]() [LOG]createSelectLine bOpen = 0, isCN = 0
+[21:10:16.106][91671cf0]() [LOG]loadXMLFromFile file ok (local/leaderstate.xml).
+[21:10:16.111][91671cf0](ERR) [CRI]LoadingController::startLoading
+[21:10:16.111][91671cf0](ERR) [CRI]LoadingController::setState (-1)->(1).
+[21:10:16.111][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:16.111][91671cf0](ERR) [CRI]LoadingController::setState (1)->(2).
+[21:10:16.112][91671cf0](ERR) [CRI]LoadingController::setState (2)->(3).
+[21:10:16.112][91671cf0]() [LOG]!!! writeTestAccount true!!!
+[21:10:16.112][91671cf0](ERR) [CRI]LoadingController::setState (3)->(5).
+[21:10:16.116][91671cf0](ERR) [NET]NetController2::disconnect
+[21:10:16.117][91671cf0]() [LOG]NetConnectionConfig::resetLines begin.
+[21:10:16.118][91671cf0]() [LOG]add dedicated line!
+[21:10:16.118][91671cf0](ERR) [NET]resetLines infos(2)!!!
+[21:10:16.118][91671cf0](ERR) [NET]NetController2::connect - no cache.
+[21:10:16.120][91671cf0]() [LOG]!!! sendCmdGetServerList(825743130) timeout(8). url = https://gslls.im30app.com/gameservice/getserverlist.php?uuid=emula_049cef099033412589be863e5e3c7d59FB88&gpid=&type=2&ver=2&loginFlag=1&dlch=market_global&country=RU&t=1760897416&sig=7d826e00e6be6c1718092294fb50f287&version=25.1001.1&versioncode=5503&time=1760897416
+[21:10:16.127][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:16.132][91671cf0](ERR) [CRI]LoadingController::setState (5)->(6).
+[21:10:16.132][91671cf0]() [LOG]overlapped add spriteFrame Begin.
+[21:10:16.314][91671cf0]() [LOG]cocos2d: SpriteFrameCache: can not find Expack/Expack_15.plist
+[21:10:16.314][91671cf0]() [LOG]cocos2d: SpriteFrameCache: can not find Expack/Expack_16.plist
+[21:10:16.340][91671cf0]() [LOG]overlapped add spriteFrame End.
+[21:10:16.340][91671cf0](ERR) [CRI]LoadingController::setState (6)->(7).
+[21:10:16.340][91671cf0](ERR) [LOAD]LoadingScene2::onEnter end
+[21:10:16.344][91671cf0]() [LOG]SceneController::doSceneInit end (0)
+[21:10:16.401][91671cf0]() [LOG]cmd:al.science.refreshNum pending
+[21:10:16.405][91671cf0]() [LOG]preloadOne nullptr.
+[21:10:16.470][91671cf0]() [LOG]receivedLoadingServerList - (825743130) 825743130.
+[21:10:16.472][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:16.472][91671cf0](ERR) [NET]onGetServerList - iGetNo(825743130), size(6).
+[21:10:16.479][91671cf0]() [LOG]NetConnectionConfig::resetLines begin.
+[21:10:16.480][91671cf0](ERR) [NET]resetLines infos(1)!!!
+[21:10:16.480][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:16.485][91671cf0]() [LOG]weixin -->  do connect
+[21:10:16.485][91671cf0](ERR) [NET]NetController2::connect - name(direct), ip(s1500.ls.im30app.com:8088)
+[21:10:16.485][91671cf0](ERR) [SOCK]NetSocket (0x75f87c36bcd0)
+[21:10:16.486][91671cf0]() [LOG]NetAndroid::NetAndroid id(7175d9f5-dd0a-4131-98f4-71452601560e), 0x75f83c9ed450[0x43aa]
+[21:10:16.486][91671cf0](ERR) [CRI]NetClient::NetClient init - id(100000), 7175d9f5-dd0a-4131-98f4-71452601560e, 0x75f87c36bcd0(0x75f83c9ed450).
+[21:10:16.487][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:16.487][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:16.488][91671cf0]() [LOG]NetAndroid::isConnected false!!
+[21:10:17.074][91671cf0](ERR) [NET]Java_org_cocos2dx_ext_Native_nativeConnectioSuccess begin.
+[21:10:17.075][91671cf0](ERR) [NET]Java_org_cocos2dx_ext_Native_nativeConnectioSuccess(7175d9f5-dd0a-4131-98f4-71452601560e).
+[21:10:17.075][91671cf0]() [LOG]NetSocketAndroid::onConnection
+[21:10:17.076][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:17.077][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:17.079][91671cf0](ERR) [NET]NetController2::onConnection - direct, time(0.586531).
+[21:10:17.080][91671cf0](ERR) [NET]NetController2::login - zone(LOS1500), InLogin(0), Login(0).
+[21:10:17.092][91671cf0]() [LOG]serialid = unknown
+[21:10:17.093][91671cf0]() [LOG]getDeviceInfo = exynos2100 exynos2100 samsung arm64-v8a x86_64 p3s samsung unknown p3sxxx 900 1600 320 samsung/p3sxxx/p3s:13/TQ2B.230505.005.A1/jenkins08312143:user/release-keys samsung SM-G998B 
+[21:10:17.097][91671cf0]() [LOG]ccdevice = 7fd625a29bb2a5ab61eeded41d02bc14
+[21:10:17.097][91671cf0]() [LOG]~~LoginCommand: -1
+[21:10:17.254][91671cf0]() [LOG]CPU features(127), family(4).
+[21:10:17.316][91671cf0]() [LOG]Device string 
+ {"ro.build.product":"essi","persist.sys.dalvik.vm.lib.2":"libart.so","ro.boot.serialno":"f9bg5b4a11c2","ro.build.fingerprint":"samsung/p3sxxx/p3s:13/TQ2B.230505.005.A1/jenkins08312143:user/release-keys","persist.sys.timezone":"Europe/Kiev","ro.build.id":"TQ2B.230505.005.A1","ro.product.board":"exynos2100","ro.hardware":"exynos2100","ro.build.host":"Build2","ro.build.version.release":"13"}
+[21:10:17.358][91671cf0]() [LOG]getDeviceJsonInfo = {"BOARD":"exynos2100","SERIAL":"unknown","CPU_ABI2":"x86_64","DEVICE":"p3s","heightPixels":"1600","MODEL":"SM-G998B","MANUFACTURER":"samsung","CPU_ABI":"arm64-v8a","widthPixels":"900","BRAND":"samsung","densityDpi":"320","cameraFalsh":"true","FINGERPRINT":"samsung/p3sxxx/p3s:13/TQ2B.230505.005.A1/jenkins08312143:user/release-keys","HARDWARE":"exynos2100","PRODUCT":"p3sxxx","sensorNum":"11"}
+[21:10:17.359][91671cf0]() [LOG]Device info 
+ {"BOARD":"exynos2100","SERIAL":"unknown","CPU_ABI2":"x86_64","DEVICE":"p3s","heightPixels":"1600","MODEL":"SM-G998B","MANUFACTURER":"samsung","CPU_ABI":"arm64-v8a","widthPixels":"900","BRAND":"samsung","densityDpi":"320","cameraFalsh":"true","FINGERPRINT":"samsung/p3sxxx/p3s:13/TQ2B.230505.005.A1/jenkins08312143:user/release-keys","HARDWARE":"exynos2100","PRODUCT":"p3sxxx","sensorNum":"11"}
+[21:10:17.363][91671cf0]() [LOG]configNumber2 = -25474957
+[21:10:17.366][91671cf0]() [LOG]LoginCommand :pgs_state Success
+
+[21:10:17.372][91671cf0]() [LOG]Get data from file(/storage/emulated/0/Android/data/com.more.dayzsurvival.gp/files/data_a.dat) failed!
+[21:10:17.374][91671cf0]() [LOG]Android Account Info 0,with file: , temp: 
+[21:10:17.374][91671cf0]() [LOG]Android Account Info With Time file 0, temp: 0
+[21:10:17.377][91671cf0]() [LOG]Get data from file(/storage/emulated/0/Android/data/com.more.dayzsurvival.gp/files/data_b.dat) failed!
+[21:10:17.377][91671cf0]() [LOG]Android Account Info 0,with file: , temp: 
+[21:10:17.377][91671cf0]() [LOG]Android Account Info With Time file 0, temp: 0
+[21:10:17.378][91671cf0]() [LOG]Get data from file(/storage/emulated/0/Android/data/com.more.dayzsurvival.gp/files/data_d.dat) failed!
+[21:10:17.378][91671cf0]() [LOG]Android Account Info 0,with file: , temp: 
+[21:10:17.378][91671cf0]() [LOG]Android Account Info With Time file 0, temp: 0
+[21:10:17.380][91671cf0]() [LOG]LoginCommand : 
+	serverid: 1500
+	gameuid: 
+	uuid: 
+	pf: market_global
+ 	pfId: 
+
+[21:10:17.381][91671cf0]() [LOG]dicionaryToSFSObject: unknown object for suggestCountry
+[21:10:17.421][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:17.422][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:17.580][d0ba94f8]() [LOG]gpPlayerId g07557783793793088057 
+[21:10:17.580][d0ba94f8]() [LOG]GPPlayerName EgregiousWeasel33563 
+[21:10:17.581][91671cf0]() [LOG]CCSafeNotificationCenter::msgId:onResponsed3rdPlatform Json:{"platform":"google+","displayName":"EgregiousWeasel33563","userName":"EgregiousWeasel33563","userId":"g07557783793793088057","gmail":"","token":"","is_connect":true,"msgId":"login_sucess_google"}
+[21:10:17.581][91671cf0]() [LOG]onResponsed3rdPlatform:{"platform":"google+","displayName":"EgregiousWeasel33563","userName":"EgregiousWeasel33563","userId":"g07557783793793088057","gmail":"","token":"","is_connect":true,"msgId":"login_sucess_google"}
+[21:10:17.584][91671cf0]() [LOG]~~~~~~login_sucess_google account:EgregiousWeasel33563,g07557783793793088057 m_operation_type:1
+[21:10:17.584][91671cf0]() [LOG]CCSafeNotificationCenter::msgId:onResponsed3rdPlatformLoading Json:{"platform":"google+","displayName":"EgregiousWeasel33563","userName":"EgregiousWeasel33563","userId":"g07557783793793088057","gmail":"","token":"","is_connect":true,"msgId":"login_sucess_google"}
+[21:10:17.637][91671cf0]() [LOG]NetSocketAndroid::onLogin
+[21:10:17.637][91671cf0](ERR) [NET]NetController2::onLogin begin!!
+[21:10:17.637][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:17.638][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:17.639][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:17.640][91671cf0]() [LOG]Guide: index = 199; type = -1
+[21:10:17.641][91671cf0]() [LOG]LoginCommand::handleRecieve
+[21:10:17.643][91671cf0]() [LOG]setWorldTime - zone(-2), world(2025-10-19  21:10:17), local(2025-10-19  23:10:17).
+[21:10:17.649][91671cf0]() [LOG]>> translateKey: abcdefghigh
+[21:10:17.649][91671cf0]() [LOG]xmlVersion server = 25.1001.10022
+[21:10:17.649][91671cf0]() [LOG]serverVersion = 25.1001.1
+[21:10:17.649][91671cf0]() [LOG]eu_new_state = 0
+[21:10:17.649][91671cf0]() [LOG]lc type(3), u(https://play.google.com/store/apps/details?id=com.more.dayzsurvival.gp).
+[21:10:17.649][91671cf0]() [LOG]updateApkType = 3
+[21:10:17.653][91671cf0]() [LOG]LoginCommand::handleRecieve - newReading = 1
+[21:10:17.678][91671cf0]() [LOG]loadXMLFromFile file ok (local/ignorefiles.xml).
+[21:10:17.678][91671cf0]() [LOG]XCXMLDataMgr::loadDatabase local/database1.local.xml begin.
+[21:10:18.933][91671cf0]() [LOG]loadXMLFromFile file ok (local/database1.local.xml).
+[21:10:18.934][91671cf0]() [LOG]XCXMLDataMgr::loadDatabase local/database1.local.xml end.
+[21:10:18.935][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:18.936][91671cf0]() usingXmlVersion : package|25.1001.10009
+[21:10:18.937][91671cf0]() [LOG]xmlVersion = 25.1001.10022
+[21:10:18.937][91671cf0]() [LOG]fblikeutil = 
+[21:10:18.941][91671cf0]() [LOG]LoadingScene2::onLoginSuccess first loading? (1)
+[21:10:18.958][91671cf0]() [LOG]bringFront - xmlMd5
+[21:10:18.977][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/az/config/25.1001.1/config_25.1001.10022_ru.txt
+[21:10:18.980][91671cf0](ERR) [NET]NetController2::onLogin end.
+[21:10:19.014][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:19.293][d0ba94f8]() [LOG]G2G_onTranslationPrepared finished
+[21:10:27.390][91671cf0](ERR) [CRI]applicationWillEnterForeground start
+[21:10:27.394][91671cf0]() [LOG]Director::resume()
+[21:10:27.398][91671cf0]() [LOG]appdelegate EnterForeground end
+[21:10:27.404][91671cf0]() [LOG]preloadOne nullptr.
+[21:10:27.467][91671cf0]() [LOG]preloadOne nullptr.
+[21:10:27.468][91671cf0]() [LOG]preloadOne nullptr.
+[21:10:27.469][91671cf0]() [LOG]referrer  
+[21:10:27.508][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/az/config/25.1001.1/config_25.1001.10022_ru.txt zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_xmlMd525.1001.10022028.md5 unzipdir: 
+[21:10:27.508][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_xmlMd525.1001.10022028.md5
+[21:10:27.566][91671cf0]() [LOG]runInMainThread.
+[21:10:27.566][91671cf0]() [LOG]GameController::doAppForegroundEvent2. this[0x75f90c2a1200] isBind(0), time(1760890226).
+[21:10:27.587][91671cf0]() [LOG]GameController::doAppForegroundEvent2. InLoading..
+[21:10:27.610][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/az/config/25.1001.1/config_25.1001.10022_ru.zip
+[21:10:27.611][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/25.1001.1/1/25.1001.1_0-1_astc.zip
+[21:10:27.836][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_hotfix25.1001.1_0-1191.zip
+[21:10:27.991][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/25.1001.1/1/25.1001.1_0-1_astc.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_hotfix25.1001.1_0-1191.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/hotfix/25.1001.1/
+[21:10:27.992][91671cf0]() [LOG]Get data from file(/data/user/0/com.more.dayzsurvival.gp/files/hotfix/25.1001.1/deletefile.txt) failed!
+[21:10:28.697][91671cf0]() [LOG][LUA-print] ===========================================================
+[21:10:28.697][91671cf0]() [LOG][LUA-print]               LOAD QUICK FRAMEWORK
+[21:10:28.697][91671cf0]() [LOG][LUA-print] ===========================================================
+[21:10:29.297][91671cf0]() [LOG]referrer  
+[21:10:30.017][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_xml25.1001.10022038.zip
+[21:10:30.064][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/az/config/25.1001.1/config_25.1001.10022_ru.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_xml25.1001.10022038.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/remote/
+[21:10:30.069][91671cf0]() [LOG]LocalController::checkUseLocalXml - 0.
+[21:10:30.101][91671cf0]() [LOG]LocalTextController::initINIInfo - (0) lang(ru).
+[21:10:30.202][91671cf0]() [LOG]parseFile size = 67152
+[21:10:30.203][91671cf0]() [LOG]LocalController::init end. iniParser load Time 0, lang(ru).
+[21:10:30.328][91671cf0]() [LOG]parseFile size = 67065
+[21:10:30.338][91671cf0]() [LOG]Get data from file(/data/user/0/com.more.dayzsurvival.gp/files/remote/ignorefiles.xml) failed!
+[21:10:30.338][91671cf0]() [LOG]loadXMLFromFile file not found (/data/user/0/com.more.dayzsurvival.gp/files/remote/ignorefiles.xml).
+[21:10:30.338][91671cf0]() [LOG]XCXMLDataMgr::loadDatabase /data/user/0/com.more.dayzsurvival.gp/files/remote/database1.local.xml begin.
+[21:10:30.628][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/database1.local.xml).
+[21:10:30.628][91671cf0]() [LOG]XCXMLDataMgr::loadDatabase /data/user/0/com.more.dayzsurvival.gp/files/remote/database1.local.xml end.
+[21:10:30.631][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:30.636][91671cf0]() usingXmlVersion : 25.1001.10022
+[21:10:30.644][91671cf0](ERR) [OBB]>>> obb>>  checkOBBisOK FULLAPK is 1.
+[21:10:30.651][91671cf0]() [LOG]PopupBaseView : [12CGPlayerView:] open!
+[21:10:30.651][91671cf0]() [LOG]CGPlayerView::init1
+[21:10:30.675][91671cf0]() [LOG]CGPlayerView::init2
+[21:10:30.677][91671cf0]() [LOG]VolatileTextureMgr::addImage - (0x75f8acfd4790), [0x75f8dc27f290]
+[21:10:30.678][91671cf0]() [LOG]PopupBaseView::onEnter - 12CGPlayerView:
+[21:10:30.684][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:30.687][91671cf0]() [LOG]PopupViewController::addPopup ShowScene addPopupView
+[21:10:30.687][91671cf0]() [LOG]Start CG
+[21:10:30.905][91671cf0]() [LOG]VideoPlayerPopupView::0
+[21:10:30.984][91671cf0]() [LOG]VideoPlayerPopupView::0
+[21:10:38.898][91671cf0]() [LOG]GuideController::setGuide 
+[21:10:38.906][91671cf0]() [LOG]****** doGuideCache : 
+[21:10:38.930][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:38.938][91671cf0]() [LOG]PopupBaseView::onExit - 12CGPlayerView:
+[21:10:38.951][91671cf0]() [LOG]VideoPlayerPopupView::1
+[21:10:38.957][91671cf0]() [LOG]PushBase::handleResponse cmd(push.task.complete).
+[21:10:38.958][91671cf0]() [LOG]PushBase::handleResponse cmd(push.task.chapterTask).
+[21:10:38.969][91671cf0]() [LOG]PushBase::handleResponse cmd(initsmall).
+[21:10:38.970][91671cf0]() [LOG]TST cost:24254 "*parsePushInitMessage" 27685 
+[21:10:38.971][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:38.971][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:38.977][91671cf0]() [LOG]CCCommonUtils::parseSmallPushInitMessage  672057605001500
+[21:10:38.979][91671cf0]() [LOG]parseSmallPushInitMessage---222
+[21:10:38.982][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:39.076][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/world_config.xml).
+[21:10:39.117][91671cf0]() [LOG]$$$picVer$$$ initPlayerInfo : 0
+[21:10:39.121][91671cf0]() [LOG]_huawei id 
+[21:10:39.121][91671cf0]() [LOG]_googleCloud id 
+[21:10:39.121][91671cf0]() [LOG]_phone id 
+[21:10:39.142][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/president_policy.xml).
+[21:10:39.160][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/Moba_position.xml).
+[21:10:39.163][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/pvp_building.xml).
+[21:10:39.225][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/DD_worldcity.xml).
+[21:10:39.244][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/lordDetails.xml).
+[21:10:39.262][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/loe_alliance_building.xml).
+[21:10:39.278][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/loe_territory_effect.xml).
+[21:10:39.279][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/alliance_cropland.xml).
+[21:10:39.285][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/warbuilding_client.xml).
+[21:10:39.302][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/season_career_skill.xml).
+[21:10:39.311][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/season_career.xml).
+[21:10:39.318][d0ba94f8]() [LOG]parse_reg dY9agghxSUucWk3xNK5-Rx:APA91bHRzfZWKILE5iIs8rQuEpJUlvLP4j-RB88AGB8Yo4SX4nUsnxCTo1pqlJ1OokwtmnULjHXV8-9tq17qH73UFSENJhhohl5sp9Qcn2qj-vnvlVtuLE0 
+[21:10:39.319][91671cf0]() [LOG]GMBind URl:
+https://ucenter.im30app.cn/api/v1/user/register, json:
+{"uid":"672057605001500","projectId":"5","server":1500,"deviceId":"emula_049cef099033412589be863e5e3c7d59FB88"}
+[21:10:39.320][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:39.324][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/map_unity_sprits.xml).
+[21:10:39.401][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/help_pops.xml).
+[21:10:39.404][91671cf0]() [LOG]ToolController::initToolController begin.
+[21:10:39.408][91671cf0]() [LOG]ToolController::initGoodsGroup begin.
+[21:10:39.598][91671cf0]() [LOG]ToolController::initGoodsGroup end.
+[21:10:39.599][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/base_goods.xml).
+[21:10:39.600][91671cf0]() [LOG]ToolController::initToolController end.
+[21:10:39.608][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/investigation.xml).
+[21:10:39.621][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/questions.xml).
+[21:10:39.645][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/af_newevents.xml).
+[21:10:39.743][91671cf0]() [LOG]heFuTalentController::initDataConfig not found reset_info
+[21:10:39.753][91671cf0]() [LOG]wb_socket_open = 0 ,wb_socket_receive = 0  wb_socket_send = 0
+[21:10:39.755][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/Science_Score_Type.xml).
+[21:10:39.756][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/Science_Point.xml).
+[21:10:39.764][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/Science_Score_Level.xml).
+[21:10:39.776][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/Science_Point_Level.xml).
+[21:10:39.805][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/building_202405.xml).
+[21:10:39.823][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/building.xml).
+[21:10:39.841][91671cf0]() [LOG]CarController::initXMLData getXMLCarCnt ==== 0
+[21:10:39.845][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/map_event.xml).
+[21:10:39.852][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/ruins_adventure_monster.xml).
+[21:10:39.868][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/alliancescience2_info.xml).
+[21:10:39.929][91671cf0]() [LOG]QuestController::initQuest begin.
+[21:10:40.003][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/recharge.xml).
+[21:10:40.017][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/decoration_shop.xml).
+[21:10:40.052][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:40.058][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:40.069][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/discount_market.xml).
+[21:10:40.112][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/get_item.xml).
+[21:10:40.133][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/armyscore_type.xml).
+[21:10:40.304][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/armyscore_point_level.xml).
+[21:10:40.447][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/armyscore_point.xml).
+[21:10:40.529][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/cookParty.xml).
+[21:10:40.533][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:40.538][91671cf0]() [LOG]PushBase::handleResponse cmd(initconfig).
+[21:10:40.538][91671cf0]() [LOG]parseDataConfig
+[21:10:40.538][91671cf0]() [LOG]setDataConfigCache begin.
+[21:10:40.771][91671cf0]() [LOG]setDataConfigCache - verMd5(25.1001.1), itemMd5(1500e002c0fb1d67a88f4b4a9ef5ebde6e83_27e493bff65520178e7eac77cf42b84f0).
+[21:10:41.183][91671cf0]() [LOG]setDataConfigCache end.
+[21:10:41.224][91671cf0]() [LOG]fabric_log : 1
+[21:10:41.224][91671cf0]() [LOG]heFuTalentController::initDataConfig not found reset_info
+[21:10:41.230][91671cf0]() [LOG]wb_socket_open = 1 ,wb_socket_receive = 1  wb_socket_send = 1
+[21:10:41.248][91671cf0]() [LOG]void FB_iLocalizeSDKManager::initILocalizeSdk()------ios--1-
+[21:10:41.281][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:41.426][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/dialog_replace.xml).
+[21:10:41.427][91671cf0]() [LOG]PushBase::handleResponse cmd(initother).
+[21:10:41.431][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/unlock_parcel_202403.xml).
+[21:10:41.438][91671cf0]() [LOG]initConfigData - dataConfig error
+[21:10:41.438][91671cf0]() [LOG]ResourceController::parseResourceExchangeInfo
+[21:10:41.467][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/arms_new.xml).
+[21:10:41.540][91671cf0]() [LOG]scienceInfo.IsInit ture!!!!
+[21:10:41.543][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:41.605][91671cf0]() [LOG]PushBase::handleResponse cmd(initother).
+[21:10:41.609][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/title.xml).
+[21:10:41.618][91671cf0]() [LOG]initConfigData - dataConfig error
+[21:10:41.619][91671cf0]() [LOG]ActivityController::createEventObj 57002, activitytype = 3
+[21:10:41.619][91671cf0]() [LOG]ActivityController::createEventObj 57061, activitytype = 7
+[21:10:41.620][91671cf0]() [LOG]ActivityController::createEventObj 57063, activitytype = 46
+[21:10:41.620][91671cf0]() [LOG]ActivityController::createEventObj 57043, activitytype = 28
+[21:10:41.620][91671cf0]() [LOG]ActivityController::createEventObj 57067, activitytype = 7
+[21:10:41.620][91671cf0]() [LOG]ActivityController::createEventObj 57089, activitytype = 55
+[21:10:41.621][91671cf0]() [LOG]ActivityController::createEventObj 57087, activitytype = 53
+[21:10:41.621][91671cf0]() [LOG]ActivityController::createEventObj 57121, activitytype = 7
+[21:10:41.621][91671cf0]() [LOG]ActivityController::createEventObj 57127, activitytype = 7
+[21:10:41.622][91671cf0]() [LOG]ActivityController::createEventObj 57157, activitytype = 7
+[21:10:41.622][91671cf0]() [LOG]ActivityController::createEventObj 57215, activitytype = 7
+[21:10:41.622][91671cf0]() [LOG]ActivityController::createEventObj 57234, activitytype = 7
+[21:10:41.623][91671cf0]() [LOG]ActivityController::createEventObj 57240, activitytype = 88
+[21:10:41.623][91671cf0]() [LOG]ActivityController::createEventObj 57241, activitytype = 89
+[21:10:41.623][91671cf0]() [LOG]ActivityController::createEventObj 57258, activitytype = 7
+[21:10:41.624][91671cf0]() [LOG]ActivityController::createEventObj 57821, activitytype = 253
+[21:10:41.625][91671cf0]() [LOG]ActivityController::createEventObj 57713, activitytype = 103
+[21:10:41.625][91671cf0]() [LOG]ActivityController::createEventObj 57714, activitytype = 104
+[21:10:41.626][91671cf0]() [LOG]ActivityController::createEventObj 57707, activitytype = 97
+[21:10:41.626][91671cf0]() [LOG]ActivityController::createEventObj 57775, activitytype = 167
+[21:10:41.627][91671cf0]() [LOG]ActivityController::createEventObj 57748, activitytype = 143
+[21:10:41.627][91671cf0]() [LOG]ActivityController::createEventObj 57766, activitytype = 159
+[21:10:41.628][91671cf0]() [LOG]ActivityController::createEventObj 57798, activitytype = 206
+[21:10:41.628][91671cf0]() [LOG]ActivityController::createEventObj 57340, activitytype = 205
+[21:10:41.634][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/missile.xml).
+[21:10:41.636][91671cf0]() [LOG]scienceInfo.IsInit ture!!!!
+[21:10:41.645][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/novice_first_recharge.xml).
+[21:10:41.647][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/firstCharge_Multipledaycollection.xml).
+[21:10:41.648][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/wonders.xml).
+[21:10:41.653][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:41.654][91671cf0]() [LOG]PushBase::handleResponse cmd(initend).
+[21:10:41.661][91671cf0]() [LOG]LocalController::getXmlPathByType - 996 not found!!
+[21:10:41.661][91671cf0]() [LOG]loadXMLFromFile file not found ().
+[21:10:41.661][91671cf0]() [LOG]dumpGroup not found group(building_bond) at xml(996).
+[21:10:41.685][91671cf0]() [LOG]下次贺卡发送时间：1970-01-01  05:00:00
+[21:10:41.685][91671cf0]() [LOG]贺卡发送时间：1970-01-01  05:00:00
+[21:10:41.685][91671cf0]() [LOG]initConfigData - dataConfig error
+[21:10:41.691][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/newbie_mission.xml).
+[21:10:41.691][91671cf0]() [LOG]Warning: LuaCommon:postNotification2 argument 3 is invalid native object(nullptr)
+[21:10:41.748][91671cf0]() [LOG]scienceInfo.IsInit ture!!!!
+[21:10:41.804][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/decoration.xml).
+[21:10:41.876][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/hero_decoration.xml).
+[21:10:41.906][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/theme_landscape.xml).
+[21:10:41.910][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/mecha_skin.xml).
+[21:10:41.939][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/decoration_collect.xml).
+[21:10:41.992][91671cf0]() [LOG]<<<<<<<<<<< publish Region = [/storage/emulated/0/Android/data/com.more.dayzsurvival.gp/files/head/] >>>>>>>>>>>
+[21:10:41.997][8b177cf0]() [LOG]gaidCache 5dbc9bb1-3d96-4bd0-8bc1-844559f4e6c9 
+[21:10:42.017][91671cf0](ERR) [CRI]LoadingController::onPushInitFinish.
+[21:10:42.017][91671cf0](ERR) [CRI]LoadingController::setState (7)->(9).
+[21:10:42.036][91671cf0]() [LOG]google login sucess!
+[21:10:42.054][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:42.054][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:42.060][91671cf0]() [LOG]LocalController::getXmlPathByType - 900 not found!!
+[21:10:42.061][91671cf0]() [LOG]loadXMLFromFile file not found ().
+[21:10:42.061][91671cf0]() [LOG]dumpGroup not found group(special_board) at xml(900).
+[21:10:42.061][91671cf0]() [LOG]LocalController::getXmlPathByType - 900 not found!!
+[21:10:42.061][91671cf0]() [LOG]loadXMLFromFile file not found ().
+[21:10:42.061][91671cf0]() [LOG]dumpGroup not found group(activity_main) at xml(900).
+[21:10:42.186][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:43.225][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:43.228][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:43.247][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:43.257][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/celebration_2025_main.xml).
+[21:10:43.271][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/fortress_open.xml).
+[21:10:44.180][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/GC_group.xml).
+[21:10:44.202][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/GC_monster.xml).
+[21:10:44.223][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/GC_wavel.xml).
+[21:10:44.262][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/GC_skill.xml).
+[21:10:44.280][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/GC_map.xml).
+[21:10:44.283][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/GC_skill_bullet.xml).
+[21:10:44.299][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/GC_skill_effect.xml).
+[21:10:44.302][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/GC_random.xml).
+[21:10:44.311][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/GC_role.xml).
+[21:10:44.316][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/hero_talent.xml).
+[21:10:44.336][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/GC_group_rd.xml).
+[21:10:44.365][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/GC_hpspring.xml).
+[21:10:44.366][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/GC_combatrate.xml).
+[21:10:44.401][91671cf0]() [LOG]FBRadarWorldTaskController::requestPageInfo
+[21:10:44.410][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/beautyskills.xml).
+[21:10:44.428][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/beautyexe.xml).
+[21:10:44.431][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/beautydate.xml).
+[21:10:44.431][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/beautyclothes.xml).
+[21:10:44.437][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/biochemical_beauty.xml).
+[21:10:44.438][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/biochemical_beauty_treatment.xml).
+[21:10:44.439][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/biochemical_beauty_intimacy.xml).
+[21:10:44.443][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/biochemical_science.xml).
+[21:10:44.445][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/biochemical_science_gene.xml).
+[21:10:44.454][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/chapter_tasks_passage.xml).
+[21:10:44.465][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/plant_seed.xml).
+[21:10:44.467][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/plant_goods.xml).
+[21:10:44.468][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/plant_branch.xml).
+[21:10:44.472][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/plant_flower.xml).
+[21:10:44.479][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/satellite.xml).
+[21:10:44.485][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/satellite_lvup.xml).
+[21:10:44.491][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/satellite_orbit.xml).
+[21:10:44.493][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/satellite_point.xml).
+[21:10:44.494][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/satellite_suit.xml).
+[21:10:44.495][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/satellite_showeffect.xml).
+[21:10:44.499][91671cf0](ERR) [CRI]loginMessageOver
+[21:10:44.499][91671cf0]() [LOG]loginMessageOver not gmFlag!!!
+[21:10:44.499][91671cf0]() [LOG]fps_limit is open!!!
+[21:10:44.500][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/alliancescience2.xml).
+[21:10:44.506][91671cf0]() [LOG]Get data from file(/storage/emulated/0/Android/data/com.more.dayzsurvival.gp/files/data_a.dat) failed!
+[21:10:44.506][91671cf0]() [LOG]Android Account Info 0,with file: , temp: 
+[21:10:44.507][91671cf0]() [LOG]Android Account Info With Time file 0, temp: 0
+[21:10:44.507][91671cf0]() [LOG]AccountInfoLogin Current: 
+[21:10:44.507][91671cf0]() [LOG]AccountInfoLogin To: {"ver":4,"data":["672057605001500--emula_049cef099033412589be863e5e3c7d59FB881760890217600--emula_049cef099033412589be863e5e3c7d59FB88||--1760890243--1760890243--1--1"]}
+[21:10:44.510][91671cf0]() [LOG]Android AccountSave {"str":"{\"ver\":4,\"data\":[\"672057605001500--emula_049cef099033412589be863e5e3c7d59FB881760890217600--emula_049cef099033412589be863e5e3c7d59FB88||--1760890243--1760890243--1--1\"]}","lt":"1760890244"}, {"str":"3+a+kKLbQhogls5fTNBtNHMafuMrAiKr5LHZkfWXYwOMfXz9SNr7oO2qLynbEc786BpkHg4BvwUJYCXxmLq4g1rc9AieVMvyrmAPBRd4x/BxlRJR6ZQvfG+SRV6flGQGiZh/W6sPKvIKc7e///GGeoXc7VN/2j0d6xsfM69TLunJeWkwDTUkqEhw31lDhW7B0M2stXAp44avqNX5Y2uyGGec0U90qRms9r70JpzfzRg=","lt":"1760890244"}
+[21:10:44.510][91671cf0]() [LOG]Get data from file(/storage/emulated/0/Android/data/com.more.dayzsurvival.gp/files/data_b.dat) failed!
+[21:10:44.510][91671cf0]() [LOG]Android Account Info 0,with file: , temp: 
+[21:10:44.510][91671cf0]() [LOG]Android Account Info With Time file 0, temp: 0
+[21:10:44.510][91671cf0]() [LOG]ShareAccountInfoLogin Current: 
+[21:10:44.511][91671cf0]() [LOG]ShareAccountInfoLogin To: {"ver":3,"data":["emula_049cef099033412589be863e5e3c7d59FB88--672057605001500_emula_049cef099033412589be863e5e3c7d59FB881760890217600||--1760890243"]}
+[21:10:44.512][91671cf0]() [LOG]Android AccountSave {"str":"{\"ver\":3,\"data\":[\"emula_049cef099033412589be863e5e3c7d59FB88--672057605001500_emula_049cef099033412589be863e5e3c7d59FB881760890217600||--1760890243\"]}","lt":"1760890244"}, {"str":"FHq8Pcr+ViNFpYG5lByj9szBjMwK6jYKkkss1nXNpjFbiz4QIiOKxbCg+mmqpUz8r9jwa0WPb0cXKWvfv2BjO35wiFXGf9IIHekarIxWh42YwGLVVckQ0af2yoacGruNqehwu2ClAPbDnzb3t9HunkeKlbKMQQra9AJmbU9FKy0e/dbNTOldnxMsFsro02+Ei0VufLUEWJ2HcHYO4ZmQ/Q==","lt":"1760890244"}
+[21:10:44.513][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:44.513][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:44.549][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:44.550][91671cf0]() [LOG]Lua_AudioRecordController::initAudioFileIp chat.im30app.com
+[21:10:46.096][91671cf0](ERR) [CRI]LoadingScene2::gotoMainScene
+[21:10:46.096][91671cf0]() [LOG]iLocalizeCocos2dx prepareFloatingWindow 1 0
+[21:10:46.097][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:46.225][91671cf0]() [LOG]PushBase::handleResponse cmd(push.utc.time).
+[21:10:46.226][91671cf0]() [LOG]PushBase::handleResponse cmd(push.bindingAccount.score).
+[21:10:46.233][91671cf0]() [LOG]GMBind URl:
+https://ucenter.im30app.cn/api/v1/user/query_by_account, json:
+{"uid":"672057605001500","type":"google","projectId":"5","account":"g07557783793793088057"}
+[21:10:46.233][91671cf0]() [LOG]~~~~~handleRecieve: ''
+[21:10:46.233][91671cf0]() [LOG]~~~~~handleRecieve pGameUid: '413871984001362'
+[21:10:46.233][91671cf0]() [LOG]~~~~~handleRecieve切换账号: ''
+[21:10:46.249][91671cf0]() [LOG]PopupBaseView : [11YesNoDialog[Найден старый игровой прогресс:
+          Имя командира:  Survivor0a1ab1362
+          Все серверы:  1362
+Текущий игровой процесс будет перезаписан. Все равно войти?
+]] open!
+[21:10:46.495][91671cf0]() [LOG]VolatileTextureMgr::addImage - (0x75f8ac9c0b90), [0x75f8ddcd2150]
+[21:10:46.496][91671cf0]() [LOG]PopupBaseView::onEnter - 11YesNoDialog[Найден старый игровой прогресс:
+          Имя командира:  Survivor0a1ab1362
+          Все серверы:  1362
+Текущий игровой процесс будет перезаписан. Все равно войти?
+]
+[21:10:46.509][91671cf0]() [LOG]WorldCupLotteryActInfoCommand{"cmd":"worldcuplottery.actinfo","params":{"success":"1"}}
+
+[21:10:46.520][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:46.521][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:46.530][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/worldtrend.xml).
+[21:10:46.547][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:46.548][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:46.554][91671cf0]() [LOG]UserDeviceChangeCommand_0
+[21:10:46.554][91671cf0]() [LOG]PushBase::handleResponse cmd(push.setting).
+[21:10:46.567][91671cf0]() [LOG]PushBase::handleResponse cmd(push.refresh.hero.lottery).
+[21:10:46.605][91671cf0]() [LOG]PushBase::handleResponse cmd(push.science.group).
+[21:10:46.610][91671cf0]() [LOG]scienceInfo.IsInit ture!!!!
+[21:10:46.625][91671cf0]() [LOG]science info init error: no xml init ,id:903500
+[21:10:46.626][91671cf0]() [LOG]science info init error: no xml init ,id:903600
+[21:10:46.626][91671cf0]() [LOG]science info init error: no xml init ,id:903700
+[21:10:47.324][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew
+[21:10:47.325][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew info
+[21:10:47.325][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew B_FB_T_taskframe_Top_UI
+[21:10:47.325][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew B_FB_T_taskframe_Top
+[21:10:47.325][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew updateNewChapterPro 1
+[21:10:47.325][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew updateNewChapterPro 2
+[21:10:47.325][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew name 1 
+[21:10:47.346][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew 6
+[21:10:47.347][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew 7
+[21:10:47.347][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew 8
+[21:10:47.349][91671cf0]() [LOG]--------------- Expack/spineChapterTaskFinish.astc  is astc
+[21:10:47.352][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew 9
+[21:10:47.354][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/chapter_1_202405.xml).
+[21:10:47.355][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew 10
+[21:10:47.355][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew 11
+[21:10:47.455][91671cf0]() [LOG]--------------- Expack/spinePolluteMainSceneShowBall.astc  is astc
+[21:10:47.684][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:47.716][91671cf0]() [LOG]GameController::doDelayFunc
+[21:10:47.752][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/equip_info_new.xml).
+[21:10:47.772][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/equip_star.xml).
+[21:10:47.777][91671cf0]() [LOG]clearItemStatus.
+[21:10:47.778][91671cf0]() [LOG]addItemStatus type(1).
+[21:10:47.779][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/exchangecycle.xml).
+[21:10:47.804][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/radar_world_level.xml).
+[21:10:47.840][91671cf0]() [LOG]GoldExchangeInfoCommand::handleRecieve
+[21:10:47.849][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/az/cdn/lua_FBnewGeneral_08dccbf3fca2a24aab17b92d80463319.zip
+[21:10:47.849][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.849][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.850][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.868][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.868][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.868][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.868][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.868][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.869][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.869][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.869][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.869][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.869][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.873][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.873][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.873][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.874][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.874][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.874][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.874][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.875][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.875][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.875][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.875][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.875][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.876][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.876][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.876][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.876][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.876][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.876][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.877][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.877][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.877][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.880][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.880][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.880][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.881][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.881][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.881][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.881][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.881][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.881][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.882][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.882][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.882][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.882][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.882][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.884][91671cf0]() [LOG]addToReady. name(FBnewStone) equal.
+[21:10:47.884][91671cf0]() [LOG]addToReady. name(FBnewElectric) equal.
+[21:10:47.884][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.885][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.885][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.891][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.892][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.892][91671cf0]() [LOG]addToReady. name(FBsummer22) equal.
+[21:10:47.892][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.892][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.892][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.893][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.893][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.893][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.897][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.897][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.898][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.898][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.898][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.898][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.899][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.899][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.899][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.900][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.900][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.903][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.903][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.903][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.904][91671cf0]() [LOG]addToReady. name(FBnewWater) equal.
+[21:10:47.904][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.904][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.904][91671cf0]() [LOG]addToReady. name(FBnewGeneral) equal.
+[21:10:47.923][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/doomsday_info.xml).
+[21:10:47.925][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/core_reward.xml).
+[21:10:47.973][91671cf0]() [LOG]bringFront - ExpackFix
+[21:10:47.973][91671cf0]() [LOG]bringFront - ExpackResFix
+[21:10:47.973][91671cf0]() [LOG]bringFront - herohead_CN_FB
+[21:10:47.975][91671cf0]() [LOG]bringFront - FB_MainUI
+[21:10:47.976][91671cf0]() [LOG]bringFront - goods_FB1
+[21:10:47.977][91671cf0]() [LOG]bringFront - goods_FB2
+[21:10:47.977][91671cf0]() [LOG]bringFront - goods_FB3
+[21:10:47.977][91671cf0]() [LOG]bringFront - goods_FB4
+[21:10:47.978][91671cf0]() [LOG]bringFront - goods_FB5
+[21:10:47.978][91671cf0]() [LOG]bringFront - goods_FB6
+[21:10:47.979][91671cf0]() [LOG]bringFront - goods_FB7
+[21:10:47.979][91671cf0]() [LOG]bringFront - goods_FB8
+[21:10:47.979][91671cf0]() [LOG]bringFront - goods_FB9
+[21:10:47.980][91671cf0]() [LOG]bringFront - goods_FB10
+[21:10:47.980][91671cf0]() [LOG]bringFront - goods_FB11
+[21:10:47.980][91671cf0]() [LOG]bringFront - goods_FB12
+[21:10:47.981][91671cf0]() [LOG]bringFront - goods_FB13
+[21:10:47.981][91671cf0]() [LOG]bringFront - goods_FB14
+[21:10:47.982][91671cf0]() [LOG]bringFront - goods_FB15
+[21:10:47.982][91671cf0]() [LOG]bringFront - goods_FB16
+[21:10:47.982][91671cf0]() [LOG]bringFront - Activity_Ad_FB1
+[21:10:47.983][91671cf0]() [LOG]bringFront - Activity_Ad_FB2
+[21:10:47.983][91671cf0]() [LOG]bringFront - Activity_Ad_FB3
+[21:10:47.984][91671cf0]() [LOG]bringFront - Activity_Ad_FB4
+[21:10:47.985][91671cf0]() [LOG]bringFront - Activity_Ad_FB5
+[21:10:47.985][91671cf0]() [LOG]bringFront - Activity_Ad_FB6
+[21:10:47.986][91671cf0]() [LOG]bringFront - Activity_Ad_FB7
+[21:10:47.986][91671cf0]() [LOG]bringFront - Activity_Ad_FB8
+[21:10:47.986][91671cf0]() [LOG]bringFront - Activity_Ad_FB9
+[21:10:47.986][91671cf0]() [LOG]bringFront - Activity_Ad_FB10
+[21:10:47.987][91671cf0]() [LOG]bringFront - Activity_Ad_FB11
+[21:10:47.987][91671cf0]() [LOG]bringFront - Activity_Ad_FB12
+[21:10:47.987][91671cf0]() [LOG]bringFront - Activity_Ad_FB13
+[21:10:47.988][91671cf0]() [LOG]bringFront - Activity_Ad_FB14
+[21:10:47.988][91671cf0]() [LOG]bringFront - Activity_Ad_FB15
+[21:10:47.988][91671cf0]() [LOG]bringFront - Activity_Ad_FB16
+[21:10:47.989][91671cf0]() [LOG]bringFront - Activity_Ad_FB17
+[21:10:47.989][91671cf0]() [LOG]bringFront - Activity_Ad_FB18
+[21:10:47.989][91671cf0]() [LOG]bringFront - Activity_Ad_FB19
+[21:10:47.990][91671cf0]() [LOG]bringFront - Activity_Ad_FB20
+[21:10:47.990][91671cf0]() [LOG]bringFront - Activity_Ad_FB21
+[21:10:47.990][91671cf0]() [LOG]bringFront - Activity_Ad_FB22
+[21:10:47.991][91671cf0]() [LOG]bringFront - Activity_Ad_FB23
+[21:10:47.991][91671cf0]() [LOG]bringFront - Activity_Ad_FB24
+[21:10:47.992][91671cf0]() [LOG]bringFront - Activity_Ad_FB25
+[21:10:47.992][91671cf0]() [LOG]bringFront - Activity_Ad_FB26
+[21:10:47.993][91671cf0]() [LOG]bringFront - Activity_Ad_FB27
+[21:10:47.993][91671cf0]() [LOG]bringFront - Activity_Ad_FB28
+[21:10:47.993][91671cf0]() [LOG]bringFront - Activity_Ad_FB29
+[21:10:47.994][91671cf0]() [LOG]bringFront - Activity_Ad_FB30
+[21:10:47.994][91671cf0]() [LOG]bringFront - Activity_Ad_FB31
+[21:10:47.994][91671cf0]() [LOG]bringFront - Activity_Ad_FB32
+[21:10:47.995][91671cf0]() [LOG]bringFront - Fb_DecorateImage0
+[21:10:47.996][91671cf0]() [LOG]bringFront - Fb_DecorateImage1
+[21:10:47.996][91671cf0]() [LOG]bringFront - Fb_DecorateImage2
+[21:10:47.996][91671cf0]() [LOG]bringFront - Fb_DecorateImage3
+[21:10:47.996][91671cf0]() [LOG]bringFront - Fb_DecorateImage4
+[21:10:47.997][91671cf0]() [LOG]bringFront - Fb_DecorateImage5
+[21:10:47.997][91671cf0]() [LOG]bringFront - Fb_DecorateImage6
+[21:10:47.997][91671cf0]() [LOG]bringFront - Fb_DecorateImage7
+[21:10:47.997][91671cf0]() [LOG]bringFront - Fb_DecorateImage8
+[21:10:47.997][91671cf0]() [LOG]bringFront - Fb_DecorateImage9
+[21:10:47.998][91671cf0]() [LOG]bringFront - Fb_DecorateImage10
+[21:10:47.998][91671cf0]() [LOG]bringFront - heros_FB1
+[21:10:47.998][91671cf0]() [LOG]bringFront - heros_FB2
+[21:10:47.998][91671cf0]() [LOG]bringFront - heros_FB3
+[21:10:47.998][91671cf0]() [LOG]bringFront - heros_FB4
+[21:10:47.999][91671cf0]() [LOG]bringFront - heros_FB5
+[21:10:47.999][91671cf0]() [LOG]bringFront - heros_FB6
+[21:10:47.999][91671cf0]() [LOG]bringFront - heros_FB7
+[21:10:47.999][91671cf0]() [LOG]bringFront - heros_FB8
+[21:10:47.999][91671cf0]() [LOG]bringFront - heros_FB9
+[21:10:48.000][91671cf0]() [LOG]bringFront - heros_FB10
+[21:10:48.000][91671cf0]() [LOG]bringFront - heros_FB11
+[21:10:48.000][91671cf0]() [LOG]bringFront - heros_FB12
+[21:10:48.000][91671cf0]() [LOG]bringFront - heros_FB13
+[21:10:48.000][91671cf0]() [LOG]bringFront - heros_FB14
+[21:10:48.001][91671cf0]() [LOG]bringFront - heros_FB15
+[21:10:48.001][91671cf0]() [LOG]bringFront - heros_FB16
+[21:10:48.001][91671cf0]() [LOG]bringFront - heros_FB17
+[21:10:48.001][91671cf0]() [LOG]bringFront - heros_FB18
+[21:10:48.001][91671cf0]() [LOG]bringFront - heros_FB19
+[21:10:48.001][91671cf0]() [LOG]bringFront - heros_FB20
+[21:10:48.002][91671cf0]() [LOG]bringFront - heros_FB21
+[21:10:48.002][91671cf0]() [LOG]bringFront - heros_FB22
+[21:10:48.002][91671cf0]() [LOG]bringFront - heros_FB23
+[21:10:48.002][91671cf0]() [LOG]bringFront - heros_FB24
+[21:10:48.003][91671cf0]() [LOG]bringFront - heros_FB25
+[21:10:48.003][91671cf0]() [LOG]bringFront - heros_FB26
+[21:10:48.003][91671cf0]() [LOG]bringFront - heros_FB27
+[21:10:48.003][91671cf0]() [LOG]bringFront - heros_FB28
+[21:10:48.004][91671cf0]() [LOG]bringFront - heros_FB29
+[21:10:48.004][91671cf0]() [LOG]bringFront - heros_FB30
+[21:10:48.004][91671cf0]() [LOG]bringFront - heros_FB31
+[21:10:48.004][91671cf0]() [LOG]bringFront - heros_FB32
+[21:10:48.005][91671cf0]() [LOG]bringFront - heros_FB33
+[21:10:48.005][91671cf0]() [LOG]bringFront - heros_FB34
+[21:10:48.005][91671cf0]() [LOG]bringFront - heros_FB35
+[21:10:48.005][91671cf0]() [LOG]bringFront - heros_FB36
+[21:10:48.006][91671cf0]() [LOG]bringFront - heros_FB37
+[21:10:48.006][91671cf0]() [LOG]bringFront - heros_FB38
+[21:10:48.006][91671cf0]() [LOG]bringFront - heros_FB39
+[21:10:48.006][91671cf0]() [LOG]bringFront - heros_FB40
+[21:10:48.009][91671cf0]() [LOG]bringFront - heros_FB41
+[21:10:48.009][91671cf0]() [LOG]bringFront - heros_FB42
+[21:10:48.009][91671cf0]() [LOG]bringFront - heros_FB43
+[21:10:48.009][91671cf0]() [LOG]bringFront - heros_FB44
+[21:10:48.010][91671cf0]() [LOG]bringFront - heros_FB45
+[21:10:48.010][91671cf0]() [LOG]bringFront - heros_FB46
+[21:10:48.010][91671cf0]() [LOG]bringFront - heros_FB47
+[21:10:48.011][91671cf0]() [LOG]bringFront - heros_FB48
+[21:10:48.011][91671cf0]() [LOG]bringFront - heros_FB49
+[21:10:48.011][91671cf0]() [LOG]bringFront - heros_FB50
+[21:10:48.012][91671cf0]() [LOG]bringFront - heros_FB51
+[21:10:48.012][91671cf0]() [LOG]bringFront - heros_FB52
+[21:10:48.012][91671cf0]() [LOG]bringFront - heros_FB53
+[21:10:48.012][91671cf0]() [LOG]bringFront - heros_FB54
+[21:10:48.012][91671cf0]() [LOG]bringFront - heros_FB55
+[21:10:48.012][91671cf0]() [LOG]bringFront - heros_FB56
+[21:10:48.013][91671cf0]() [LOG]bringFront - heros_FB57
+[21:10:48.013][91671cf0]() [LOG]bringFront - heros_FB58
+[21:10:48.013][91671cf0]() [LOG]bringFront - heros_FB59
+[21:10:48.013][91671cf0]() [LOG]bringFront - heros_FB60
+[21:10:48.013][91671cf0]() [LOG]bringFront - heros_FB61
+[21:10:48.013][91671cf0]() [LOG]bringFront - heros_FB62
+[21:10:48.014][91671cf0]() [LOG]bringFront - heros_FB63
+[21:10:48.015][91671cf0]() [LOG]bringFront - heros_FB64
+[21:10:48.015][91671cf0]() [LOG]bringFront - heros_FB65
+[21:10:48.015][91671cf0]() [LOG]bringFront - heros_FB66
+[21:10:48.015][91671cf0]() [LOG]bringFront - heros_FB67
+[21:10:48.016][91671cf0]() [LOG]bringFront - heros_FB68
+[21:10:48.016][91671cf0]() [LOG]bringFront - heros_FB69
+[21:10:48.016][91671cf0]() [LOG]bringFront - heros_FB70
+[21:10:48.017][91671cf0]() [LOG]bringFront - heros_FB71
+[21:10:48.034][91671cf0]() [LOG]bringFront - heros_FB72
+[21:10:48.034][91671cf0]() [LOG]bringFront - heros_FB73
+[21:10:48.034][91671cf0]() [LOG]bringFront - heros_FB74
+[21:10:48.034][91671cf0]() [LOG]bringFront - heros_FB75
+[21:10:48.035][91671cf0]() [LOG]bringFront - heros_FB76
+[21:10:48.035][91671cf0]() [LOG]bringFront - heros_FB77
+[21:10:48.035][91671cf0]() [LOG]bringFront - heros_FB78
+[21:10:48.035][91671cf0]() [LOG]bringFront - heros_FB79
+[21:10:48.035][91671cf0]() [LOG]bringFront - heros_FB80
+[21:10:48.036][91671cf0]() [LOG]bringFront - heros_FB81
+[21:10:48.036][91671cf0]() [LOG]bringFront - heros_FB_infoshow1
+[21:10:48.036][91671cf0]() [LOG]bringFront - heros_FB_infoshow2
+[21:10:48.036][91671cf0]() [LOG]bringFront - heros_FB_infoshow3
+[21:10:48.036][91671cf0]() [LOG]bringFront - heros_FB_infoshow4
+[21:10:48.036][91671cf0]() [LOG]bringFront - heros_FB_infoshow5
+[21:10:48.037][91671cf0]() [LOG]bringFront - heros_FB_infoshow6
+[21:10:48.037][91671cf0]() [LOG]bringFront - heros_FB_infoshow7
+[21:10:48.037][91671cf0]() [LOG]bringFront - heros_FB_infoshow8
+[21:10:48.037][91671cf0]() [LOG]bringFront - heros_FB_infoshow9
+[21:10:48.037][91671cf0]() [LOG]bringFront - heros_FB_infoshow10
+[21:10:48.037][91671cf0]() [LOG]bringFront - heros_FB_infoshow11
+[21:10:48.038][91671cf0]() [LOG]bringFront - heros_FB_small1
+[21:10:48.038][91671cf0]() [LOG]bringFront - heros_FB_small2
+[21:10:48.038][91671cf0]() [LOG]bringFront - heros_FB_small3
+[21:10:48.038][91671cf0]() [LOG]bringFront - heros_FB_small4
+[21:10:48.038][91671cf0]() [LOG]bringFront - heros_FB_small5
+[21:10:48.038][91671cf0]() [LOG]bringFront - heros_FB_small6
+[21:10:48.038][91671cf0]() [LOG]bringFront - FB_Font
+[21:10:48.038][91671cf0]() [LOG]bringFront - Fb_FestivalPopup
+[21:10:48.039][91671cf0]() [LOG]bringFront - HeroSkill_Icon
+[21:10:48.039][91671cf0]() [LOG]bringFront - Fb_DecorateHeroSkinUI
+[21:10:48.039][91671cf0]() [LOG]bringFront - Science_Icon_Main_FB
+[21:10:48.039][91671cf0]() [LOG]bringFront - Science_Icon_FB
+[21:10:48.039][91671cf0]() [LOG]bringFront - Activity_Icon_FB
+[21:10:48.040][91671cf0]() [LOG]bringFront - Activity_FB
+[21:10:48.040][91671cf0]() [LOG]bringFront - FB_Question
+[21:10:48.040][91671cf0]() [LOG]bringFront - Alliance_Science_FB
+[21:10:48.040][91671cf0]() [LOG]bringFront - Banner_Img_FB
+[21:10:48.040][91671cf0]() [LOG]bringFront - RepayView_FB
+[21:10:48.041][91671cf0]() [LOG]bringFront - HeroRecruitDR_FB
+[21:10:48.042][91671cf0]() [LOG]bringFront - HeroCamp_FB
+[21:10:48.043][91671cf0]() [LOG]bringFront - Fb_Loading
+[21:10:48.044][91671cf0]() [LOG]bringFront - LibaoTiao_FB
+[21:10:48.045][91671cf0]() [LOG]bringFront - World_FB
+[21:10:48.045][91671cf0]() [LOG]bringFront - Missile_FB
+[21:10:48.045][91671cf0]() [LOG]bringFront - Fb_Equip_IconNew
+[21:10:48.045][91671cf0]() [LOG]bringFront - vipStore_FB
+[21:10:48.045][91671cf0]() [LOG]bringFront - Activity_GoldBox_FB
+[21:10:48.045][91671cf0]() [LOG]bringFront - Scence_skin_FB
+[21:10:48.045][91671cf0]() [LOG]bringFront - LoadingBg_FB
+[21:10:48.046][91671cf0]() [LOG]bringFront - LoadingChirstSpine_FB
+[21:10:48.046][91671cf0]() [LOG]bringFront - Fb_Valentine
+[21:10:48.046][91671cf0]() [LOG]bringFront - Hero10087Spine_FB
+[21:10:48.046][91671cf0]() [LOG]bringFront - Hero10078Spine_FB
+[21:10:48.047][91671cf0]() [LOG]bringFront - Hero10060Spine_FB
+[21:10:48.047][91671cf0]() [LOG]bringFront - Hero10056Spine_FB
+[21:10:48.048][91671cf0]() [LOG]bringFront - SoldiersTalentList
+[21:10:48.048][91671cf0]() [LOG]bringFront - Activity_PayCollection
+[21:10:48.048][91671cf0]() [LOG]bringFront - FB_SeasonUI_v2
+[21:10:48.049][91671cf0]() [LOG]bringFront - Fb_WelfareCenter
+[21:10:48.051][91671cf0]() [LOG]bringFront - LoadingHalloweenSpine_FB
+[21:10:48.051][91671cf0]() [LOG]bringFront - DynamicLayout_FB
+[21:10:48.051][91671cf0]() [LOG]bringFront - FB_FestivalActivity
+[21:10:48.052][91671cf0]() [LOG]bringFront - Fb_TurnTableChristMas
+[21:10:48.052][91671cf0]() [LOG]bringFront - FB_TwoToOne
+[21:10:48.052][91671cf0]() [LOG]bringFront - Activity_PiggyBank
+[21:10:48.052][91671cf0]() [LOG]bringFront - Fb_LampSpine
+[21:10:48.052][91671cf0]() [LOG]bringFront - FB_CommanderGift
+[21:10:48.052][91671cf0]() [LOG]bringFront - Fb_MinimapView
+[21:10:48.053][91671cf0]() [LOG]bringFront - FB_Alliance_yunbingche
+[21:10:48.053][91671cf0]() [LOG]bringFront - FB_Alliance_yunbingcheRes
+[21:10:48.053][91671cf0]() [LOG]bringFront - FB_World_Season_Bg
+[21:10:48.053][91671cf0]() [LOG]bringFront - FB_EdenTilePic
+[21:10:48.053][91671cf0]() [LOG]bringFront - FB_Kingwar_building
+[21:10:48.053][91671cf0]() [LOG]bringFront - FB_DecorationShop
+[21:10:48.054][91671cf0]() [LOG]bringFront - FB_Airship_SpineModel
+[21:10:48.055][91671cf0]() [LOG]bringFront - FB_CollectAct
+[21:10:48.055][91671cf0]() [LOG]bringFront - FB_HeroRefineIcon
+[21:10:48.056][91671cf0]() [LOG]bringFront - FB_Title
+[21:10:48.056][91671cf0]() [LOG]bringFront - Fb_SpringFestival_Jigsaw
+[21:10:48.057][91671cf0]() [LOG]bringFront - Fb_undergroundShelter
+[21:10:48.057][91671cf0]() [LOG]bringFront - Fb_undergroundShelter2
+[21:10:48.058][91671cf0]() [LOG]bringFront - FB_Gundom
+[21:10:48.061][91671cf0]() [LOG]bringFront - Fb_Equip_Big_Icon
+[21:10:48.062][91671cf0]() [LOG]bringFront - Fb_WorldBoss
+[21:10:48.065][91671cf0]() [LOG]bringFront - Fb_MechSkin
+[21:10:48.066][91671cf0]() [LOG]bringFront - Fb_MechSkin10001
+[21:10:48.066][91671cf0]() [LOG]bringFront - Fb_MechFactory
+[21:10:48.066][91671cf0]() [LOG]bringFront - Fb_MechWeapon
+[21:10:48.066][91671cf0]() [LOG]bringFront - spine_zhianguan
+[21:10:48.066][91671cf0]() [LOG]bringFront - Activity_LuckWheelSelect
+[21:10:48.067][91671cf0]() [LOG]bringFront - FB_PetSpine
+[21:10:48.067][91671cf0]() [LOG]bringFront - Fb_Pet_Icon
+[21:10:48.067][91671cf0]() [LOG]bringFront - Pet_Skill_Icon
+[21:10:48.067][91671cf0]() [LOG]bringFront - FB_SeasonMapData
+[21:10:48.068][91671cf0]() [LOG]bringFront - FB_NeutralCityIcon
+[21:10:48.068][91671cf0]() [LOG]bringFront - Fb_WorldMonster_pic
+[21:10:48.068][91671cf0]() [LOG]bringFront - FB_Juntuanaozhan
+[21:10:48.068][91671cf0]() [LOG]bringFront - FB_Decoration_Nameplate
+[21:10:48.068][91671cf0]() [LOG]bringFront - FB_feixutanxianguankaditu
+[21:10:48.068][91671cf0]() [LOG]bringFront - FB_feixutanxianrukouditu
+[21:10:48.068][91671cf0]() [LOG]bringFront - Activity_Flower
+[21:10:48.069][91671cf0]() [LOG]bringFront - Activity_FunUser
+[21:10:48.069][91671cf0]() [LOG]bringFront - FB_DefenceZombie
+[21:10:48.069][91671cf0]() [LOG]bringFront - Activity_SharePic
+[21:10:48.069][91671cf0]() [LOG]bringFront - AllStar_News
+[21:10:48.069][91671cf0]() [LOG]bringFront - FB_EquipUpgradeSpine
+[21:10:48.069][91671cf0]() [LOG]bringFront - FB_DragonMapPic
+[21:10:48.069][91671cf0]() [LOG]bringFront - FB_HeimedallSpine
+[21:10:48.070][91671cf0]() [LOG]bringFront - Activity_MonsterExchange
+[21:10:48.070][91671cf0]() [LOG]bringFront - Fb_WarShip_Puzzle
+[21:10:48.070][91671cf0]() [LOG]bringFront - StickerCollect
+[21:10:48.071][91671cf0]() [LOG]bringFront - Fb_Monster_Activity
+[21:10:48.071][91671cf0]() [LOG]bringFront - FB_ArenaSpine
+[21:10:48.071][91671cf0]() [LOG]bringFront - Activity_CommonPanel
+[21:10:48.071][91671cf0]() [LOG]bringFront - Fb_CityProtect_Spine
+[21:10:48.071][91671cf0]() [LOG]bringFront - Activity_AirShipRes
+[21:10:48.071][91671cf0]() [LOG]bringFront - Fb_Daodan_face
+[21:10:48.071][91671cf0]() [LOG]bringFront - Fb_World_sangshi_face
+[21:10:48.072][91671cf0]() [LOG]bringFront - Fb_World_christmas_monster_face
+[21:10:48.072][91671cf0]() [LOG]bringFront - Fb_World_huaban_face
+[21:10:48.072][91671cf0]() [LOG]bringFront - Fb_World_nurses_face
+[21:10:48.072][91671cf0]() [LOG]bringFront - Fb_World_tiantianquan_face
+[21:10:48.072][91671cf0]() [LOG]bringFront - Fb_World_tufu_face
+[21:10:48.072][91671cf0]() [LOG]bringFront - Fb_World_zombie_face
+[21:10:48.073][91671cf0]() [LOG]bringFront - Fb_CityProtect_face
+[21:10:48.073][91671cf0]() [LOG]bringFront - Fb_imperial_face
+[21:10:48.129][91671cf0]() [LOG]bringFront - Fb_Effect_face
+[21:10:48.132][91671cf0]() [LOG]bringFront - Fb_EliteBattle_face
+[21:10:48.133][91671cf0]() [LOG]bringFront - Fb_HefuTalent_face
+[21:10:48.133][91671cf0]() [LOG]bringFront - Fb_BattlePlay_face
+[21:10:48.133][91671cf0]() [LOG]bringFront - Fb_Mine_face
+[21:10:48.133][91671cf0]() [LOG]bringFront - FB_PioneerBuild_Spine
+[21:10:48.133][91671cf0]() [LOG]bringFront - Activity_FBLeagueRacingAd
+[21:10:48.134][91671cf0]() [LOG]bringFront - Activity_SpecialOfferShop
+[21:10:48.134][91671cf0]() [LOG]bringFront - SevenDays_Activity
+[21:10:48.134][91671cf0]() [LOG]bringFront - FB_ReactorSpine
+[21:10:48.134][91671cf0]() [LOG]bringFront - FB_WarShipSubBuild_Spine
+[21:10:48.134][91671cf0]() [LOG]bringFront - FB_MultidimensionalRank
+[21:10:48.135][91671cf0]() [LOG]bringFront - Fb_DecorateSpine_Emoji
+[21:10:48.135][91671cf0]() [LOG]bringFront - Activity_DoubleCoupon
+[21:10:48.144][91671cf0]() [LOG]bringFront - AllianceFlag
+[21:10:48.145][91671cf0]() [LOG]bringFront - FB_PinTu
+[21:10:48.145][91671cf0]() [LOG]bringFront - Fb_DecorateSpeak
+[21:10:48.146][91671cf0]() [LOG]bringFront - Anniversary_Boss_Dynamic
+[21:10:48.146][91671cf0]() [LOG]bringFront - Activity_MysteryTour
+[21:10:48.146][91671cf0]() [LOG]bringFront - Lua_TD_Heros
+[21:10:48.152][91671cf0]() [LOG]bringFront - Lua_TD_Maps
+[21:10:48.153][91671cf0]() [LOG]bringFront - Activity_AllianceBoss
+[21:10:48.153][91671cf0]() [LOG]bringFront - Activity_LostTower
+[21:10:48.153][91671cf0]() [LOG]bringFront - Soldier_FB
+[21:10:48.153][91671cf0]() [LOG]bringFront - Battle_Broadcast_Spine
+[21:10:48.153][91671cf0]() [LOG]bringFront - FB_Pet_Model
+[21:10:48.154][91671cf0]() [LOG]bringFront - FB_Pet_Skill_Effect
+[21:10:48.154][91671cf0]() [LOG]bringFront - Battle_Broadcast_Sprite
+[21:10:48.154][91671cf0]() [LOG]bringFront - King_Hero_Generic_Icon
+[21:10:48.154][91671cf0]() [LOG]bringFront - RangeScramble
+[21:10:48.154][91671cf0]() [LOG]bringFront - King_Hero_March_Flag
+[21:10:48.154][91671cf0]() [LOG]bringFront - King_Hero_March_Halo
+[21:10:48.155][91671cf0]() [LOG]bringFront - EmperorCardDraw
+[21:10:48.155][91671cf0]() [LOG]bringFront - SeasonalCareer
+[21:10:48.155][91671cf0]() [LOG]bringFront - SeasonCareerSkill_Icon
+[21:10:48.164][91671cf0]() [LOG]bringFront - Activity_LuckyStar
+[21:10:48.165][91671cf0]() [LOG]bringFront - HeroSeason_UI
+[21:10:48.165][91671cf0]() [LOG]bringFront - King_Hero_Head_Spine
+[21:10:48.165][91671cf0]() [LOG]bringFront - FB_NewExplore
+[21:10:48.165][91671cf0]() [LOG]bringFront - FB_SingleBanner
+[21:10:48.166][91671cf0]() [LOG]bringFront - Pet_Note
+[21:10:48.166][91671cf0]() [LOG]bringFront - Spine_WelfareCenter
+[21:10:48.166][91671cf0]() [LOG]bringFront - Fb_PetHome
+[21:10:48.167][91671cf0]() [LOG]bringFront - Satellite
+[21:10:48.167][91671cf0]() [LOG]bringFront - Fb_MechDevelop
+[21:10:48.167][91671cf0]() [LOG]bringFront - FreeBuildMapTD
+[21:10:48.167][91671cf0]() [LOG]bringFront - DayZSounds
+[21:10:48.167][91671cf0]() [LOG]bringFront - DragonBattleGuide
+[21:10:48.167][91671cf0]() [LOG]bringFront - Activity_AllianceFeast
+[21:10:48.168][91671cf0]() [LOG]bringFront - Activity_GammaStorm
+[21:10:48.168][91671cf0]() [LOG]bringFront - Activity_LotteryBattlePass
+[21:10:48.168][91671cf0]() [LOG]bringFront - Activity_BattlePassActivityLove
+[21:10:48.168][91671cf0]() [LOG]bringFront - PeakArena
+[21:10:48.168][91671cf0]() [LOG]bringFront - Activity_summerFestival
+[21:10:48.168][91671cf0]() [LOG]bringFront - Activity_BattlePass
+[21:10:48.169][91671cf0]() [LOG]bringFront - Activity_NewYearShare
+[21:10:48.169][91671cf0]() [LOG]bringFront - SpineLocalArena
+[21:10:48.169][91671cf0]() [LOG]bringFront - ActLinkageOnce
+[21:10:48.169][91671cf0]() [LOG]bringFront - Expack_SpringBattle
+[21:10:48.169][91671cf0]() [LOG]bringFront - FighterDevelopment
+[21:10:48.169][91671cf0]() [LOG]bringFront - heros_MailBg
+[21:10:48.170][91671cf0]() [LOG]addToReady. name(ExpackFix) equal.
+[21:10:48.170][91671cf0]() [LOG]addToReady. name(ExpackResFix) equal.
+[21:10:48.170][91671cf0]() [LOG]bringFront - ExpackResFix
+[21:10:48.170][91671cf0]() [LOG]addToReady. name(DynamicLayout_FB) equal.
+[21:10:48.170][91671cf0]() [LOG]bringFront - DynamicLayout_FB
+[21:10:48.171][91671cf0]() [LOG]addToReady. name(LoadingHalloweenSpine_FB) equal.
+[21:10:48.171][91671cf0]() [LOG]bringFront - LoadingHalloweenSpine_FB
+[21:10:48.272][91671cf0]() [LOG]addToReady. name(FB_Title) equal.
+[21:10:48.272][91671cf0]() [LOG]bringFront - FB_Title
+[21:10:48.273][91671cf0]() [LOG]addToReady. name(Fb_DecorateSpeak) equal.
+[21:10:48.273][91671cf0]() [LOG]bringFront - Fb_DecorateSpeak
+[21:10:48.273][91671cf0]() [LOG]addToReady. name(FB_DefenceZombie) equal.
+[21:10:48.273][91671cf0]() [LOG]bringFront - FB_DefenceZombie
+[21:10:48.273][91671cf0]() [LOG]bringFront - Guide_PV
+[21:10:48.275][91671cf0]() [LOG]initServerRes ok - count(1071).
+[21:10:48.285][91671cf0]() [LOG]bringFront - FB_SeasonMapData
+[21:10:48.290][91671cf0]() [LOG]GpuInfo 
+{
+	gl_supports_OES_depth24: true
+	gl_supports_ATITC: false
+	gl_supports_ETC2: true
+	gl_supports_OES_packed_depth_stencil: true
+	cocos2d.x.compiled_with_profiler: false
+	gl_supports_BGRA8888: false
+	cocos2d.x.compiled_with_gl_state_cache: true
+	cocos2d.x.build_type: RELEASE
+	gl_renderer: Adreno (TM) 650
+	cocos2d.x.version: cocos2d-x-3.7.1
+	gl_version: OpenGL ES 3.2 (4.5.0 NVIDIA 560.94)
+	gl_max_texture_size: 32768
+	gl_supports_NPOT: true
+	gl_max_texture_units: 192
+	gl_vendor: Qualcomm
+	gl_supports_vertex_array_object: true
+	gl_supports_ETC1: true
+	gl_supports_S3TC: true
+	gl_supports_astc_ldr: true
+	gl_supports_PVRTC: false
+	gl_supports_OES_map_buffer: false
+	gl_supports_discard_framebuffer: false
+}
+
+[21:10:48.290][91671cf0]() [LOG]LoadingScene2::showMainScene begin.
+[21:10:48.301][91671cf0]() [LOG]PopupViewController::removeAllPopupView
+[21:10:48.303][91671cf0]() [LOG]PopupBaseView::onExit - 11YesNoDialog[Найден старый игровой прогресс:
+          Имя командира:  Survivor0a1ab1362
+          Все серверы:  1362
+Текущий игровой процесс будет перезаписан. Все равно войти?
+]
+[21:10:48.304][91671cf0]() [LOG]Guide: index = 1000; type = -1
+[21:10:48.304][91671cf0](ERR) [CRI]LoadingScene2::showMainScene 10
+[21:10:48.304][91671cf0]() [LOG]SceneController::addGUI!
+[21:10:48.352][91671cf0]() [LOG]UIComponent::onHideFrameEff  HIDE 
+[21:10:48.364][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/DawnExpeditionRank.xml).
+[21:10:48.369][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:10:48.369][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoDynamicResource argument 3 is invalid native object(nullptr)
+[21:10:48.419][91671cf0]() [LOG]UIComponent2::removeEditMode 1
+[21:10:48.423][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:48.443][91671cf0]() [LOG]isoLink =
+[21:10:48.443][91671cf0]() [LOG]androidLink feed_key=
+[21:10:48.452][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/material_station_202405.xml).
+[21:10:48.458][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/material_stage_202405.xml).
+[21:10:48.465][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/base_unlock.xml).
+[21:10:48.497][91671cf0]() [LOG][LUA-print] dump from: [string "Chat/NetMessage/ShieldRoomCommand.luac"]:23: in function 'create'
+[21:10:48.498][91671cf0]() [LOG][LUA-print] - "ret ======" = {
+[21:10:48.498][91671cf0]() [LOG][LUA-print] -     "class" = {
+[21:10:48.498][91671cf0]() [LOG][LUA-print] -         "New"           = function: 0x75f77e278e30
+[21:10:48.498][91671cf0]() [LOG][LUA-print] -         "__cname"       = "ShieldRoomCommand"
+[21:10:48.498][91671cf0]() [LOG][LUA-print] -         "__ctype"       = 2
+[21:10:48.498][91671cf0]() [LOG][LUA-print] -         "__index"       = *REF*
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -         "create"        = function: 0x75f77e278ea0
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -         "handleReceive" = function: 0x75f77e278f10
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -         "super" = {
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -             "New"            = function: 0x75f780a5be90
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -             "__cname"        = "LuaCommandBase"
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -             "__ctype"        = 2
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -             "__index"        = *REF*
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -             "ctor"           = function: 0x75f780a5bf30
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -             "getCmdId"       = function: 0x75f780a6ecc0
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -             "getNetSendType" = function: 0x75f780a42f88
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -             "handleReceive"  = function: 0x75f780a43950
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -             "putParam"       = function: 0x75f780a43508
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -             "send"           = function: 0x75f780a42fb8
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -             "setSendTime"    = function: 0x75f780a43980
+[21:10:48.499][91671cf0]() [LOG][LUA-print] -             "setTable"       = function: 0x75f780a43538
+[21:10:48.500][91671cf0]() [LOG][LUA-print] -         }
+[21:10:48.500][91671cf0]() [LOG][LUA-print] -     }
+[21:10:48.500][91671cf0]() [LOG][LUA-print] -     "cmd"         = "channel.shield.action"
+[21:10:48.500][91671cf0]() [LOG][LUA-print] -     "data" = {
+[21:10:48.500][91671cf0]() [LOG][LUA-print] -         "type" = 1
+[21:10:48.500][91671cf0]() [LOG][LUA-print] -     }
+[21:10:48.500][91671cf0]() [LOG][LUA-print] -     "netSendType" = "smartfox"
+[21:10:48.500][91671cf0]() [LOG][LUA-print] - }
+[21:10:48.604][91671cf0]() [LOG]PushBase::handleResponse cmd(push.bindingAccount.score).
+[21:10:48.614][91671cf0]() [LOG]~~~~~handleRecieve: ''
+[21:10:48.614][91671cf0]() [LOG]~~~~~handleRecieve pGameUid: '413871984001362'
+[21:10:48.615][91671cf0]() [LOG]~~~~~handleRecieve绑定: ''
+[21:10:48.615][91671cf0]() [LOG]setWorldTime - zone(-2), world(2025-10-19  21:10:47), local(2025-10-19  23:10:47).
+[21:10:48.615][91671cf0]() [LOG]setWorldTime - zone(-2), world(2025-10-19  21:10:48), local(2025-10-19  23:10:48).
+[21:10:48.617][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_FB_SeasonMapData_c6da014da50f17382c226ababb27653b_android.zip
+[21:10:48.621][91671cf0]() [LOG]PopupBaseView::onExit - 16LoadingThemeView:
+[21:10:48.627][91671cf0]() [LOG]SceneController::doSceneInit begin (10)
+[21:10:48.701][91671cf0](ERR) [CRI]FreeBuildScene::init begin.
+[21:10:48.701][91671cf0]() [LOG]TST cost:9725 "*FreeBuildScene::init" 37416 
+[21:10:48.770][91671cf0]() [LOG]cocos2d: SpriteFrameCache: can not find Expack/Imperial_300.plist
+[21:10:48.777][91671cf0]() [LOG]cocos2d: SpriteFrameCache: can not find Expack/Imperial_308.plist
+[21:10:48.937][91671cf0]() [LOG]cocos2d: SpriteFrameCache: can not find Expack/Imperial_259.plist
+[21:10:49.030][91671cf0]() [LOG]TST cost:330 "*FreeBuildScene::init - spriteFrame" 37746 
+[21:10:49.115][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/water_garden_level.xml).
+[21:10:49.134][91671cf0]() [LOG]TST cost:103 "*FreeBuildScene::init - initLayer" 37849 
+[21:10:49.366][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/block_unlock_202403.xml).
+[21:10:49.369][91671cf0]() [LOG]--------------- Expack/spine_AreaMonsterAttack.astc  is astc
+[21:10:50.199][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:50.199][91671cf0]() [LOG]GameController::enableQueryHistoryPurchase
+[21:10:50.200][91671cf0]() [LOG]clearPreloadTextures
+[21:10:50.213][91671cf0]() [LOG]dicionaryToSFSObject: unknown object for isGuide
+[21:10:51.009][91671cf0]() [LOG]cocos2d: SpriteFrameCache: can not find Expack/Expack_PionnerBattle.plist
+[21:10:51.012][91671cf0]() [LOG]TST cost:1879 "*FreeBuildSceneMine::init - zoom" 39728 
+[21:10:51.013][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:51.117][91671cf0]() [LOG]--------------- Imperial/spineBuildBrokenFence.astc  is astc
+[21:10:51.123][91671cf0]() [LOG]--------------- Imperial/spineBuildBrokenFence.astc  is astc
+[21:10:51.125][91671cf0]() [LOG]--------------- Imperial/spineBuildBrokenFence.astc  is astc
+[21:10:51.132][91671cf0]() [LOG]FreeBuildSceneMine::init end.
+[21:10:51.151][91671cf0]() [LOG]FreeBuildSceneMine::onEnter start
+[21:10:51.152][91671cf0]() [LOG]TST cost:140 "*FreeBuildSceneMine::onEnter" 39868 
+[21:10:51.155][91671cf0](ERR) [CRI]FreeBuildScene::onEnter start
+[21:10:51.241][91671cf0]() [LOG]FreeBuildScene::onEnter end
+[21:10:51.407][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/decompose.xml).
+[21:10:51.416][91671cf0]() [LOG]gotoType: 
+[21:10:51.429][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/covermanager.xml).
+[21:10:51.430][91671cf0]() [LOG]initObjects begin.
+[21:10:51.600][91671cf0]() [LOG]--------------- Expack/spineBuildResDot_1.astc  is astc
+[21:10:51.692][91671cf0]() [LOG]--------------- Imperial/spineBuildBrokenBase26.astc  is astc
+[21:10:51.834][91671cf0]() [LOG]initObjects begin 2.
+[21:10:51.837][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/exploration_event.xml).
+[21:10:51.901][91671cf0]() [LOG]sprite3D getFullTexturePath assets/DayZResources/model3d/dabache.png
+[21:10:51.901][91671cf0]() [LOG]check sprite3D image dabache   dabache.pkm
+[21:10:51.902][91671cf0]() [LOG]sprite3D getFullTexturePath assets/DayZResources/model3d/dabache.png
+[21:10:51.902][91671cf0]() [LOG]check sprite3D image dabache   dabache.astc
+[21:10:51.923][91671cf0]() [LOG]initObjects begin 3.
+[21:10:51.924][91671cf0]() [LOG]initObjects begin 4.
+[21:10:51.958][91671cf0]() [LOG]initObjects end.
+[21:10:51.960][91671cf0]() [LOG]FreeBuildSceneMine::onEnter end
+[21:10:51.971][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/Fireworks_Celebration.xml).
+[21:10:52.033][91671cf0]() [LOG]cocos2d: removeChildByName(name = FBSeason1BattleTopNode): child not found!
+[21:10:52.054][91671cf0]() [LOG]GuideController::setGuide 30000000
+[21:10:52.124][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/guide_202405.xml).
+[21:10:52.182][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/guide.xml).
+[21:10:52.200][91671cf0]() [LOG]****** doGuideCache : 30000000
+[21:10:52.207][91671cf0]() [LOG]****** doGuide : 30000000
+[21:10:52.209][91671cf0]() [LOG]Guide: index = 30000000; type = -1
+[21:10:52.210][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:52.210][91671cf0]() [LOG]PopupViewController::removeAllPopupView
+[21:10:52.228][91671cf0]() [LOG]****** doGuideGetCache : 30000000
+[21:10:52.235][91671cf0]() [LOG]****** doGuideGetCache : 30000000
+[21:10:52.235][91671cf0]() [LOG]SceneController::doSceneInit end (10)
+[21:10:52.249][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_FBnewGeneral08dccbf3fca2a24aab17b92d8046331908dccbf3fca2a24aab17b92d804633191101.zip
+[21:10:52.375][91671cf0]() [LOG][LUA-print] ----ChatRoomData:onParseServerData----
+[21:10:52.375][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.384][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.384][91671cf0]() [LOG][LUA-print] 300
+[21:10:52.385][91671cf0]() [LOG][LUA-print] 300
+[21:10:52.385][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.385][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.385][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.386][91671cf0]() [LOG][LUA-print] 300
+[21:10:52.386][91671cf0]() [LOG][LUA-print] 300
+[21:10:52.386][91671cf0]() [LOG][LUA-print] 26
+[21:10:52.387][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.387][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.387][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.387][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.388][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.388][91671cf0]() [LOG][LUA-print] 300
+[21:10:52.389][91671cf0]() [LOG][LUA-print] 300
+[21:10:52.389][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.389][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.389][91671cf0]() [LOG][LUA-print] 0
+[21:10:52.392][91671cf0]() [LOG][LUA-print] _id	true	INTEGER
+[21:10:52.392][91671cf0]() [LOG][LUA-print] roomId	false	VARCHAR
+[21:10:52.392][91671cf0]() [LOG][LUA-print] group	false	VARCHAR
+[21:10:52.392][91671cf0]() [LOG][LUA-print] sequenceId	true	INTEGER
+[21:10:52.392][91671cf0]() [LOG][LUA-print] senderUid	false	VARCHAR
+[21:10:52.392][91671cf0]() [LOG][LUA-print] createTime	true	INTEGER
+[21:10:52.392][91671cf0]() [LOG][LUA-print] sendLocalTime	true	INTEGER
+[21:10:52.392][91671cf0]() [LOG][LUA-print] post	true	INTEGER
+[21:10:52.392][91671cf0]() [LOG][LUA-print] msg	false	VARCHAR
+[21:10:52.393][91671cf0]() [LOG][LUA-print] translateMsg	false	VARCHAR
+[21:10:52.393][91671cf0]() [LOG][LUA-print] originalLang	false	VARCHAR
+[21:10:52.393][91671cf0]() [LOG][LUA-print] translatedLang	false	VARCHAR
+[21:10:52.393][91671cf0]() [LOG][LUA-print] sendState	true	INTEGER
+[21:10:52.393][91671cf0]() [LOG][LUA-print] attachmentId	false	VARCHAR
+[21:10:52.393][91671cf0]() [LOG][LUA-print] media	false	VARCHAR
+[21:10:52.393][91671cf0]() [LOG][LUA-print] msgMask	false	VARCHAR
+[21:10:52.393][91671cf0]() [LOG][LUA-print] appeal	true	INTEGER
+[21:10:52.393][91671cf0]() [LOG][LUA-print] aozhandata	false	VARCHAR
+[21:10:52.927][91671cf0]() [LOG]FBDragonBattleController::endBattleAgainstInfo m_prepTime 0.000000 ,battleOpenTime 0.000000,assigneState 0
+[21:10:52.969][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/cpro_profession.xml).
+[21:10:53.050][91671cf0]() [LOG]PushBase::handleResponse cmd(push.chat.get.system.mails.v2).
+[21:10:53.143][91671cf0]() [LOG]setWorldTime - zone(-2), world(2025-10-19  21:10:51), local(2025-10-19  23:10:51).
+[21:10:53.395][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Guide_PV_105d30a1be442849264f3aa80ddd6ff7_android.zip
+[21:10:53.400][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/az/cdn/lua_FBnewGeneral_08dccbf3fca2a24aab17b92d80463319.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_FBnewGeneral08dccbf3fca2a24aab17b92d8046331908dccbf3fca2a24aab17b92d804633191101.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:10:53.524][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/twd_guide.xml).
+[21:10:53.965][91671cf0]() [LOG]PushBase::handleResponse cmd(push.chat.get.person.mails).
+[21:10:53.997][91671cf0]() [LOG]GuideController::setGuide 10232001
+[21:10:54.010][91671cf0]() [LOG]****** doGuide : 10232001
+[21:10:54.010][91671cf0]() [LOG]Guide: index = 10232001; type = -1
+[21:10:54.010][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:54.116][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_FB_DefenceZombie_ad6774eeed4bb01c95f54fb8e0343942_android.zip
+[21:10:54.544][91671cf0]() [LOG]DRNew [Error] url: http://cdn.im30app.com/lastshelter/cdn/dr_FB_DefenceZombie_ad6774eeed4bb01c95f54fb8e0343942_android.zip errcode: -103 zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_FB_DefenceZombie1.0.1ad6774eeed4bb01c95f54fb8e0343942171.zip, unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:10:54.544][91671cf0]() [LOG]Dya Error: -103 	name FB_DefenceZombie 	url: http://cdn.im30app.com/lastshelter/cdn/dr_FB_DefenceZombie_ad6774eeed4bb01c95f54fb8e0343942_android.zip 	zip /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_FB_DefenceZombie1.0.1ad6774eeed4bb01c95f54fb8e0343942171.zip
+[21:10:54.592][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_FB_DefenceZombie1.0.1ad6774eeed4bb01c95f54fb8e0343942171.zip
+[21:10:54.593][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_FB_DefenceZombie1.0.1ad6774eeed4bb01c95f54fb8e0343942171.zip.drtmp
+[21:10:54.649][91671cf0]() [LOG]GuideController::setGuide 10232002
+[21:10:54.650][91671cf0]() [LOG]****** doGuide : 10232002
+[21:10:54.650][91671cf0]() [LOG]Guide: index = 10232002; type = -1
+[21:10:54.650][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:54.739][91671cf0]() [LOG]--------------- Expack/spine_sandstorm_small_up.astc  is astc
+[21:10:54.787][91671cf0]() [LOG]--------------- Expack/spine_sandstorm_small_down.astc  is astc
+[21:10:54.804][91671cf0]() [LOG]--------------- Expack/spine_sandstorm_small_center1.astc  is astc
+[21:10:54.874][91671cf0]() [LOG][LUA-print] _id	true	INTEGER
+[21:10:54.874][91671cf0]() [LOG][LUA-print] uid	false	VARCHAR
+[21:10:54.874][91671cf0]() [LOG][LUA-print] userName	false	VARCHAR
+[21:10:54.875][91671cf0]() [LOG][LUA-print] careerId	false	VARCHAR
+[21:10:54.875][91671cf0]() [LOG][LUA-print] allianceId	false	VARCHAR
+[21:10:54.875][91671cf0]() [LOG][LUA-print] allianceSimpleName	false	VARCHAR
+[21:10:54.875][91671cf0]() [LOG][LUA-print] allianceRank	true	INTEGER
+[21:10:54.876][91671cf0]() [LOG][LUA-print] serverId	true	INTEGER
+[21:10:54.876][91671cf0]() [LOG][LUA-print] crossFightSrcServerId	true	INTEGER
+[21:10:54.876][91671cf0]() [LOG][LUA-print] headPic	false	VARCHAR
+[21:10:54.876][91671cf0]() [LOG][LUA-print] headPicVer	true	INTEGER
+[21:10:54.876][91671cf0]() [LOG][LUA-print] gmFlag	true	INTEGER
+[21:10:54.876][91671cf0]() [LOG][LUA-print] vipLevel	true	INTEGER
+[21:10:54.876][91671cf0]() [LOG][LUA-print] svipLevel	true	INTEGER
+[21:10:54.877][91671cf0]() [LOG][LUA-print] vipframe	true	INTEGER
+[21:10:54.877][91671cf0]() [LOG][LUA-print] vipEndTime	true	INTEGER
+[21:10:54.877][91671cf0]() [LOG][LUA-print] lastUpdateTime	true	INTEGER
+[21:10:54.877][91671cf0]() [LOG][LUA-print] monthCard	true	INTEGER
+[21:10:54.880][91671cf0]() [LOG][LUA-print] chatBantime	true	INTEGER
+[21:10:54.880][91671cf0]() [LOG][LUA-print] chatSkinId	true	INTEGER
+[21:10:54.880][91671cf0]() [LOG][LUA-print] chatFrameId	false	VARCHAR
+[21:10:54.882][91671cf0]() [LOG][LUA-print] titleId	true	INTEGER
+[21:10:54.895][91671cf0]() [LOG][LUA-print] alMilitaryRank	true	INTEGER
+[21:10:54.895][91671cf0]() [LOG][LUA-print] alMilitaryExpireTime	true	INTEGER
+[21:10:54.896][91671cf0]() [LOG][LUA-print] countryFlag	false	VARCHAR
+[21:10:54.896][91671cf0]() [LOG][LUA-print] forceRank	true	INTEGER
+[21:10:54.899][91671cf0]() [LOG][LUA-print] professionType	true	INTEGER
+[21:10:55.145][91671cf0]() [LOG]GuideController::setGuide 10240001
+[21:10:55.166][91671cf0]() [LOG]****** doGuide : 10240001
+[21:10:55.166][91671cf0]() [LOG]Guide: index = 10240001; type = -1
+[21:10:55.167][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:55.229][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateSpeak_7c2eec28f5d31c60500dcbbb4892295b_android.zip
+[21:10:55.347][91671cf0]() [LOG]GuideController::setGuide 10240003
+[21:10:55.348][91671cf0]() [LOG]****** doGuide : 10240003
+[21:10:55.348][91671cf0]() [LOG]Guide: index = 10240003; type = -1
+[21:10:55.350][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:55.465][91671cf0]() [LOG]PopupViewController::removeAllPopupView
+[21:10:55.777][91671cf0]() [LOG]sprite3D getFullTexturePath assets/DayZResources/model3d/jipuche/jipuche.png
+[21:10:55.777][91671cf0]() [LOG]check sprite3D image jipuche   jipuche.pkm
+[21:10:55.803][91671cf0]() [LOG]sprite3D getFullTexturePath assets/DayZResources/model3d/jipuche/jipuche.png
+[21:10:55.803][91671cf0]() [LOG]check sprite3D image jipuche   jipuche.astc
+[21:10:55.876][91671cf0]() [LOG]sprite3D getFullTexturePath assets/DayZResources/model3d/jipuche/jipuche.png
+[21:10:55.877][91671cf0]() [LOG]check sprite3D image jipuche   jipuche.pkm
+[21:10:55.877][91671cf0]() [LOG]sprite3D getFullTexturePath assets/DayZResources/model3d/jipuche/jipuche.png
+[21:10:55.877][91671cf0]() [LOG]check sprite3D image jipuche   jipuche.astc
+[21:10:55.878][91671cf0]() [LOG]sprite3D getFullTexturePath assets/DayZResources/model3d/jipuche/bing.png
+[21:10:55.881][91671cf0]() [LOG]check sprite3D image bing   bing.pkm
+[21:10:55.901][91671cf0]() [LOG]sprite3D getFullTexturePath assets/DayZResources/model3d/jipuche/bing.png
+[21:10:55.901][91671cf0]() [LOG]check sprite3D image bing   bing.astc
+[21:10:56.671][91671cf0]() [LOG]cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+[21:10:57.126][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_FB_Title_913b19c43c374e5e58443138cdd65df2_android.zip
+[21:10:59.384][91671cf0]() [LOG]GuideController::setGuide 10240004
+[21:10:59.550][91671cf0]() [LOG]****** doGuide : 10240004
+[21:10:59.590][91671cf0]() [LOG]Guide: index = 10240004; type = -1
+[21:10:59.656][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:10:59.988][91671cf0]() [LOG]---------------purchase history redo---------------
+[21:11:00.872][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_FB_SeasonMapData1.0.50c6da014da50f17382c226ababb27653b171.zip
+[21:11:02.434][91671cf0]() [LOG]GuideController::setGuide 10230154
+[21:11:02.444][91671cf0]() [LOG]****** doGuide : 10230154
+[21:11:02.444][91671cf0]() [LOG]Guide: index = 10230154; type = -1
+[21:11:02.447][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:11:02.523][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_LoadingHalloweenSpine_FB_b26896887c2255a7238bafa88cb27f26_android.zip
+[21:11:02.524][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_FB_SeasonMapData_c6da014da50f17382c226ababb27653b_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_FB_SeasonMapData1.0.50c6da014da50f17382c226ababb27653b171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:02.553][91671cf0]() [LOG]****** doGuideGetCache : 30000000
+[21:11:02.583][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_DynamicLayout_FB_bc2f47fe150d1556b857c82b90c33bc5_android.zip
+[21:11:02.585][91671cf0]() [LOG]GuideController::setGuide 10230155
+[21:11:02.593][91671cf0]() [LOG]****** doGuide : 10230155
+[21:11:02.593][91671cf0]() [LOG]Guide: index = 10230155; type = -1
+[21:11:02.594][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:11:02.665][91671cf0]() [LOG]PopupViewController::removeAllPopupView
+[21:11:02.689][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/plot.xml).
+[21:11:02.693][91671cf0]() [LOG]****** doGuideGetCache : 30000000
+[21:11:02.724][91671cf0]() [LOG]VolatileTextureMgr::addImage - (0x75f8ac8b6730), [0x75f8dc3094d0]
+[21:11:02.888][91671cf0]() [LOG]--------------- Common/Common_295.astc  is astc
+[21:11:02.927][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateSpeak1.0.57c2eec28f5d31c60500dcbbb4892295b171.zip
+[21:11:03.147][91671cf0]() [LOG]DRNew [Error] url: http://cdn.im30app.com/lastshelter/cdn/dr_LoadingHalloweenSpine_FB_b26896887c2255a7238bafa88cb27f26_android.zip errcode: -103 zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_LoadingHalloweenSpine_FB1.0.2b26896887c2255a7238bafa88cb27f26171.zip, unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:03.154][91671cf0]() [LOG]Dya Error: -103 	name LoadingHalloweenSpine_FB 	url: http://cdn.im30app.com/lastshelter/cdn/dr_LoadingHalloweenSpine_FB_b26896887c2255a7238bafa88cb27f26_android.zip 	zip /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_LoadingHalloweenSpine_FB1.0.2b26896887c2255a7238bafa88cb27f26171.zip
+[21:11:03.158][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_LoadingHalloweenSpine_FB1.0.2b26896887c2255a7238bafa88cb27f26171.zip
+[21:11:03.158][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_LoadingHalloweenSpine_FB1.0.2b26896887c2255a7238bafa88cb27f26171.zip.drtmp
+[21:11:03.158][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateSpeak_7c2eec28f5d31c60500dcbbb4892295b_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateSpeak1.0.57c2eec28f5d31c60500dcbbb4892295b171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:03.253][91671cf0](ERR) [OBB]>>> obb>>  checkOBBisOK FULLAPK is 1.
+[21:11:03.253][91671cf0]() [LOG]SoundController::getDubFileName (111850124).
+[21:11:03.269][91671cf0]() [LOG]getDubFileName !! exist dub (111850124) -> (DayZSounds/dub/en/111850124.ogg).
+[21:11:03.323][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_FB_Title1.0.41913b19c43c374e5e58443138cdd65df2171.zip
+[21:11:03.540][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_ExpackResFix_8177a683fed4b7012db82f12cc616b93_android.zip
+[21:11:03.543][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_FB_Title_913b19c43c374e5e58443138cdd65df2_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_FB_Title1.0.41913b19c43c374e5e58443138cdd65df2171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:03.854][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_ExpackFix_4161d457b47ba595dfb856ed7bc899c6_android.zip
+[21:11:04.196][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_herohead_CN_FB_270122e036f857a1fdcb1ceea9d8e29b_android.zip
+[21:11:04.436][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_FB_MainUI_649d55ca4ae9db19e4d46c1e44f09d5e_android.zip
+[21:11:05.096][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB1_9a785c16911491e74e45ec9752799ce0_android.zip
+[21:11:05.337][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB2_ab25f5f5386decabfb48262542e172eb_android.zip
+[21:11:05.764][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB3_8571f190883c1e1b0c90bc54ed2bd102_android.zip
+[21:11:05.863][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB4_49cf5f2ec6302df71ab70b21a902391d_android.zip
+[21:11:06.004][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Guide_PV1.0.1105d30a1be442849264f3aa80ddd6ff7171.zip
+[21:11:08.062][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Guide_PV_105d30a1be442849264f3aa80ddd6ff7_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Guide_PV1.0.1105d30a1be442849264f3aa80ddd6ff7171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:08.114][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_ExpackResFix1.0.38177a683fed4b7012db82f12cc616b93171.zip
+[21:11:08.322][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB5_63ebe7a7242769ad2b151e86494f234c_android.zip
+[21:11:08.323][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_ExpackResFix_8177a683fed4b7012db82f12cc616b93_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_ExpackResFix1.0.38177a683fed4b7012db82f12cc616b93171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:08.334][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_ExpackFix1.0.64161d457b47ba595dfb856ed7bc899c6171.zip
+[21:11:08.435][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB6_bc89f91b2181cea9ae2b7767f695c4eb_android.zip
+[21:11:08.435][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_ExpackFix_4161d457b47ba595dfb856ed7bc899c6_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_ExpackFix1.0.64161d457b47ba595dfb856ed7bc899c6171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:08.541][91671cf0]() [LOG]updateSpriteFramesWithFile - /data/user/0/com.more.dayzsurvival.gp/files/dresource/ExpackFix.plist
+[21:11:08.975][91671cf0]() [LOG]PushBase::handleResponse cmd(push.common.notice).
+[21:11:09.119][91671cf0]() [LOG]****** doGuideGetCache : 30000000
+[21:11:09.232][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB7_a9f26c36039c2532f55dec14347600bf_android.zip
+[21:11:09.326][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB8_b8e304d4e5423c5f7367db2ae7c99edc_android.zip
+[21:11:09.495][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_DynamicLayout_FB1.0.135bc2f47fe150d1556b857c82b90c33bc5171.zip
+[21:11:09.600][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_DynamicLayout_FB_bc2f47fe150d1556b857c82b90c33bc5_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_DynamicLayout_FB1.0.135bc2f47fe150d1556b857c82b90c33bc5171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:09.720][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_herohead_CN_FB1.0.592270122e036f857a1fdcb1ceea9d8e29b171.zip
+[21:11:09.951][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_herohead_CN_FB_270122e036f857a1fdcb1ceea9d8e29b_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_herohead_CN_FB1.0.592270122e036f857a1fdcb1ceea9d8e29b171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:10.057][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB9_85392dd5c75582805905d034a54146df_android.zip
+[21:11:10.127][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_FB_MainUI1.0.6649d55ca4ae9db19e4d46c1e44f09d5e171.zip
+[21:11:10.227][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_FB_MainUI_649d55ca4ae9db19e4d46c1e44f09d5e_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_FB_MainUI1.0.6649d55ca4ae9db19e4d46c1e44f09d5e171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:10.288][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB11.0.09a785c16911491e74e45ec9752799ce0171.zip
+[21:11:10.379][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB10_0c5d460e785410e5e3c598072750e1ae_android.zip
+[21:11:10.380][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB1_9a785c16911491e74e45ec9752799ce0_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB11.0.09a785c16911491e74e45ec9752799ce0171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:10.601][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB21.0.0ab25f5f5386decabfb48262542e172eb171.zip
+[21:11:10.699][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB2_ab25f5f5386decabfb48262542e172eb_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB21.0.0ab25f5f5386decabfb48262542e172eb171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:10.759][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB31.0.28571f190883c1e1b0c90bc54ed2bd102171.zip
+[21:11:10.863][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB11_074155ac4e11ec3f6236c90eaf5d2e3c_android.zip
+[21:11:10.863][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB3_8571f190883c1e1b0c90bc54ed2bd102_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB31.0.28571f190883c1e1b0c90bc54ed2bd102171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:10.922][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB41.0.049cf5f2ec6302df71ab70b21a902391d171.zip
+[21:11:11.029][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB4_49cf5f2ec6302df71ab70b21a902391d_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB41.0.049cf5f2ec6302df71ab70b21a902391d171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:11.069][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB51.0.063ebe7a7242769ad2b151e86494f234c171.zip
+[21:11:11.182][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB5_63ebe7a7242769ad2b151e86494f234c_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB51.0.063ebe7a7242769ad2b151e86494f234c171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:11.235][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB61.0.0bc89f91b2181cea9ae2b7767f695c4eb171.zip
+[21:11:11.288][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB12_6abea170d532514c6ee498cb29d9e7b7_android.zip
+[21:11:11.288][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB6_bc89f91b2181cea9ae2b7767f695c4eb_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB61.0.0bc89f91b2181cea9ae2b7767f695c4eb171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:11.327][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB71.0.0a9f26c36039c2532f55dec14347600bf171.zip
+[21:11:11.445][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB13_a8964ffa80687ff7c11a5cc236e2bdd8_android.zip
+[21:11:11.445][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB7_a9f26c36039c2532f55dec14347600bf_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB71.0.0a9f26c36039c2532f55dec14347600bf171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:11.464][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB81.0.1b8e304d4e5423c5f7367db2ae7c99edc171.zip
+[21:11:11.876][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB8_b8e304d4e5423c5f7367db2ae7c99edc_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB81.0.1b8e304d4e5423c5f7367db2ae7c99edc171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:12.085][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB91.0.185392dd5c75582805905d034a54146df171.zip
+[21:11:12.134][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB9_85392dd5c75582805905d034a54146df_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB91.0.185392dd5c75582805905d034a54146df171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:12.361][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB101.0.10c5d460e785410e5e3c598072750e1ae171.zip
+[21:11:12.421][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB14_abbd65593d8b5463e5cd893b9187b937_android.zip
+[21:11:12.421][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB15_f82282eb6e9143e528a22e570ed162be_android.zip
+[21:11:12.421][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB10_0c5d460e785410e5e3c598072750e1ae_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB101.0.10c5d460e785410e5e3c598072750e1ae171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:12.444][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB111.0.0074155ac4e11ec3f6236c90eaf5d2e3c171.zip
+[21:11:12.524][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB11_074155ac4e11ec3f6236c90eaf5d2e3c_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB111.0.0074155ac4e11ec3f6236c90eaf5d2e3c171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:12.544][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB121.0.36abea170d532514c6ee498cb29d9e7b7171.zip
+[21:11:12.636][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB12_6abea170d532514c6ee498cb29d9e7b7_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB121.0.36abea170d532514c6ee498cb29d9e7b7171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:12.678][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB131.0.0a8964ffa80687ff7c11a5cc236e2bdd8171.zip
+[21:11:12.752][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB13_a8964ffa80687ff7c11a5cc236e2bdd8_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB131.0.0a8964ffa80687ff7c11a5cc236e2bdd8171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:13.081][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB141.0.1abbd65593d8b5463e5cd893b9187b937171.zip
+[21:11:13.160][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB16_44ab27c61922d7522b52f5da4587ffbf_android.zip
+[21:11:13.161][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB14_abbd65593d8b5463e5cd893b9187b937_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB141.0.1abbd65593d8b5463e5cd893b9187b937171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:13.201][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB151.0.1f82282eb6e9143e528a22e570ed162be171.zip
+[21:11:13.276][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB1_e794053d0dfc8be2087242c905eab1da_android.zip
+[21:11:13.276][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB15_f82282eb6e9143e528a22e570ed162be_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB151.0.1f82282eb6e9143e528a22e570ed162be171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:13.652][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB161.0.4344ab27c61922d7522b52f5da4587ffbf171.zip
+[21:11:13.739][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB2_a6cbc9eace0d0b61a6060c079b110282_android.zip
+[21:11:13.739][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_goods_FB16_44ab27c61922d7522b52f5da4587ffbf_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_goods_FB161.0.4344ab27c61922d7522b52f5da4587ffbf171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:13.942][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB11.0.0e794053d0dfc8be2087242c905eab1da171.zip
+[21:11:14.011][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB3_7f5db13d591ec24019fce935cfbd126c_android.zip
+[21:11:14.012][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB1_e794053d0dfc8be2087242c905eab1da_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB11.0.0e794053d0dfc8be2087242c905eab1da171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:14.187][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB21.0.2a6cbc9eace0d0b61a6060c079b110282171.zip
+[21:11:14.271][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB4_23b53aec70059aea79fcb6cf3a3fcedb_android.zip
+[21:11:14.273][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB2_a6cbc9eace0d0b61a6060c079b110282_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB21.0.2a6cbc9eace0d0b61a6060c079b110282171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:14.407][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB31.0.07f5db13d591ec24019fce935cfbd126c171.zip
+[21:11:14.534][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB5_61bceb4dd40234cffe0c965788f8c113_android.zip
+[21:11:14.534][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB3_7f5db13d591ec24019fce935cfbd126c_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB31.0.07f5db13d591ec24019fce935cfbd126c171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:14.554][91671cf0]() [LOG]****** doGuideGetCache : 30000000
+[21:11:14.690][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB41.0.023b53aec70059aea79fcb6cf3a3fcedb171.zip
+[21:11:14.865][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB6_c7f1a3c2ed6988019a0b286ca6db72c1_android.zip
+[21:11:14.865][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB4_23b53aec70059aea79fcb6cf3a3fcedb_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB41.0.023b53aec70059aea79fcb6cf3a3fcedb171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:15.020][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB51.0.061bceb4dd40234cffe0c965788f8c113171.zip
+[21:11:15.135][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB7_434e391f9b17c1f4aa5f33dd11468d3c_android.zip
+[21:11:15.136][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB5_61bceb4dd40234cffe0c965788f8c113_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB51.0.061bceb4dd40234cffe0c965788f8c113171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:15.711][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB61.0.0c7f1a3c2ed6988019a0b286ca6db72c1171.zip
+[21:11:15.809][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB8_59d30586b1c63d90cdcb6260c011d218_android.zip
+[21:11:15.814][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB9_0e43a68ab9213c4cd099f03494ee6205_android.zip
+[21:11:15.815][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB6_c7f1a3c2ed6988019a0b286ca6db72c1_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB61.0.0c7f1a3c2ed6988019a0b286ca6db72c1171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:15.852][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB71.0.0434e391f9b17c1f4aa5f33dd11468d3c171.zip
+[21:11:15.938][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB7_434e391f9b17c1f4aa5f33dd11468d3c_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB71.0.0434e391f9b17c1f4aa5f33dd11468d3c171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:16.758][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB81.0.059d30586b1c63d90cdcb6260c011d218171.zip
+[21:11:16.863][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB10_87784d2ea39c303ec13de65905e0ea27_android.zip
+[21:11:16.865][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB11_da99cbe3a1c495a2f69769914798668e_android.zip
+[21:11:16.866][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB8_59d30586b1c63d90cdcb6260c011d218_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB81.0.059d30586b1c63d90cdcb6260c011d218171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:16.902][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB91.0.00e43a68ab9213c4cd099f03494ee6205171.zip
+[21:11:16.979][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB9_0e43a68ab9213c4cd099f03494ee6205_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB91.0.00e43a68ab9213c4cd099f03494ee6205171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:17.675][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB111.0.0da99cbe3a1c495a2f69769914798668e171.zip
+[21:11:17.794][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB12_9f5fff56b078d52ac39b5e02ec770434_android.zip
+[21:11:17.794][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB11_da99cbe3a1c495a2f69769914798668e_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB111.0.0da99cbe3a1c495a2f69769914798668e171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:18.075][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB101.0.187784d2ea39c303ec13de65905e0ea27171.zip
+[21:11:18.166][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB13_a22348e8e3a6f882153ac49b417a329f_android.zip
+[21:11:18.166][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB10_87784d2ea39c303ec13de65905e0ea27_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB101.0.187784d2ea39c303ec13de65905e0ea27171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:18.738][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB121.0.09f5fff56b078d52ac39b5e02ec770434171.zip
+[21:11:18.827][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB14_a018dafa17e1c65d5e422c38415b94d6_android.zip
+[21:11:18.827][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB12_9f5fff56b078d52ac39b5e02ec770434_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB121.0.09f5fff56b078d52ac39b5e02ec770434171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:19.576][91671cf0]() [LOG]****** doGuideGetCache : 30000000
+[21:11:20.119][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB141.0.0a018dafa17e1c65d5e422c38415b94d6171.zip
+[21:11:20.217][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB15_3da31e5bab254f2533b31b5e65a1b3af_android.zip
+[21:11:20.217][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB14_a018dafa17e1c65d5e422c38415b94d6_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB141.0.0a018dafa17e1c65d5e422c38415b94d6171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:20.923][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB131.0.0a22348e8e3a6f882153ac49b417a329f171.zip
+[21:11:20.987][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB16_74698789dfbf4e8b6f91061678e3b06a_android.zip
+[21:11:20.987][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB13_a22348e8e3a6f882153ac49b417a329f_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB131.0.0a22348e8e3a6f882153ac49b417a329f171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:21.419][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB151.0.03da31e5bab254f2533b31b5e65a1b3af171.zip
+[21:11:21.548][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB17_0ec8c5142b954661dd1ca8addd40ae99_android.zip
+[21:11:21.549][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB15_3da31e5bab254f2533b31b5e65a1b3af_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB151.0.03da31e5bab254f2533b31b5e65a1b3af171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:21.944][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB161.0.074698789dfbf4e8b6f91061678e3b06a171.zip
+[21:11:22.034][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB18_7718ddc812d427ebe25ffb1c37ff2caa_android.zip
+[21:11:22.034][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB16_74698789dfbf4e8b6f91061678e3b06a_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB161.0.074698789dfbf4e8b6f91061678e3b06a171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:22.344][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB171.0.00ec8c5142b954661dd1ca8addd40ae99171.zip
+[21:11:22.681][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB19_1ea8617a4eb737a703fe14a39b9dfdf9_android.zip
+[21:11:22.682][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB17_0ec8c5142b954661dd1ca8addd40ae99_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB171.0.00ec8c5142b954661dd1ca8addd40ae99171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:22.816][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB181.0.07718ddc812d427ebe25ffb1c37ff2caa171.zip
+[21:11:22.968][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB20_15a1558f4c993f86532c78c1be13f300_android.zip
+[21:11:22.968][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB18_7718ddc812d427ebe25ffb1c37ff2caa_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB181.0.07718ddc812d427ebe25ffb1c37ff2caa171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:23.451][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB191.0.01ea8617a4eb737a703fe14a39b9dfdf9171.zip
+[21:11:23.578][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB21_3c28db4766cb6a8d6c848f502dd33c34_android.zip
+[21:11:23.578][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB19_1ea8617a4eb737a703fe14a39b9dfdf9_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB191.0.01ea8617a4eb737a703fe14a39b9dfdf9171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:23.698][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB201.0.015a1558f4c993f86532c78c1be13f300171.zip
+[21:11:23.797][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB22_078659b1cb09fd46bb7c4d3c5770be36_android.zip
+[21:11:23.797][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB20_15a1558f4c993f86532c78c1be13f300_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB201.0.015a1558f4c993f86532c78c1be13f300171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:24.547][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB23_3787087813a29b11ac2ed28079710ffb_android.zip
+[21:11:24.547][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB24_c62a0898c29bb2af88e85b767cbdb6af_android.zip
+[21:11:24.548][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB221.0.0078659b1cb09fd46bb7c4d3c5770be36171.zip
+[21:11:24.650][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB22_078659b1cb09fd46bb7c4d3c5770be36_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB221.0.0078659b1cb09fd46bb7c4d3c5770be36171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:24.692][91671cf0]() [LOG]****** doGuideGetCache : 30000000
+[21:11:24.703][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB211.0.13c28db4766cb6a8d6c848f502dd33c34171.zip
+[21:11:24.797][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB21_3c28db4766cb6a8d6c848f502dd33c34_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB211.0.13c28db4766cb6a8d6c848f502dd33c34171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:25.068][91671cf0]() [LOG]SoundController::stopSub (10).
+[21:11:25.071][91671cf0](ERR) [OBB]>>> obb>>  checkOBBisOK FULLAPK is 1.
+[21:11:25.072][91671cf0]() [LOG]SoundController::getDubFileName (111850124).
+[21:11:25.072][91671cf0]() [LOG]getDubFileName !! exist dub (111850124) -> (DayZSounds/dub/en/111850124.ogg).
+[21:11:25.076][91671cf0]() [LOG]GuideController::setGuide 10230156
+[21:11:25.088][91671cf0]() [LOG]****** doGuide : 10230156
+[21:11:25.088][91671cf0]() [LOG]Guide: index = 10230156; type = -1
+[21:11:25.091][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:11:25.099][91671cf0]() [LOG]PopupViewController::removeAllPopupView
+[21:11:25.105][91671cf0]() [LOG]****** doGuideGetCache : 30000000
+[21:11:25.138][91671cf0]() [LOG]VolatileTextureMgr::addImage - (0x75f8ac8b6730), [0x75f8ddc7a5d0]
+[21:11:25.166][91671cf0]() [LOG]--------------- Common/Common_289.astc  is astc
+[21:11:25.232][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB231.0.13787087813a29b11ac2ed28079710ffb171.zip
+[21:11:25.385][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB25_1cfceffa3ef4f2ccbd9113a5cefb8b08_android.zip
+[21:11:25.387][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB26_71f3860bda7a44f15d38b1eedf590d50_android.zip
+[21:11:25.387][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB23_3787087813a29b11ac2ed28079710ffb_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB231.0.13787087813a29b11ac2ed28079710ffb171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:25.422][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB241.0.1c62a0898c29bb2af88e85b767cbdb6af171.zip
+[21:11:25.503][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB24_c62a0898c29bb2af88e85b767cbdb6af_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB241.0.1c62a0898c29bb2af88e85b767cbdb6af171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:25.514][91671cf0](ERR) [OBB]>>> obb>>  checkOBBisOK FULLAPK is 1.
+[21:11:25.515][91671cf0]() [LOG]SoundController::getDubFileName (111850125).
+[21:11:25.517][91671cf0]() [LOG]getDubFileName !! exist dub (111850125) -> (DayZSounds/dub/en/111850125.ogg).
+[21:11:25.607][91671cf0]() [LOG][LUA-print] 0
+[21:11:25.756][91671cf0]() [LOG]SoundController::stopSub (12).
+[21:11:25.756][91671cf0](ERR) [OBB]>>> obb>>  checkOBBisOK FULLAPK is 1.
+[21:11:25.756][91671cf0]() [LOG]SoundController::getDubFileName (111850125).
+[21:11:25.756][91671cf0]() [LOG]getDubFileName !! exist dub (111850125) -> (DayZSounds/dub/en/111850125.ogg).
+[21:11:25.760][91671cf0]() [LOG]GuideController::setGuide 10230157
+[21:11:26.373][91671cf0]() [LOG]****** doGuide : 10230157
+[21:11:26.457][91671cf0]() [LOG]Guide: index = 10230157; type = -1
+[21:11:26.459][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:11:26.459][91671cf0]() [LOG]PopupViewController::removeAllPopupView
+[21:11:26.462][91671cf0]() [LOG]****** doGuideGetCache : 30000000
+[21:11:26.501][91671cf0]() [LOG]VolatileTextureMgr::addImage - (0x75f8ac8b6730), [0x75f8dc2c3bd0]
+[21:11:26.730][91671cf0]() [LOG]--------------- Common/Common_258.astc  is astc
+[21:11:26.852][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB251.0.11cfceffa3ef4f2ccbd9113a5cefb8b08171.zip
+[21:11:26.920][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB27_6ff75b07c14af8075e177170ca83b160_android.zip
+[21:11:26.920][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB28_fe51b5eed6f7c55c0c243446fd473ccb_android.zip
+[21:11:26.920][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB25_1cfceffa3ef4f2ccbd9113a5cefb8b08_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB251.0.11cfceffa3ef4f2ccbd9113a5cefb8b08171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:26.958][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB261.0.171f3860bda7a44f15d38b1eedf590d50171.zip
+[21:11:27.051][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB26_71f3860bda7a44f15d38b1eedf590d50_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB261.0.171f3860bda7a44f15d38b1eedf590d50171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:27.094][91671cf0](ERR) [OBB]>>> obb>>  checkOBBisOK FULLAPK is 1.
+[21:11:27.094][91671cf0]() [LOG]SoundController::getDubFileName (110530001).
+[21:11:27.127][91671cf0]() [LOG]getDubFileName !! exist dub (110530001) -> (DayZSounds/dub/en/110530001.ogg).
+[21:11:27.615][91671cf0]() [LOG]SoundController::stopSub (14).
+[21:11:27.616][91671cf0](ERR) [OBB]>>> obb>>  checkOBBisOK FULLAPK is 1.
+[21:11:27.616][91671cf0]() [LOG]SoundController::getDubFileName (110530001).
+[21:11:27.616][91671cf0]() [LOG]getDubFileName !! exist dub (110530001) -> (DayZSounds/dub/en/110530001.ogg).
+[21:11:27.616][91671cf0]() [LOG]GuideController::setGuide 10240011
+[21:11:27.627][91671cf0]() [LOG]****** doGuide : 10240011
+[21:11:27.627][91671cf0]() [LOG]Guide: index = 10240011; type = -1
+[21:11:27.629][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:11:27.629][91671cf0]() [LOG]PopupViewController::removeAllPopupView
+[21:11:27.721][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB271.0.16ff75b07c14af8075e177170ca83b160171.zip
+[21:11:27.808][91671cf0]() [LOG]GuideController::setGuide 10240012
+[21:11:27.810][91671cf0]() [LOG]****** doGuide : 10240012
+[21:11:27.810][91671cf0]() [LOG]Guide: index = 10240012; type = -1
+[21:11:27.811][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:11:27.826][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB29_88034fc3d884cd530c1c54b8328c1584_android.zip
+[21:11:27.827][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB30_69ff0d07d278a27f731d0ea1d504f13e_android.zip
+[21:11:27.827][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB27_6ff75b07c14af8075e177170ca83b160_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB271.0.16ff75b07c14af8075e177170ca83b160171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:27.887][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB281.0.1fe51b5eed6f7c55c0c243446fd473ccb171.zip
+[21:11:27.938][91671cf0]() [LOG]GuideController::setGuide 10240013
+[21:11:27.940][91671cf0]() [LOG]****** doGuide : 10240013
+[21:11:27.941][91671cf0]() [LOG]Guide: index = 10240013; type = -1
+[21:11:27.942][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:11:28.131][91671cf0]() [LOG]PopupViewController::removeAllPopupView
+[21:11:28.138][91671cf0]() [LOG]UIComponent::onHideFrameEff  HIDE 
+[21:11:28.220][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB28_fe51b5eed6f7c55c0c243446fd473ccb_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB281.0.1fe51b5eed6f7c55c0c243446fd473ccb171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:28.332][91671cf0]() [LOG]GuideController::setGuide 
+[21:11:28.333][91671cf0]() [LOG]****** doGuideCache : 
+[21:11:28.346][91671cf0](ERR) [CRI]FreeBuildScene::onExit
+[21:11:28.382][91671cf0]() [LOG]No Call onExit
+[21:11:28.383][91671cf0]() [LOG]removeAllChildrenWithCleanup Error
+[21:11:28.383][91671cf0]() [LOG]No Call onExit
+[21:11:28.383][91671cf0]() [LOG]removeAllChildrenWithCleanup Error
+[21:11:28.383][91671cf0]() [LOG]No Call onExit
+[21:11:28.383][91671cf0]() [LOG]removeAllChildrenWithCleanup Error
+[21:11:28.383][91671cf0]() [LOG]No Call onExit
+[21:11:28.383][91671cf0]() [LOG]removeAllChildrenWithCleanup Error
+[21:11:28.383][91671cf0]() [LOG]No Call onExit
+[21:11:28.383][91671cf0]() [LOG]removeAllChildrenWithCleanup Error
+[21:11:28.383][91671cf0]() [LOG]No Call onExit
+[21:11:28.383][91671cf0]() [LOG]removeAllChildrenWithCleanup Error
+[21:11:28.383][91671cf0]() [LOG]No Call onExit
+[21:11:28.383][91671cf0]() [LOG]removeAllChildrenWithCleanup Error
+[21:11:28.384][91671cf0]() [LOG]No Call onExit
+[21:11:28.384][91671cf0]() [LOG]removeAllChildrenWithCleanup Error
+[21:11:28.398][91671cf0]() [LOG]SceneController::doSceneInit begin (25)
+[21:11:28.671][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:11:28.672][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:11:28.674][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByPath argument 3 is invalid native object(nullptr)
+[21:11:28.675][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByCommonIndex argument 3 is invalid native object(nullptr)
+[21:11:28.675][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoDynamicResource argument 3 is invalid native object(nullptr)
+[21:11:28.680][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoDynamicResource argument 3 is invalid native object(nullptr)
+[21:11:28.696][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoDynamicResource argument 3 is invalid native object(nullptr)
+[21:11:28.696][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoDynamicResource argument 3 is invalid native object(nullptr)
+[21:11:28.748][91671cf0]() [LOG]Cast name CCLabelIF doesn't include modular name which it belongs to,please add the modular name
+[21:11:28.793][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByCommonIndex argument 3 is invalid native object(nullptr)
+[21:11:28.793][91671cf0]() [LOG]Warning: CCLoadSprite:autoDoResourceByExpackIndex argument 3 is invalid native object(nullptr)
+[21:11:28.840][91671cf0]() [LOG]Cast name CCLabelIF doesn't include modular name which it belongs to,please add the modular name
+[21:11:28.840][91671cf0]() [LOG]Cast name CCLabelIF doesn't include modular name which it belongs to,please add the modular name
+[21:11:28.840][91671cf0]() [LOG]Cast name CCLabelIF doesn't include modular name which it belongs to,please add the modular name
+[21:11:28.840][91671cf0]() [LOG]Cast name CCLabelIF doesn't include modular name which it belongs to,please add the modular name
+[21:11:28.840][91671cf0]() [LOG]Cast name CCLabelIF doesn't include modular name which it belongs to,please add the modular name
+[21:11:28.841][91671cf0]() [LOG]Cast name CCLabelIF doesn't include modular name which it belongs to,please add the modular name
+[21:11:28.907][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_luzhang_3.astc  is astc
+[21:11:28.916][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_heroCar.astc  is astc
+[21:11:29.010][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_nike_shouqiang_idle.astc  is astc
+[21:11:29.016][91671cf0]() [LOG]Cast name CCLabelIF doesn't include modular name which it belongs to,please add the modular name
+[21:11:29.040][91671cf0]() [LOG]Cast name CCLabelIF doesn't include modular name which it belongs to,please add the modular name
+[21:11:29.041][91671cf0]() [LOG]GuideController::setGuide 10240020
+[21:11:29.042][91671cf0]() [LOG]****** doGuide : 10240020
+[21:11:29.043][91671cf0]() [LOG]Guide: index = 10240020; type = -1
+[21:11:29.044][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:11:29.055][91671cf0]() [LOG]SceneController::doSceneInit end (25)
+[21:11:29.128][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB291.0.188034fc3d884cd530c1c54b8328c1584171.zip
+[21:11:29.205][91671cf0]() [LOG]PushBase::handleResponse cmd(push.hero.data).
+[21:11:29.229][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/new_heroes.xml).
+[21:11:29.232][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/hero_info.xml).
+[21:11:29.268][91671cf0]() [LOG]loadXMLFromFile file ok (/data/user/0/com.more.dayzsurvival.gp/files/remote/new_hero_skills.xml).
+[21:11:29.271][91671cf0]() [LOG]PushBase::handleResponse cmd(push.task.complete).
+[21:11:29.278][91671cf0]() [LOG]PushBase::handleResponse cmd(push.task.chapterTask).
+[21:11:29.279][91671cf0]() [LOG]PushBase::handleResponse cmd(push.task.complete).
+[21:11:29.281][91671cf0]() [LOG]PushBase::handleResponse cmd(push.task.chapterTask).
+[21:11:29.282][91671cf0]() [LOG]PushBase::handleResponse cmd(push.daily.rewardNum).
+[21:11:29.282][91671cf0]() [LOG]PushBase::handleResponse cmd(player.info).
+[21:11:29.955][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew
+[21:11:29.956][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew info
+[21:11:29.956][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew B_FB_T_taskframe_Top_UI
+[21:11:29.956][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew B_FB_T_taskframe_Top
+[21:11:29.956][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew updateNewChapterPro 1
+[21:11:29.956][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew updateNewChapterPro 2
+[21:11:29.956][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew name 1 
+[21:11:29.977][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew 6
+[21:11:29.978][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew 7
+[21:11:29.978][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew 8
+[21:11:29.979][91671cf0]() [LOG]--------------- Expack/spineChapterTaskFinish.astc  is astc
+[21:11:29.980][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew 9
+[21:11:29.980][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew 10
+[21:11:29.980][91671cf0]() [LOG]UIComponentLeft::onQuestStateUpdateNew 11
+[21:11:30.372][91671cf0]() [LOG]--------------- Expack/spinePolluteMainSceneShowBall.astc  is astc
+[21:11:30.440][91671cf0]() [LOG]PushBase::handleResponse cmd(push.task.complete).
+[21:11:30.456][91671cf0]() [LOG]PushBase::handleResponse cmd(push.task.chapterTask).
+[21:11:30.469][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_ui_warning.astc  is astc
+[21:11:30.481][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_nike_jiguangqiang_fast.astc  is astc
+[21:11:30.485][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_nike_jiguangqiang_fill.astc  is astc
+[21:11:30.488][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_nike_jiguangqiang_idle.astc  is astc
+[21:11:30.490][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_nike_jiguangqiang_slow.astc  is astc
+[21:11:30.492][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_nike_shouqiang_atk.astc  is astc
+[21:11:30.494][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_nike_shouqiang_fill.astc  is astc
+[21:11:30.501][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_soldier_shouqiang_idle_new.astc  is astc
+[21:11:30.505][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_soldier_jiguangqiang_fast.astc  is astc
+[21:11:30.509][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_soldier_jiguangqiang_fill.astc  is astc
+[21:11:30.513][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_soldier_jiguangqiang_slow.astc  is astc
+[21:11:30.517][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_soldier_shouqiang_atk.astc  is astc
+[21:11:30.519][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_soldier_shouqiang_fill.astc  is astc
+[21:11:30.527][91671cf0]() [LOG]GuideController::setGuide 10240021
+[21:11:30.528][91671cf0]() [LOG]****** doGuide : 10240021
+[21:11:30.528][91671cf0]() [LOG]Guide: index = 10240021; type = -1
+[21:11:30.529][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:11:30.557][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB31_bfc6dbdecd0680a5fc66ef14fd379a9d_android.zip
+[21:11:30.558][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB32_5dc4acf12feaef2ce57ba2f12222abee_android.zip
+[21:11:30.558][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB29_88034fc3d884cd530c1c54b8328c1584_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB291.0.188034fc3d884cd530c1c54b8328c1584171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:30.699][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB301.0.169ff0d07d278a27f731d0ea1d504f13e171.zip
+[21:11:30.936][91671cf0]() [LOG]GuideController::setGuide 
+[21:11:30.937][91671cf0]() [LOG]****** doGuideCache : 
+[21:11:30.941][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB30_69ff0d07d278a27f731d0ea1d504f13e_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB301.0.169ff0d07d278a27f731d0ea1d504f13e171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:30.962][91671cf0]() [LOG]--------------- TowerDefense/spine_TD_guide.astc  is astc
+[21:11:31.188][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB321.0.185dc4acf12feaef2ce57ba2f12222abee171.zip
+[21:11:31.272][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage0_dc42b798dc59cb4438982a645ec51756_android.zip
+[21:11:31.272][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB32_5dc4acf12feaef2ce57ba2f12222abee_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB321.0.185dc4acf12feaef2ce57ba2f12222abee171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:31.287][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB311.0.5bfc6dbdecd0680a5fc66ef14fd379a9d171.zip
+[21:11:31.377][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage1_d05e6188797d7c0bc937d5fdf0842ac2_android.zip
+[21:11:31.377][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Activity_Ad_FB31_bfc6dbdecd0680a5fc66ef14fd379a9d_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Activity_Ad_FB311.0.5bfc6dbdecd0680a5fc66ef14fd379a9d171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:31.819][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage11.0.0d05e6188797d7c0bc937d5fdf0842ac2171.zip
+[21:11:31.902][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage2_d267c525c15e7cf530172158b37b8841_android.zip
+[21:11:31.903][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage3_2a6dfe8c11621b84b75182a584194b12_android.zip
+[21:11:31.903][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage1_d05e6188797d7c0bc937d5fdf0842ac2_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage11.0.0d05e6188797d7c0bc937d5fdf0842ac2171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:31.923][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage01.0.0dc42b798dc59cb4438982a645ec51756171.zip
+[21:11:32.021][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage0_dc42b798dc59cb4438982a645ec51756_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage01.0.0dc42b798dc59cb4438982a645ec51756171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:32.379][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage21.0.0d267c525c15e7cf530172158b37b8841171.zip
+[21:11:32.474][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage4_724a4632c7e7c1933fd1ce6b55df0ba7_android.zip
+[21:11:32.474][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage5_4096c82683aa7dc7f5d789674211b6ed_android.zip
+[21:11:32.475][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage2_d267c525c15e7cf530172158b37b8841_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage21.0.0d267c525c15e7cf530172158b37b8841171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:32.498][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage31.0.02a6dfe8c11621b84b75182a584194b12171.zip
+[21:11:32.591][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage3_2a6dfe8c11621b84b75182a584194b12_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage31.0.02a6dfe8c11621b84b75182a584194b12171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:32.634][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_hit_spark_default.astc  is astc
+[21:11:32.887][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_qiyoutong_move.astc  is astc
+[21:11:32.890][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_skill_surround_up.astc  is astc
+[21:11:32.893][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_skill_surround_down.astc  is astc
+[21:11:33.036][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage51.0.04096c82683aa7dc7f5d789674211b6ed171.zip
+[21:11:33.130][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage6_204b4a01f42a2d401c66288c90bbc51e_android.zip
+[21:11:33.130][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage5_4096c82683aa7dc7f5d789674211b6ed_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage51.0.04096c82683aa7dc7f5d789674211b6ed171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:33.194][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage41.0.0724a4632c7e7c1933fd1ce6b55df0ba7171.zip
+[21:11:33.242][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage7_8e0d934b8343a33fe5dbd2ff1ff5f8fa_android.zip
+[21:11:33.242][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage4_724a4632c7e7c1933fd1ce6b55df0ba7_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage41.0.0724a4632c7e7c1933fd1ce6b55df0ba7171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:33.711][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage61.0.0204b4a01f42a2d401c66288c90bbc51e171.zip
+[21:11:33.777][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage8_bbd07179f525f86d6c17bc6597ac1b57_android.zip
+[21:11:33.778][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage6_204b4a01f42a2d401c66288c90bbc51e_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage61.0.0204b4a01f42a2d401c66288c90bbc51e171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:33.914][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage71.0.08e0d934b8343a33fe5dbd2ff1ff5f8fa171.zip
+[21:11:34.007][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage9_10eea63b769f329395ab2c1e46084930_android.zip
+[21:11:34.007][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage7_8e0d934b8343a33fe5dbd2ff1ff5f8fa_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage71.0.08e0d934b8343a33fe5dbd2ff1ff5f8fa171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:34.148][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage81.0.0bbd07179f525f86d6c17bc6597ac1b57171.zip
+[21:11:34.237][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage10_9d68a4146ff833e1e14ef4b4783cd501_android.zip
+[21:11:34.237][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage8_bbd07179f525f86d6c17bc6597ac1b57_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage81.0.0bbd07179f525f86d6c17bc6597ac1b57171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:34.479][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage91.0.310eea63b769f329395ab2c1e46084930171.zip
+[21:11:34.566][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB1_2e0efc056e76d6fbd97112ca33a8b775_android.zip
+[21:11:34.566][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage9_10eea63b769f329395ab2c1e46084930_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage91.0.310eea63b769f329395ab2c1e46084930171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:34.585][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage101.0.89d68a4146ff833e1e14ef4b4783cd501171.zip
+[21:11:34.672][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB2_f59e74e85ca6d13bcaf1f3523e8259dc_android.zip
+[21:11:34.672][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_Fb_DecorateImage10_9d68a4146ff833e1e14ef4b4783cd501_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_Fb_DecorateImage101.0.89d68a4146ff833e1e14ef4b4783cd501171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:35.135][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB11.0.02e0efc056e76d6fbd97112ca33a8b775171.zip
+[21:11:35.222][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB3_209b34b89cbeb4a6ea0bdc2d31473b7b_android.zip
+[21:11:35.223][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB4_f1e2cf056e8fbd4b8b5f350760352315_android.zip
+[21:11:35.224][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB1_2e0efc056e76d6fbd97112ca33a8b775_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB11.0.02e0efc056e76d6fbd97112ca33a8b775171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:35.262][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB21.0.0f59e74e85ca6d13bcaf1f3523e8259dc171.zip
+[21:11:35.330][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB2_f59e74e85ca6d13bcaf1f3523e8259dc_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB21.0.0f59e74e85ca6d13bcaf1f3523e8259dc171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:35.792][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB31.0.0209b34b89cbeb4a6ea0bdc2d31473b7b171.zip
+[21:11:35.877][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB5_4e74be07d9034195e0efee39960636e0_android.zip
+[21:11:35.878][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB6_21f78171bf49eabeacd89856740959e2_android.zip
+[21:11:35.878][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB3_209b34b89cbeb4a6ea0bdc2d31473b7b_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB31.0.0209b34b89cbeb4a6ea0bdc2d31473b7b171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:35.897][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB41.0.0f1e2cf056e8fbd4b8b5f350760352315171.zip
+[21:11:35.990][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB4_f1e2cf056e8fbd4b8b5f350760352315_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB41.0.0f1e2cf056e8fbd4b8b5f350760352315171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:36.341][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB61.0.021f78171bf49eabeacd89856740959e2171.zip
+[21:11:36.428][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB7_d7bc34b76af34dab7f9574cc1ff7341b_android.zip
+[21:11:36.429][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB6_21f78171bf49eabeacd89856740959e2_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB61.0.021f78171bf49eabeacd89856740959e2171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:36.448][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB51.0.04e74be07d9034195e0efee39960636e0171.zip
+[21:11:36.545][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB8_9390c84fcbe44f2e469e46f20d9a2102_android.zip
+[21:11:36.545][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB5_4e74be07d9034195e0efee39960636e0_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB51.0.04e74be07d9034195e0efee39960636e0171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:36.893][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB71.0.0d7bc34b76af34dab7f9574cc1ff7341b171.zip
+[21:11:37.179][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB9_ecf5109bf6d5565c00712b13267b5419_android.zip
+[21:11:37.180][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB7_d7bc34b76af34dab7f9574cc1ff7341b_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB71.0.0d7bc34b76af34dab7f9574cc1ff7341b171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:37.216][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB81.0.09390c84fcbe44f2e469e46f20d9a2102171.zip
+[21:11:37.861][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB10_5d8223487ca5938c610e1071b3855fb4_android.zip
+[21:11:37.862][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB8_9390c84fcbe44f2e469e46f20d9a2102_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB81.0.09390c84fcbe44f2e469e46f20d9a2102171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:37.872][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB11_33851ab940e61ada06ebe1aa2262fe38_android.zip
+[21:11:37.892][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB91.0.0ecf5109bf6d5565c00712b13267b5419171.zip
+[21:11:37.985][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB9_ecf5109bf6d5565c00712b13267b5419_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB91.0.0ecf5109bf6d5565c00712b13267b5419171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:38.354][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB101.0.05d8223487ca5938c610e1071b3855fb4171.zip
+[21:11:38.449][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB12_84fd51b07965d57c2e4228970494ee9c_android.zip
+[21:11:38.449][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB13_2889573e36cadcd8e1c3518ab4742c80_android.zip
+[21:11:38.449][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB10_5d8223487ca5938c610e1071b3855fb4_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB101.0.05d8223487ca5938c610e1071b3855fb4171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:38.469][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB111.0.033851ab940e61ada06ebe1aa2262fe38171.zip
+[21:11:38.555][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB11_33851ab940e61ada06ebe1aa2262fe38_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB111.0.033851ab940e61ada06ebe1aa2262fe38171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:38.938][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB121.0.084fd51b07965d57c2e4228970494ee9c171.zip
+[21:11:39.027][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB14_7f40dd844c7d68205a93cb6c4c4d0301_android.zip
+[21:11:39.028][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB15_9bd3e357318b6c1b6014680ed230a31d_android.zip
+[21:11:39.028][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB12_84fd51b07965d57c2e4228970494ee9c_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB121.0.084fd51b07965d57c2e4228970494ee9c171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:39.047][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB131.0.02889573e36cadcd8e1c3518ab4742c80171.zip
+[21:11:39.135][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB13_2889573e36cadcd8e1c3518ab4742c80_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB131.0.02889573e36cadcd8e1c3518ab4742c80171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:39.487][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB141.0.07f40dd844c7d68205a93cb6c4c4d0301171.zip
+[21:11:39.676][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_qiyoutong_die.astc  is astc
+[21:11:39.683][91671cf0]() [LOG]--------------- TowerDefense/spine_TD_tuowei.astc  is astc
+[21:11:39.689][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB16_3fb510763f22e727554057ee0d0f41b2_android.zip
+[21:11:39.689][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB17_7c0b3d449e5b3e2fac467562df47fc05_android.zip
+[21:11:39.689][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB14_7f40dd844c7d68205a93cb6c4c4d0301_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB141.0.07f40dd844c7d68205a93cb6c4c4d0301171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:39.733][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB151.0.09bd3e357318b6c1b6014680ed230a31d171.zip
+[21:11:39.833][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB15_9bd3e357318b6c1b6014680ed230a31d_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB151.0.09bd3e357318b6c1b6014680ed230a31d171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:40.207][91671cf0]() [LOG][LUA-print] loadGunByType	101
+[21:11:40.212][91671cf0]() [LOG]Cast name CCLabelIF doesn't include modular name which it belongs to,please add the modular name
+[21:11:40.214][91671cf0]() [LOG]--------------- TowerDefense/spine_TD_tubiao.astc  is astc
+[21:11:40.216][91671cf0]() [LOG]--------------- TowerDefense/spine_TD_shengji.astc  is astc
+[21:11:40.224][91671cf0]() [LOG]--------------- TowerDefense/lua_spine_bullet.astc  is astc
+[21:11:40.228][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB171.0.07c0b3d449e5b3e2fac467562df47fc05171.zip
+[21:11:40.290][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB18_16fe65ff2be26bc5d288ce254050086d_android.zip
+[21:11:40.290][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB17_7c0b3d449e5b3e2fac467562df47fc05_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB171.0.07c0b3d449e5b3e2fac467562df47fc05171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:40.329][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB161.0.03fb510763f22e727554057ee0d0f41b2171.zip
+[21:11:40.390][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB19_8e8f4f591878ba5581e4c76d0d084655_android.zip
+[21:11:40.391][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB16_3fb510763f22e727554057ee0d0f41b2_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB161.0.03fb510763f22e727554057ee0d0f41b2171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:40.751][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB181.0.016fe65ff2be26bc5d288ce254050086d171.zip
+[21:11:40.848][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB20_fb92d3e5a67358508909ca7db74815bf_android.zip
+[21:11:40.848][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB18_16fe65ff2be26bc5d288ce254050086d_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB181.0.016fe65ff2be26bc5d288ce254050086d171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:40.866][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB191.0.08e8f4f591878ba5581e4c76d0d084655171.zip
+[21:11:40.952][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB21_f0b385a9829723c7dcd9b785460e8ee4_android.zip
+[21:11:40.953][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB19_8e8f4f591878ba5581e4c76d0d084655_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB191.0.08e8f4f591878ba5581e4c76d0d084655171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:41.318][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB201.0.0fb92d3e5a67358508909ca7db74815bf171.zip
+[21:11:41.409][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB22_36b4a39033f59e8f49bf5d3957541896_android.zip
+[21:11:41.410][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB20_fb92d3e5a67358508909ca7db74815bf_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB201.0.0fb92d3e5a67358508909ca7db74815bf171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:41.425][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB211.0.0f0b385a9829723c7dcd9b785460e8ee4171.zip
+[21:11:41.520][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB23_57e500af47f6bdd122cdd3157c8f674e_android.zip
+[21:11:41.520][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB21_f0b385a9829723c7dcd9b785460e8ee4_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB211.0.0f0b385a9829723c7dcd9b785460e8ee4171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:41.861][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB221.0.036b4a39033f59e8f49bf5d3957541896171.zip
+[21:11:41.964][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB24_c0d3065fb6e7feb698a2bbe88e730633_android.zip
+[21:11:41.964][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB22_36b4a39033f59e8f49bf5d3957541896_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB221.0.036b4a39033f59e8f49bf5d3957541896171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:41.979][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB231.0.057e500af47f6bdd122cdd3157c8f674e171.zip
+[21:11:42.064][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB25_ea1043e425fe5980c7d03a01c4c58bc6_android.zip
+[21:11:42.064][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB23_57e500af47f6bdd122cdd3157c8f674e_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB231.0.057e500af47f6bdd122cdd3157c8f674e171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:42.448][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB251.0.0ea1043e425fe5980c7d03a01c4c58bc6171.zip
+[21:11:42.530][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB26_153d308d7e80dbe5b83be829b22022a3_android.zip
+[21:11:42.530][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB27_cd83f89e545e987e4cf72bc9666ab69f_android.zip
+[21:11:42.530][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB25_ea1043e425fe5980c7d03a01c4c58bc6_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB251.0.0ea1043e425fe5980c7d03a01c4c58bc6171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:42.550][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB241.0.1c0d3065fb6e7feb698a2bbe88e730633171.zip
+[21:11:42.636][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB24_c0d3065fb6e7feb698a2bbe88e730633_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB241.0.1c0d3065fb6e7feb698a2bbe88e730633171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:42.999][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB261.0.0153d308d7e80dbe5b83be829b22022a3171.zip
+[21:11:43.099][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB28_ad71ec934741487a618db2ac6b0cbd4b_android.zip
+[21:11:43.099][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB29_3e81c03f9f7c05ca5c77375422c6c202_android.zip
+[21:11:43.099][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB26_153d308d7e80dbe5b83be829b22022a3_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB261.0.0153d308d7e80dbe5b83be829b22022a3171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:43.115][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB271.0.0cd83f89e545e987e4cf72bc9666ab69f171.zip
+[21:11:43.202][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB27_cd83f89e545e987e4cf72bc9666ab69f_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB271.0.0cd83f89e545e987e4cf72bc9666ab69f171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:43.566][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB291.0.03e81c03f9f7c05ca5c77375422c6c202171.zip
+[21:11:43.654][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB30_0272d805338570ec8a1114ce76901c2d_android.zip
+[21:11:43.654][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB29_3e81c03f9f7c05ca5c77375422c6c202_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB291.0.03e81c03f9f7c05ca5c77375422c6c202171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:43.679][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB281.0.0ad71ec934741487a618db2ac6b0cbd4b171.zip
+[21:11:43.768][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB31_7ca3f1a4931d1f9004380e84fb2d8aa7_android.zip
+[21:11:43.768][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB28_ad71ec934741487a618db2ac6b0cbd4b_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB281.0.0ad71ec934741487a618db2ac6b0cbd4b171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:44.138][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB301.0.00272d805338570ec8a1114ce76901c2d171.zip
+[21:11:44.218][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB32_33c974619119ee73a6d449b87e5bf9fb_android.zip
+[21:11:44.221][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB30_0272d805338570ec8a1114ce76901c2d_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB301.0.00272d805338570ec8a1114ce76901c2d171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:44.253][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB311.0.07ca3f1a4931d1f9004380e84fb2d8aa7171.zip
+[21:11:44.329][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB33_2c9bdbc45f44e54dc4be9cbce9e87021_android.zip
+[21:11:44.329][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB31_7ca3f1a4931d1f9004380e84fb2d8aa7_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB311.0.07ca3f1a4931d1f9004380e84fb2d8aa7171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:44.802][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB331.0.02c9bdbc45f44e54dc4be9cbce9e87021171.zip
+[21:11:44.887][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB34_7a720f26dfa9469fea86def2cb9129eb_android.zip
+[21:11:44.887][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB35_76f09a53ce227778c377e61861c5652d_android.zip
+[21:11:44.887][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB33_2c9bdbc45f44e54dc4be9cbce9e87021_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB331.0.02c9bdbc45f44e54dc4be9cbce9e87021171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:44.906][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB321.0.033c974619119ee73a6d449b87e5bf9fb171.zip
+[21:11:44.994][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB32_33c974619119ee73a6d449b87e5bf9fb_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB321.0.033c974619119ee73a6d449b87e5bf9fb171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:45.340][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB341.0.07a720f26dfa9469fea86def2cb9129eb171.zip
+[21:11:45.419][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB36_c2d5c5cedf8dcaaae4167527f6bc6d7e_android.zip
+[21:11:45.419][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB34_7a720f26dfa9469fea86def2cb9129eb_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB341.0.07a720f26dfa9469fea86def2cb9129eb171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:45.439][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB351.0.076f09a53ce227778c377e61861c5652d171.zip
+[21:11:45.546][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB37_90e0c40417e5514af46ddf9b7956b611_android.zip
+[21:11:45.547][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB35_76f09a53ce227778c377e61861c5652d_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB351.0.076f09a53ce227778c377e61861c5652d171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:45.683][91671cf0]() [LOG][LUA-print] loadGunByType	101
+[21:11:45.876][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB361.0.0c2d5c5cedf8dcaaae4167527f6bc6d7e171.zip
+[21:11:45.967][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB38_91d877305cb3bef637cf203696383a42_android.zip
+[21:11:45.967][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB36_c2d5c5cedf8dcaaae4167527f6bc6d7e_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB361.0.0c2d5c5cedf8dcaaae4167527f6bc6d7e171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:46.082][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB371.0.090e0c40417e5514af46ddf9b7956b611171.zip
+[21:11:46.168][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB39_726acbf92a2de478d611e8c23d885184_android.zip
+[21:11:46.168][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB37_90e0c40417e5514af46ddf9b7956b611_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB371.0.090e0c40417e5514af46ddf9b7956b611171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:46.448][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB381.0.091d877305cb3bef637cf203696383a42171.zip
+[21:11:46.490][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB40_be9a2b57ac60e82fa6f9c48488ca2ee4_android.zip
+[21:11:46.490][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB38_91d877305cb3bef637cf203696383a42_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB381.0.091d877305cb3bef637cf203696383a42171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:46.634][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB391.0.0726acbf92a2de478d611e8c23d885184171.zip
+[21:11:46.720][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB41_c81ed8ec38a5c73e669a92cca2b13af4_android.zip
+[21:11:46.720][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB39_726acbf92a2de478d611e8c23d885184_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB391.0.0726acbf92a2de478d611e8c23d885184171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:46.855][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB401.0.0be9a2b57ac60e82fa6f9c48488ca2ee4171.zip
+[21:11:46.966][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB42_6b950dd254cf8f6bc60e7bab80df8e99_android.zip
+[21:11:46.966][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB40_be9a2b57ac60e82fa6f9c48488ca2ee4_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB401.0.0be9a2b57ac60e82fa6f9c48488ca2ee4171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:47.075][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB411.0.0c81ed8ec38a5c73e669a92cca2b13af4171.zip
+[21:11:47.176][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB43_7f3ccdac50e8633232343422eae52bf2_android.zip
+[21:11:47.176][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB41_c81ed8ec38a5c73e669a92cca2b13af4_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB411.0.0c81ed8ec38a5c73e669a92cca2b13af4171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:47.295][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB421.0.06b950dd254cf8f6bc60e7bab80df8e99171.zip
+[21:11:47.383][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB44_fe7ec8ce6ce42c555ab4c397ea7b8c87_android.zip
+[21:11:47.383][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB42_6b950dd254cf8f6bc60e7bab80df8e99_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB421.0.06b950dd254cf8f6bc60e7bab80df8e99171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:47.597][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB431.0.07f3ccdac50e8633232343422eae52bf2171.zip
+[21:11:47.704][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB45_8fb3610ab80be98b0036e113ce52ea2b_android.zip
+[21:11:47.714][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB43_7f3ccdac50e8633232343422eae52bf2_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB431.0.07f3ccdac50e8633232343422eae52bf2171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:47.724][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB441.0.0fe7ec8ce6ce42c555ab4c397ea7b8c87171.zip
+[21:11:47.818][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB46_8cbc9a6fe61e2ae2396d7c2a6f5d1c27_android.zip
+[21:11:47.819][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB44_fe7ec8ce6ce42c555ab4c397ea7b8c87_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB441.0.0fe7ec8ce6ce42c555ab4c397ea7b8c87171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:48.174][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB451.0.08fb3610ab80be98b0036e113ce52ea2b171.zip
+[21:11:48.270][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB47_cd1354443bb4f17105a2c5df5e09d36c_android.zip
+[21:11:48.270][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB45_8fb3610ab80be98b0036e113ce52ea2b_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB451.0.08fb3610ab80be98b0036e113ce52ea2b171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:48.291][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB461.0.08cbc9a6fe61e2ae2396d7c2a6f5d1c27171.zip
+[21:11:48.377][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB48_3b342515d14be0b61e5f8f3e3036051d_android.zip
+[21:11:48.377][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB46_8cbc9a6fe61e2ae2396d7c2a6f5d1c27_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB461.0.08cbc9a6fe61e2ae2396d7c2a6f5d1c27171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:48.751][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB471.0.0cd1354443bb4f17105a2c5df5e09d36c171.zip
+[21:11:48.828][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB49_cbcc6abb02bfbef9ae4e034bdc0ab0e6_android.zip
+[21:11:48.828][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB47_cd1354443bb4f17105a2c5df5e09d36c_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB471.0.0cd1354443bb4f17105a2c5df5e09d36c171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:48.849][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB481.0.03b342515d14be0b61e5f8f3e3036051d171.zip
+[21:11:48.945][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB50_067c8f3912db4f992253c244b70dec88_android.zip
+[21:11:48.945][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB48_3b342515d14be0b61e5f8f3e3036051d_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB481.0.03b342515d14be0b61e5f8f3e3036051d171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:49.289][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB491.0.0cbcc6abb02bfbef9ae4e034bdc0ab0e6171.zip
+[21:11:49.379][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB51_ea0a314f80bffab6728e49505f3d8058_android.zip
+[21:11:49.379][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB49_cbcc6abb02bfbef9ae4e034bdc0ab0e6_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB491.0.0cbcc6abb02bfbef9ae4e034bdc0ab0e6171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:49.399][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB501.0.0067c8f3912db4f992253c244b70dec88171.zip
+[21:11:49.493][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB52_5c9723621cfc6034a4a7a78e17d43f7c_android.zip
+[21:11:49.493][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB50_067c8f3912db4f992253c244b70dec88_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB501.0.0067c8f3912db4f992253c244b70dec88171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:49.765][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB511.0.0ea0a314f80bffab6728e49505f3d8058171.zip
+[21:11:49.850][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB53_62ef4d544bcddfee1867d02619982b84_android.zip
+[21:11:49.850][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB51_ea0a314f80bffab6728e49505f3d8058_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB511.0.0ea0a314f80bffab6728e49505f3d8058171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:49.863][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB521.0.05c9723621cfc6034a4a7a78e17d43f7c171.zip
+[21:11:49.958][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB54_421a5c13c8c57e8c7283dd4af31b9fc0_android.zip
+[21:11:49.958][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB52_5c9723621cfc6034a4a7a78e17d43f7c_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB521.0.05c9723621cfc6034a4a7a78e17d43f7c171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:50.288][91671cf0]() [LOG][LUA-print] 300
+[21:11:50.327][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB531.0.062ef4d544bcddfee1867d02619982b84171.zip
+[21:11:50.415][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB55_17777e2db540dffdafdab2857199b6d1_android.zip
+[21:11:50.415][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB53_62ef4d544bcddfee1867d02619982b84_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB531.0.062ef4d544bcddfee1867d02619982b84171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:50.447][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB541.0.0421a5c13c8c57e8c7283dd4af31b9fc0171.zip
+[21:11:50.675][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB56_235fb849ef37f3417074753c4336bd22_android.zip
+[21:11:50.676][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB54_421a5c13c8c57e8c7283dd4af31b9fc0_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB541.0.0421a5c13c8c57e8c7283dd4af31b9fc0171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:50.984][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB561.0.0235fb849ef37f3417074753c4336bd22171.zip
+[21:11:52.473][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB57_7e92a07b659b3ecff5b2d291fd120fd8_android.zip
+[21:11:52.473][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB58_6b9e4d55d5b7bead36cc32c0b1359c1b_android.zip
+[21:11:52.473][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB56_235fb849ef37f3417074753c4336bd22_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB561.0.0235fb849ef37f3417074753c4336bd22171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:52.492][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB551.0.017777e2db540dffdafdab2857199b6d1171.zip
+[21:11:52.576][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB55_17777e2db540dffdafdab2857199b6d1_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB551.0.017777e2db540dffdafdab2857199b6d1171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:52.790][91671cf0]() [LOG]CCJSONConverter encountered an unrecognized type
+[21:11:52.972][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB571.0.07e92a07b659b3ecff5b2d291fd120fd8171.zip
+[21:11:53.062][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB59_903783423729c33eaf52ded9ee5ba222_android.zip
+[21:11:53.063][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB60_693f3db64727f8e5a21bcfcd3ac74b0e_android.zip
+[21:11:53.063][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB57_7e92a07b659b3ecff5b2d291fd120fd8_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB571.0.07e92a07b659b3ecff5b2d291fd120fd8171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:53.071][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB581.0.06b9e4d55d5b7bead36cc32c0b1359c1b171.zip
+[21:11:53.172][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB58_6b9e4d55d5b7bead36cc32c0b1359c1b_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB581.0.06b9e4d55d5b7bead36cc32c0b1359c1b171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:53.441][91671cf0]() [LOG]--------------- TowerDefense/spine_TD_tuowei.astc  is astc
+[21:11:53.523][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB591.0.0903783423729c33eaf52ded9ee5ba222171.zip
+[21:11:53.604][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB61_a621fc73ed0a0baa20462ff02b4d801d_android.zip
+[21:11:53.604][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB62_5060bb96f2eee790a11535a7f5520daf_android.zip
+[21:11:53.604][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB59_903783423729c33eaf52ded9ee5ba222_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB591.0.0903783423729c33eaf52ded9ee5ba222171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:53.619][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB601.0.0693f3db64727f8e5a21bcfcd3ac74b0e171.zip
+[21:11:53.715][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB60_693f3db64727f8e5a21bcfcd3ac74b0e_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB601.0.0693f3db64727f8e5a21bcfcd3ac74b0e171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:53.972][91671cf0]() [LOG][LUA-print] loadGunByType	101
+[21:11:54.081][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB611.0.0a621fc73ed0a0baa20462ff02b4d801d171.zip
+[21:11:54.163][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB63_733feba681194668b8a9588b8ab663bf_android.zip
+[21:11:54.164][91671cf0]() [LOG]DRNew [Start] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB64_5dca1e51967e065568f199648a5b9e32_android.zip
+[21:11:54.164][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB61_a621fc73ed0a0baa20462ff02b4d801d_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB611.0.0a621fc73ed0a0baa20462ff02b4d801d171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
+[21:11:54.175][91671cf0]() [LOG]FileUtils::removeFile /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB621.0.05060bb96f2eee790a11535a7f5520daf171.zip
+[21:11:54.268][91671cf0]() [LOG]DRNew [Success] url: http://cdn.im30app.com/lastshelter/cdn/dr_heros_FB62_5060bb96f2eee790a11535a7f5520daf_android.zip zip: /data/user/0/com.more.dayzsurvival.gp/files/tmpZR_heros_FB621.0.05060bb96f2eee790a11535a7f5520daf171.zip unzipdir: /data/user/0/com.more.dayzsurvival.gp/files/
