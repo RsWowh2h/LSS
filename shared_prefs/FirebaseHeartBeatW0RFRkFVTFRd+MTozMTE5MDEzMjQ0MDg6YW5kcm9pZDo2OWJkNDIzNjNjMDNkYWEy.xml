@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="fire-count" value="1" />
+    <string name="last-used-date">2025-10-19</string>
+    <long name="fire-global" value="1760897409571" />
+    <set name="fire-installations/18.0.0 device-model/p3s fire-rc/22.1.0 fire-abt/21.1.1 device-brand/samsung fire-android/33 fire-iid/21.1.0 android-installer/com.android.vending fire-core/21.0.0 fire-cls-ndk/19.4.0 fire-core-ktx/21.0.0 fire-analytics/22.2.0 android-min-sdk/21 android-platform/ fire-fcm/24.1.0 fire-sessions/2.0.8 android-target-sdk/35 fire-transport/19.0.0 kotlin/1.9.0 fire-cls/19.4.0 device-name/p3sxxx">
+        <string>2025-10-19</string>
+    </set>
+</map>

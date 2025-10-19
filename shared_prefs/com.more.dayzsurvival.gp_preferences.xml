@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="com.facebook.appevents.SessionInfo.sessionStartTime" value="1760897411919" />
+    <long name="com.facebook.appevents.SessionInfo.sessionEndTime" value="1760897427366" />
+    <int name="com.facebook.appevents.SessionInfo.interruptionCount" value="1" />
+    <long name="FIRST_LAUNCH" value="1760897411858" />
+    <string name="com.facebook.appevents.SessionInfo.sessionId">297a45ef-0b57-4277-9d09-b8fbb11588bd</string>
+</map>
