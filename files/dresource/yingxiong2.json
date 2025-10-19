@@ -1,0 +1,112 @@
+{
+"skeleton": { "hash": "WajHfUjQzhZj1u/mVRbc38rPjnM", "spine": "3.7.94", "width": 400, "height": 400, "images": "C:/Users/Administrator/Desktop/英雄降临/英雄降临/英雄降临2/image", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" }
+],
+"slots": [
+	{ "name": "touxiang0", "bone": "bone", "attachment": "touxiang0", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"touxiang0": {
+			"touxiang0": { "width": 400, "height": 400 },
+			"touxiang1": { "width": 400, "height": 400 },
+			"touxiang2": { "width": 400, "height": 400 },
+			"touxiang3": { "width": 400, "height": 400 },
+			"touxiang4": { "width": 400, "height": 400 },
+			"touxiang5": { "width": 400, "height": 400 },
+			"touxiang6": { "width": 400, "height": 400 },
+			"touxiang7": { "width": 400, "height": 400 },
+			"touxiang8": { "width": 400, "height": 400 },
+			"touxiang9": { "width": 400, "height": 400 },
+			"touxiang10": { "width": 400, "height": 400 },
+			"touxiang11": { "width": 400, "height": 400 },
+			"touxiang12": { "width": 400, "height": 400 },
+			"touxiang13": { "width": 400, "height": 400 },
+			"touxiang14": { "width": 400, "height": 400 },
+			"touxiang15": { "width": 400, "height": 400 },
+			"touxiang16": { "width": 400, "height": 400 },
+			"touxiang17": { "width": 400, "height": 400 },
+			"touxiang18": { "width": 400, "height": 400 },
+			"touxiang19": { "width": 400, "height": 400 },
+			"touxiang20": { "width": 400, "height": 400 },
+			"touxiang21": { "width": 400, "height": 400 },
+			"touxiang22": { "width": 400, "height": 400 },
+			"touxiang23": { "width": 400, "height": 400 },
+			"touxiang24": { "width": 400, "height": 400 },
+			"touxiang25": { "width": 400, "height": 400 },
+			"touxiang26": { "width": 400, "height": 400 },
+			"touxiang27": { "width": 400, "height": 400 },
+			"touxiang28": { "width": 400, "height": 400 },
+			"touxiang29": { "width": 400, "height": 400 },
+			"touxiang30": { "width": 400, "height": 400 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"touxiang0": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "touxiang0" },
+					{ "time": 0.0667, "name": "touxiang1" },
+					{ "time": 0.1333, "name": "touxiang2" },
+					{ "time": 0.2, "name": "touxiang3" },
+					{ "time": 0.2667, "name": "touxiang4" },
+					{ "time": 0.3333, "name": "touxiang5" },
+					{ "time": 0.4, "name": "touxiang6" },
+					{ "time": 0.4667, "name": "touxiang7" },
+					{ "time": 0.5333, "name": "touxiang8" },
+					{ "time": 0.6, "name": "touxiang9" },
+					{ "time": 0.6667, "name": "touxiang10" },
+					{ "time": 0.7333, "name": "touxiang11" },
+					{ "time": 0.8, "name": "touxiang12" },
+					{ "time": 0.8667, "name": "touxiang13" },
+					{ "time": 0.9333, "name": "touxiang14" },
+					{ "time": 1, "name": "touxiang15" },
+					{ "time": 1.0667, "name": "touxiang16" },
+					{ "time": 1.1333, "name": "touxiang17" },
+					{ "time": 1.2, "name": "touxiang18" },
+					{ "time": 1.2667, "name": "touxiang19" },
+					{ "time": 1.3333, "name": "touxiang20" },
+					{ "time": 1.4, "name": "touxiang21" },
+					{ "time": 1.4667, "name": "touxiang22" },
+					{ "time": 1.5333, "name": "touxiang23" },
+					{ "time": 1.6, "name": "touxiang24" },
+					{ "time": 1.6667, "name": "touxiang25" },
+					{ "time": 1.7333, "name": "touxiang26" },
+					{ "time": 1.8, "name": "touxiang27" },
+					{ "time": 1.8667, "name": "touxiang28" },
+					{ "time": 1.9333, "name": "touxiang29" },
+					{ "time": 2, "name": "touxiang30" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}
